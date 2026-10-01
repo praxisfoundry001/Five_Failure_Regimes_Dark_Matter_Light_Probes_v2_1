@@ -1,0 +1,734 @@
+﻿Five Failure Regimes in Dark-Matter Light Probes:
+An Open-Source Pre-Result Demonstration Protocol
+1. Introduction: From a Calibration Surface to a Direct Dark-Matter Test
+Dark matter is inferred observationally through its gravitational effects, while its physical nature remains unresolved. Gravitational lensing is especially useful in this setting because the light from background sources responds to the intervening gravitational field and therefore carries information about projected matter distributions, including structure that is not traced directly by luminous matter. Weak-lensing measurements can be used to reconstruct projected mass distributions in and around clusters, while strong-lensing observables are sensitive to the abundance, concentration, and spatial distribution of dark-matter structures along the line of sight.[1] The present proposal uses that familiar physical fact in a deliberately conservative way: it does not introduce a new force, modify photon propagation, or alter the gravitational-lensing equations. It asks whether a structural classification derived independently of the lensing target can make useful, falsifiable predictions about the dark-matter source distributions that ordinary gravitational physics subsequently maps into light.
+The five-way classification tested here was derived within Structural Flow (SF), a framework that separates several conditions required for an interaction-produced physical difference to remain available and participate downstream. In this experiment, SF contributes the classification and the pre-result organization of the test. It does not provide the dark-matter dynamics, the gravitational field equations, or the propagation law for light. Those remain ordinary physics. The experimental question is therefore not whether SF can replace a physical model, but whether its independently derived partition identifies physically useful distinctions before the probe result is known.
+This experiment develops a line of work begun in Optical Signatures of Structural Failure Regimes, which proposed an immiscible-fluid calibration surface for a larger dark-matter-facing prediction program.[2] That earlier artifact was intentionally indirect. Its immediate question was whether independently classified failure regimes could produce distinguishable optical measurement families in a visible, controllable material system. Dark matter was the long-range target rather than the immediate experimental object. The calibration surface was not presented as cosmological dark matter, and a successful laboratory calibration would not by itself have established any dark-matter result.
+The present proposal moves the experimental burden closer to the physical target. Instead of using a material analogue to calibrate a general optical grammar and then projecting that grammar toward cosmology, it begins with independently warranted dark-matter physical structures and asks how specific physical participation routes succeed or fail. The structural classification is assigned before the held-out light result is examined. A physically derived source consequence is then passed through ordinary gravitational modeling to obtain a probe prediction. The experiment therefore moves from:
+dark-matter physical state
+→ independently classified route
+→ predicted source consequence
+→ ordinary gravitational propagation
+→ held-out light observable.
+The change is significant. A first-break classification is no longer treated as an observational morphology. Dissolution is not defined by a diffuse image, Shear by fragmentation, Drift by a visible offset, Echo by recurrence, or Lock by hysteresis. Those visual or statistical behaviors may become consequences of particular physical realizations, but only after the relevant source relation has been derived. This ordering follows the upstream dark-matter classification, which explicitly separates structural first break from physical source expression, probe consequence, and measurable prediction.[3]
+The hypothesis tested here is correspondingly narrow. For a declared dark-matter-facing physical route whose success can be assessed independently, the proposal asks whether the route’s irreducible first break can be classified as Dissolution, Shear, Drift, Echo, or Lock, and whether the physically instantiated branches yield pre-registered source and light-probe predictions. The number five refers to this structural first-break partition. It is not a prediction that a telescope should find five image morphologies, five clusters in a feature space, or one observable pattern per regime. A single regime may admit several physical realizations and several observable subfamilies; different regimes may also become difficult to distinguish after projection, measurement, or mixture.
+The experiment is also designed so that ordinary physics can absorb the result. If a classification reproduces a pattern already predicted equally well by a strong ordinary-physics model, that outcome is not counted as incremental SF predictive utility. The ordinary comparator is frozen before target inspection and receives the same pre-target physical information. If the held-out branch prediction itself succeeds but the ordinary comparator ties it, the result can still document independent derivational convergence on the same physical regularity; it does not show that SF added predictive information. Conversely, a branch may fail at the physicalization, source, probe, measurement, or baseline-comparison stage without requiring the entire upstream framework to be discarded. The level contradicted by the experiment is the level revised.
+The objective is therefore not to protect a five-part vocabulary. It is to expose a proposed physical partition to a sequence of physical tests stringent enough that ordinary modeling, mixture, measurement limits, or a genuinely unrepresented failure can defeat the relevant claim. The complete protocol is intended for open-source release so that the scientific execution can be performed independently of the author.
+2. Scope: Demonstration, Not Exhaustion
+The proposed experiment is a demonstration over declared physical domains. It is not an attempt to exhaust every dark-matter realization in the universe, every dark-matter model, every astrophysical environment, or every possible observational scale. That distinction is substantive rather than rhetorical. Any actual execution must specify in advance the physical model family, parameter range, simulated or observed population, measurement sensitivity, nuisance model, and route scale to which its result applies. A completed execution can support the bounded statement that the five-regime architecture survived the physical pressure represented by its registered domain only if the relevant closure test was actually placed under that pressure and did not return CLOSURE SUSPENDED or FR₆ EARNED. It cannot establish that no untested dark-matter state elsewhere in nature could ever require a different description.
+This bounded posture remains in force even if future public surveys provide vastly larger samples of gravitational lenses, mergers, subhalos, or other dark-matter-sensitive systems. Larger and better data can widen the domain placed under pressure, reduce statistical uncertainty, expose rarer configurations, and improve the search for residual structure. They cannot convert finite empirical coverage into logical exhaustion. The protocol is deliberately reusable so that new survey data can be admitted under new, pre-registered executions without changing the meaning of earlier results.
+The same discipline applies within a single execution. The protocol does not assume that all five regimes are realized by nature, realized in equal proportions, or accessible with the same probe. Echo, for example, remains a valid member of the structural first-break partition but currently has no earned positive dark-matter physicalization in the local particle/field domain used by this program. Lock has a conditional theoretical and synthetic-light route but is not yet authorized as a clean real-observation branch. The initial executable demonstration can therefore concentrate on branches whose physical states can be independently established without pretending that the absent branches have been empirically tested.
+Nor does the proposal assume that a real lensing aperture contains a pure structural regime. Astrophysical observations integrate matter along a line of sight and may combine host-halo structure, substructure, baryons, foreground and background perturbers, multiple dark-matter routes, and instrumental or reconstruction effects. Lensing analyses themselves must contend with degeneracies and systematic uncertainties, and the same projected observable can receive contributions from multiple structures.[4] For that reason, the default observational status in this proposal is mixed or unresolved. Purity is a result that has to be earned under a calibrated contribution rule, not an assumption made because a target looks clean.
+The experiment is therefore scoped at two levels. At the protocol level, this artifact specifies how an independent executor must define and freeze a valid test. At the execution level, the executor chooses a physically warranted domain and commits to its exact boundaries before inspecting the held-out target. The protocol does not prescribe a single universal dark-matter cross section, halo mass, merger geometry, orbital history, lens redshift, or image statistic. Those are ordinary physical and experimental choices that depend on the implementation. What the protocol requires is that the choices governing classification and prediction be made on non-target information and remain fixed for the confirmatory test.
+A negative result is interpreted at the narrowest layer directly contradicted by the evidence. If a proposed SIDM realization does not actually instantiate the registered structural class, the physicalization claim fails. If the class is clean but the predicted source consequence does not appear, the branch’s source bridge fails. If the source consequence is present but ordinary gravitational modeling does not produce the pre-registered light consequence, the probe bridge fails. If the truth-level light consequence exists but cannot be recovered under the declared measurement conditions, the measurement claim fails. If the SF representation and the ordinary-physics baseline perform equally well, no incremental SF predictive utility is earned. Only a residual that reaches the structural classification itself can place direct pressure on the five-regime closure.
+The project reported here stops before those empirical outcomes. Its deliverable is the open-source experimental specification required for another group to perform the scientific execution. The simulations, numerical calibrations, target unblinding, real-data analysis, and empirical result belong to that future execution. Optional toy examples may be used to verify that the released workflow is mechanically runnable, but such examples are not scientific evidence for the dark-matter hypothesis or for SF.
+3. The Five-Regime First-Break Classification
+3.1 Interaction and retained physical consequence
+The classification begins with a simple physical distinction: an interaction can occur without guaranteeing that its consequence remains available for whatever the declared route requires next. Occurrence and successful downstream carry are therefore different claims. Non-guarantee is not itself a failure result: a Failure Regime is assigned only when the registered physical tests demonstrate the corresponding first break.
+A route is the specific physical participation relation being tested. The route is not the entire dark-matter object and is not whatever behavior happens to be visible in the final image. It is a specific physical participation relation whose success can be assessed independently. The route must therefore be chosen before its failure class is known.
+3.2 Establishment of retained availability
+The first question is whether an interaction-produced difference establishes a retained physical state that remains available beyond the initiating event. The protocol denotes this test by P₀. A failure at this point is Dissolution: something physically relevant happened, but the route never established the retained availability required for later carry.
+The word "retained" does not imply permanence. It means only that the consequence survives strongly enough to remain available for the declared next physical burden. A fleeting perturbation that leaves no route-relevant retained state fails this requirement even if the initiating interaction itself was real.
+3.3 Retention under continued load
+Some retained states establish successfully and then cease to carry when exposed to the load relevant to the route. This second Persistence-side test is denoted Pₗ. Its failure defines Shear. The distinction between Dissolution and Shear is therefore not one of visual severity. Dissolution lacks established retained availability; Shear begins with genuine retention and loses continued load-bearing availability later.
+"Later" here refers to prerequisite structure, not necessarily to a particular clock duration. The experiment may use physical time to diagnose a route, but the classification depends on what had already succeeded when the route stopped carrying.
+3.4 Maintaining the relation required by the route
+If retained availability survives the declared load, the route can still fail because the physical distinction needed for continued participation is no longer maintained. SF refers to this condition as Boundary, and the protocol denotes the corresponding test by B. Failure here defines Drift.
+Boundary is not a claim that the object has a sharp spatial edge. It is the maintained relational discrimination required by the route. Depending on the physical case, that may concern association, identity, membership, alignment, or another independently warranted relation. Drift therefore requires more than observing displacement. The source must remain available while the registered discrimination relation fails.
+3.5 Inheritance by a distinct further interaction
+A retained and discriminated update can still fail to enter a distinct further interaction that physically depends on it. SF calls this receiving step Cascade, and the operational test is denoted C. Its failure defines Echo.
+The receiving interaction is route-specific and must be declared in advance. Inheritance by some other part of the environment does not satisfy the registered Cascade step merely because information or energy exists somewhere in the larger system. Conversely, if the proposed receiver is not physically dependent on the update, no Cascade burden is live and Echo cannot be assigned. At present, the dark-matter program does not claim a clean physical realization of this state; Echo is retained because the structural partition requires a place for receiver-specific inheritance failure, not because an astronomical Echo signature has already been identified.
+3.6 Incorporation into the receiving physical condition
+Even when the update reaches the declared receiving interaction, the route can fail if the update does not become incorporated into the physical condition that the downstream carrier actually uses. SF calls this condition Authorization, and the operational test is denoted A. Its first-break failure defines Lock.
+Inheritance and incorporation are therefore kept separate. Echo means that the declared receiver never inherits the update. Lock means that inheritance succeeds but the update fails to become part of the carrier-supported condition needed for continued carry. A delayed response, recurrence, or hysteresis pattern does not by itself establish either regime; those behaviors can become evidence only after the corresponding physical route has been independently identified.
+3.7 Operational state vector
+For experimental use, the relevant structural state is summarized as:
+G = (P₀, Pₗ, B, C, A),
+with each element returning PASS, FAIL, NOT-LIVE, or UNRESOLVED under pre-registered physical tests. The state vector is not inferred from the held-out lensing morphology. It is evaluated from the intrinsic route information available to the registered physical domain.
+3.8 First-break classification
+Let E denote the occurrence of the relevant interaction-produced difference. The five canonical first-break states can then be written schematically as:
+Dissolution:  E ∧ ¬P₀
+Shear:       E ∧ P₀ ∧ ¬Pₗ
+Drift:       E ∧ P₀ ∧ Pₗ ∧ ¬B
+Echo:        E ∧ P₀ ∧ Pₗ ∧ B ∧ ¬C
+Lock:        E ∧ P₀ ∧ Pₗ ∧ B ∧ C ∧ ¬A.
+These are separating states, not a temporal life cycle. A route need not pass through all five, and the regimes do not rank severity. They record the deepest prerequisite that had already succeeded before the first required capacity failed. This first-break construction is inherited from the current Structural Flow failure map.[5]
+For any fully live, resolved foundational route π with E present, prerequisite consistency requires Pₗ ⇒ P₀, B ⇒ Pₗ, C ⇒ B, and A ⇒ C. The resulting first-break depth d(π) is derived from those registered test outcomes: d = 0 for Dissolution, 1 for Shear, 2 for Drift, 3 for Echo, 4 for Lock, and 5 when no foundational first break remains through Authorization. The value d(π) is an output of the capacity tests, not an independent classifier, severity scale, temporal coordinate, or morphology label. A route whose relevant foundational sequence is not fully live, or whose required condition is UNRESOLVED, does not receive d(π).
+  
+
+Figure 1. Five-regime first-break partition. 
+After a relevant interaction-produced difference occurs, the route is tested through P₀, Pₗ, B, C, and A. The route advances horizontally while each required condition passes; the first failed condition determines Dissolution, Shear, Drift, Echo, or Lock. PASS means that no first break occurs among the physically live tests and is not a sixth Failure Regime. First-break order follows prerequisite dependence, not clock time. 
+3.9 PASS
+PASS is the non-failure control. It means that the registered route completes the tested physical burden without encountering a first break among the live capacities. PASS is not a sixth Failure Regime. PASS is scoped to the registered physical burden; it does not imply that the route or any capacity it opened is immune to failure under other admissible continuation or load. It is essential experimentally because a failure-conditioned prediction is meaningful only if it can be compared with otherwise relevant routes that continue to carry.
+3.10 What "five" predicts
+The hypothesis is an at-most-five claim about irreducible first-break classes under the current architecture. It is not an at-most-five claim about observable morphology. Different dark-matter mechanisms can instantiate the same structural class through different source distributions. One structural class can therefore generate several physical or lensing subfamilies. Conversely, projection, finite resolution, mixture, and reconstruction may cause distinct structural classes to overlap observationally.
+The proposal remains open to a sixth irreducible class. Such a class is not earned by finding an unfamiliar image or a new dark-matter mechanism. It requires a route-level failure that survives the known capacity tests and the protocol’s subsequent tests for mixture, state incompleteness, functional equivalence, and reducibility. That stronger falsifier is developed later in the artifact.
+4. Experimental Object: Dark-Matter Routes
+4.1 Physical admission precedes first-break classification
+For Structural Flow governance, this protocol inherits Physics Foundations v1.2+ and Dark Matter — Failure-Dominant Physical Structure Card v1.5+. Each execution must instantiate a governing Physical Domain Declaration and satisfy the applicable Mechanism Admission Condition before Failure-Regime assignment, including independent warrant for the gravitational mechanism or effect and explicit declaration of the ordinary physical participation channel or channels used in the Dark Matter identification burden. This participation-channel burden is distinct from the protocol’s O₂ ordinary-physics model comparator. 
+The classification does not create the dark-matter candidate used by the experiment. The relevant physical structure and its gravitational role must first be warranted by ordinary astrophysics or by the declared simulation model. This requirement follows the upstream dark-matter artifact: the first-break classification is applied only after a physical candidate, positive gravitational participation, and the comparator relation being tested have been specified independently.[6]
+This ordering prevents a structural label from manufacturing the object it is meant to classify. A lensing anomaly is not called "dark matter" because it resembles Drift, nor is a diffuse source called Dissolution because it looks weak. Ordinary physics or the declared simulation model warrants the candidate object and the participation relation to be tested. The classification then asks where that declared relation first stops carrying.
+4.2 Object and route are different levels of description
+The experiment distinguishes the dark-matter structure from the route being tested through it. A halo, subhalo, merger component, or other gravitationally warranted structure can remain physically present and gravitationally effective while one declared participation route fails. The failure of that route therefore does not imply dissolution of the whole object.
+This distinction is especially important for mixed systems. A single astrophysical structure can contain several simultaneously relevant physical routes, and those routes need not share the same first break. The experiment assigns first-break labels to the registered routes rather than flattening the entire object into whichever failure appears earliest somewhere inside it.
+The observational consequence is equally important. A lensing aperture may combine the contributions of many route instances. The experiment therefore does not expect the final light field to carry a single visible Failure-Regime label. Route-level classification and probe-level mixture are separate stages.
+4.3 Minimum admissible route and primary scale
+A route used for confirmatory classification must be physically specific enough to test and complete enough to represent the declared participation relation. The protocol therefore uses a minimum-admissible-route rule: the registered route is the smallest independently warranted physical carrier that performs the complete declared task, has identifiable physical continuity or provenance, and supports independent tests of both route success and the live structural capacities. If it can be split into smaller subroutes that each perform the same complete task without changing the object being tested, the original route is too coarse.
+Every confirmatory execution also registers one primary foundational scale. This is the minimum job-complete carrier scale at which the route is claimed to instantiate the five-regime classification for that test. Other physically legitimate scales may be retained as secondary diagnostics, but they cannot replace the primary result after target inspection. A residual found at a secondary scale may motivate a new registered analysis in which that scale becomes primary; it cannot be promoted selectively to rescue or defeat the original test.
+This rule is intended to prevent a common multiscale ambiguity. A global structure may be cleanly classifiable even when a local component is anomalous, or vice versa. The experiment preserves both observations while requiring one predeclared scale to own the confirmatory closure claim.
+4.4 J_ROUTE: the physical success criterion
+Each registered route receives a domain-native success criterion, denoted J_ROUTE. This criterion answers a physical question before any Failure-Regime label is assigned: did the route perform the specific task for which it was registered?
+J_ROUTE must be defined in ordinary physical variables and must map the permitted intrinsic data to PASS, FAIL, or UNRESOLVED. Its thresholds, estimator, and reliability requirements are fixed before the held-out light target is inspected. The criterion must also be narrow enough to avoid hiding multiple independently failing subproblems inside one nominal route. If two physical tasks can fail independently, they are split or registered separately.
+A useful J_ROUTE therefore has four properties. First, it describes one physically meaningful success condition. Second, an independent analyst can evaluate it from the registered data and code. Third, its outcome does not depend on the Failure-Regime label that will later explain the failure. Fourth, it does not use the held-out lensing statistic that the route classification is supposed to predict.
+The last condition is a central anti-circularity rule. If a dark-matter route can be called Drift only because the final lensing map shows an offset, then the offset is not a prediction of Drift; it helped define the class. The confirmatory design requires the route and its first break to be established from independent intrinsic information before the probe result is opened.
+4.5 Intrinsic classification and the held-out probe
+Simulation provides a particularly controlled initial environment for this separation because an executor can preserve particle or field provenance, interaction history, bound-state information, association state, and other internal variables that are only indirectly accessible in astronomical observations. That does not make a simulation result an empirical observation of nature. It makes simulation a controlled physical test bed in which the classification and the downstream probe can be separated without relying on the same observable twice.
+The open-source specification will therefore require future executors to identify which intrinsic variables are admissible for route classification and which probe variables remain held out. For a synthetic-lensing branch, the source state is classified first, the source-level prediction is frozen, and only then is the light field generated or unblinded for confirmatory evaluation. A later real-observation branch faces a stricter burden: if the required intrinsic class cannot be established independently of the same lensing data used as the target, the branch cannot be treated as a clean confirmatory test.
+The method therefore permits three honest outcomes before any light prediction is judged: the route can be classified, the route can remain unresolved, or the proposed physical route can prove inadmissible for confirmatory testing. The protocol does not require every simulated or observed system to receive one of the five labels.
+5. Physics-to-Probe Architecture
+5.1 A first-break classification is not yet an observable
+The dark-matter classification ends before the lensing prediction begins. Identifying a route as Dissolution, Shear, Drift, Echo, or Lock does not by itself specify a density profile, projected mass map, shear field, image perturbation, centroid offset, or reconstruction residual. Those quantities belong to the physical realization of the route and to the governing gravitational and measurement models.
+The experiment therefore requires an explicit source bridge for every positive branch. Starting from an independently classified route, the executor states what difference the relevant dark-matter mechanism is predicted to make to the physical source: for example, the distribution, localization, association, internal profile, or history dependence of the gravitating matter. That source-level consequence is frozen before the held-out probe result is examined.
+If the predicted source consequence does not appear in an otherwise clean realization of the registered class, the source bridge fails. The experiment stops there for that claim. There is no reason to search the light field for a signature of a source difference that the physical model did not produce.
+5.2 Ordinary gravitational physics carries the source to the probe
+When a source-level difference is present, ordinary gravitational lensing provides the next step. In the usual thin-lens treatment, the convergence field is related to projected surface mass density by:
+κ(θ) ≃ Σ(θ) / Σ_cr,
+where Σ is the projected surface mass density and Σ_cr is the critical surface mass density determined by the lens-source geometry and background cosmology.[7] More generally, the positions, shapes, magnifications, time delays, and other properties of lensed images depend on the intervening gravitational potential and projected matter distribution.[8]
+That standard relation is exactly what the proposed experiment needs. SF does not provide a second lensing equation and does not alter the motion of light. Once the source prediction has been stated, the lensing calculation is an ordinary physics calculation. The role of the five-regime hypothesis is upstream: it proposes which physically classified source states should be grouped together, where those states should be sought, and what source-level contrast should be frozen before the probe is inspected.
+This separation also permits ordinary physics to defeat a branch cleanly. A first-break classification can be correct while the proposed source consequence is wrong. The source consequence can be correct while projection or lensing suppresses the claimed observable. The truth-level light difference can exist while finite resolution, noise, line-of-sight structure, baryonic structure, or reconstruction degeneracy prevents its recovery. Each outcome identifies a different failed link.
+5.3 The held-out light target
+The probe target is held out because the experiment is meant to test prediction rather than retrospective description. The executor first fixes the physical route, the primary scale, the intrinsic first-break classification, and the source consequence. The corresponding light statistic or light-family prediction is then registered. Only after those steps are frozen is the confirmatory light target opened.
+For simulation-based demonstrations, "held out" can mean that the lensing map, source-reconstruction output, or derived probe statistic is generated by an independent pipeline or remains inaccessible to the classification process until the freeze is complete. For observational applications, the implementation may use a predeclared target split, independent data product, blinded target mapping, or another auditable separation. The exact method is implementation-specific, but the information barrier is not optional.
+The experiment therefore rejects a common shortcut: inspect an unusual mass reconstruction, decide that it resembles one of the five Failure Regimes, and then count the resemblance as confirmation. An unfamiliar probe morphology is evidence only after the physical route and its predicted consequence have been specified without using that morphology.
+5.4 Measurement and modeling remain part of the physical test
+Lensing is powerful precisely because it is sensitive to projected matter, but that sensitivity does not make the inverse problem trivial. Strong-lensing analyses must contend with degeneracies, macro-model choices, line-of-sight structure, and other systematics, while weak-lensing reconstruction is affected by source sampling, calibration, projected large-scale structure, and measurement noise.[9] The proposed experiment treats these as ordinary physical and measurement burdens rather than as first-break signals.
+This is why the eventual open-source package separates truth-level source prediction, forward lensing, synthetic measurement, reconstruction, and adjudication. A branch should not fail because a deliberately inadequate measurement pipeline was unable to recover a signal, and SF should not receive credit for a pattern that a conventional nuisance model explains more economically. The strongest ordinary-physics comparator and the measurement-recovery tests are therefore part of the confirmatory design rather than post-result commentary.
+5.5 Experimental chain
+The complete experiment follows a one-way information order:
+independently warranted dark-matter physical state
+→ registered route and primary scale
+→ intrinsic route-success test
+→ first-break classification
+→ frozen source prediction
+→ ordinary gravitational forward model
+→ held-out light prediction
+→ measurement and reconstruction
+→ comparison with the pre-registered ordinary-physics baseline
+→ result adjudication.
+The scientific risk enters at every arrow. The route may not instantiate the proposed class. The source prediction may fail. The gravitationally propagated difference may not produce the expected probe consequence. The consequence may not be measurable. The ordinary-physics baseline may perform equally well or better. A mixed source may remain unresolved. A repeated route-level residual may eventually place pressure on the five-regime closure itself.
+  
+
+Figure 2. Proposed dark-matter-to-light demonstration chain. 
+A dark-matter physical state is admitted and a route is defined using ordinary domain physics. The route is classified intrinsically at a pre-registered primary scale. A source-level consequence is frozen before a gravitational forward model maps that source into a held-out light prediction. Measurement/reconstruction and a strong ordinary-physics baseline then determine what, if anything, the five-regime representation added. Novel light morphology does not by itself alter the five-regime architecture; foundational pressure begins only if a genuine route-level failure survives the later residual and capacity tests described in Section 10. 
+6. Branch Predictions
+The five first-break classes do not become observational predictions merely by being named. Each usable branch requires a physical realization that can be classified independently, a source-level consequence that follows from the declared dark-matter model, and a probe consequence that is frozen before the held-out light result is examined. The current branches are deliberately asymmetric. PASS supplies the non-failure control. Dissolution, Shear, and Drift have conditional SIDM-facing source-to-light predictions proposed for the first implementation program. Echo remains part of the first-break partition but has no earned dark-matter physicalization. Lock has a conditional history-sensitive source prediction and synthetic-light route, while clean real-observation classification remains deferred. These differences are part of the experiment rather than defects to be hidden.
+6.1 PASS
+PASS is the comparison state in which the registered route completes the declared physical burden without a first break among the live tests. It is not a dark-matter model in its own right and it is not a sixth regime. A PASS control must be matched closely enough to the failure-conditioned route that a later source or light difference cannot be attributed simply to a different mass scale, orbit, merger stage, host environment, viewing geometry, or other predeclared nuisance variable.
+The exact PASS control depends on the branch. In the first SIDM implementation, a collisionless or weakly self-interacting control may be appropriate where ordinary tidal evolution is the relevant comparator; in other cases, the better control may be an SIDM realization in which the same route remains successful. The controlling principle is physical comparability, not a universal choice of cold dark matter as the baseline. The executor must freeze the control family before opening the held-out target.
+6.2 Dissolution
+Dissolution is the case in which the relevant interaction-produced difference occurs but route-relevant retained availability never establishes. The current proposed positive dark-matter realization is narrower than Dissolution in general: it concerns an evaporation-dominated SIDM subhalo branch in which host–subhalo self-interactions can remove dark-matter particles while the subhalo is also subject to ordinary tidal evolution. SIDM simulations distinguish host–subhalo evaporation from tidal effects, and controlled studies of collisionless stripping show that tidal mass loss is characteristically outside-in in binding-energy space, preferentially removing the least-bound material first.[10]
+That distinction opens a source prediction that is stronger than the accounting statement that lost compact mass must appear elsewhere. Before the interaction, particles are tagged by binding-depth quantile. The executor then compares an independently classified evaporation-dominated Dissolution route with a matched tidal-only control at the same total route-mass loss. The pre-result prediction is that the Dissolution branch will show a larger contribution from initially more deeply bound material to the lost route mass than the tidal-only control. Equivalently, the loss profile should be less purely outside-in.
+The corresponding projected-source prediction is a stronger reduction of inner projected dark-matter support at matched total loss. One convenient normalized statistic is
+Q_depth,2D = M_2D,in / (M_2D,in + M_2D,out),
+with the inner and outer apertures fixed on non-target calibration data. For the declared evaporation-dominated Dissolution subfamily, the prediction is that Q_depth,2D is distributionally lower than in the matched tidal-only control. An equivalent lensing statistic may be defined from the recovered projected mass within pre-frozen apertures. The sign of that contrast is a physical subfamily prediction, not part of the definition of Dissolution.
+This branch can fail cleanly. Evaporation-dominated routes may classify as Dissolution yet show no excess deep-origin depletion at matched total loss. The source-level difference may exist but fail to survive projection or lensing recovery. Or an ordinary-physics model may predict the same source contrast with equal or greater held-out performance. None of those outcomes can be rescued by redefining Dissolution after the target is known.
+6.3 Shear
+Shear begins differently. Route-relevant retained availability establishes and initially carries, but it later fails under the load required for continued participation. In SIDM subhalos, tidal stripping, tidal heating, and self-interaction-driven evaporation or heat transport can all alter the internal mass profile; therefore a generic statement such as "the remnant becomes broader" is not sufficiently discriminating. Ordinary tidal evolution already removes mass and changes subhalo structure.[11]
+The current Shear prediction is instead framed as a departure from a matched ordinary tidal track. Let Qₗ measure a pre-registered compact-to-broad projected source ratio, and let Q_tidal(x,η) denote the value expected under the ordinary collisionless tidal control at matched physical progress coordinate x and matched nuisance state η. The branch statistic is
+Rₛ = Qₗ,SIDM - Q_tidal(x,η).
+For the declared SIDM evaporation/heating Shear subfamily, the confirmatory prediction is Rₛ < 0 distributionally: after matching the ordinary tidal burden and accepted nuisance variables, the Shear-classified source should be more centrally eroded or less compactly supported than the collisionless tidal track predicts.
+The matching coordinate cannot be chosen circularly. If the same quantity used to declare the Pₗ failure is also used to define the matched point on the tidal track, the residual is too close to the class definition to serve as the primary confirmatory prediction. In that case the executor must classify Pₗ independently or use a different pre-frozen progress coordinate, such as a cumulative ordinary-load measure or another physically warranted state variable. This firewall matters because the experiment is meant to predict a source consequence after Shear has been classified, not to restate the classification numerically.
+The light-probe homologue is the corresponding residual in the recovered projected-mass or lensing statistic. As with Dissolution, the prediction is mechanism-conditioned. A different physical realization of Shear may produce a different source morphology. The structural claim is the location of the first break; the negative track residual belongs only to this declared SIDM subfamily.
+6.4 Drift
+Drift requires a stronger survivor state than either Dissolution or Shear. The dark-matter source remains retained and load-bearing, but the relation required to keep it associated with its declared carrier fails. Merging systems provide a natural physical pressure surface because self-interactions can alter the motion and mass distribution of the dark component differently from collisionless galaxies. Simulations have long shown that self-interactions can generate dark-matter–galaxy offsets or other relative-distribution changes, while also showing that the size, duration, and even usefulness of simple centroid offsets depend strongly on merger conditions and interaction microphysics.[12]
+The present Drift branch therefore does not predict "an offset" in isolation. It predicts a relational two-channel state: recoverable dark-matter source support remains high while its registered association with the luminous carrier degrades. The gravitational channel constrains the projected mass distribution associated with the dark component under the registered source model; the luminous channel localizes the carrier population. The branch is strongest where the source itself remains well recovered, because loss of source support would move the physical state toward Shear or Dissolution rather than Drift.
+Define Δₗ as a pre-registered normalized projected separation between the recoverable dark-matter source estimator and the corresponding luminous-carrier estimator. The primary held-out prediction is
+Δₗ(active Drift) > Δₗ(PASS)
+distributionally, conditional on adequate source recovery and the matched physical controls. The expected search region is therefore a middle corridor: self-interaction effects strong enough to differentially alter the dark and luminous components, but not so destructive that the dark-matter source loses the support required for Drift.
+This branch is a plausible candidate for eventual transfer to real astronomical data because both projected mass structure and luminous-carrier position are, in principle, observable channels. That does not make the classification automatic. Projection, baryons, merger phase, peak-finding method, line-of-sight structure, and the treatment of galaxy subhalos can all influence apparent offsets, and the literature itself cautions that simple offset phenomenology is not universal.[13] The future executor must therefore earn the intrinsic class in simulations first and then show that the real-data selection and measurement pipeline preserves the registered distinction.
+6.5 Echo
+Echo remains part of the five-regime first-break partition, but the current artifact does not assign it a positive dark-matter light-probe family. Formally, the relevant source update remains retained and discriminated, while a separately warranted receiving interaction that physically depends on that update fails to inherit it. The receiver is specific to the registered route; transfer into some other environmental degree of freedom does not count as successful inheritance by the declared receiver.
+That distinction survives the foundational reduction test, but no clean local particle/field dark-matter realization has yet been established in which the update remains physically present and discriminated, the receiving interaction genuinely depends on it, and inheritance nevertheless fails without reducing to an earlier loss, an absent dependency edge, or incomplete state description. The experiment therefore treats Echo as an inactive dark-matter branch. It contributes to the falsification architecture because a future physical model could open such a state, but no current simulation or lensing prediction is licensed merely to make the five branches look symmetric.
+A future Echo branch would require ordinary physics to establish the receiver, the dependency, and a mechanism for receiver-specific non-inheritance before any light prediction was derived. Until then, neither recurrence, oscillation, nor a repeated lensing residual is evidence for Echo.
+6.6 Lock
+Lock begins after successful inheritance. The relevant downstream interaction receives the update, but the receiving physical state fails to incorporate that update into the condition required for continued carry. The current dark-matter realization is conditional and uses gravothermal SIDM evolution as a pressure surface rather than as an already established Lock identification. Recent kinetic calculations of late SIDM core collapse show that a conducting-fluid treatment can be adequate deep in the short-mean-free-path core while departures from local thermodynamic equilibrium persist in an intermediate region and alter later evolution.[14] That result motivates testing whether states matched in the declared macroscopic variables but differing in permitted kinetic history retain distinguishable future evolution; it does not by itself establish Lock.
+The strongest current source prediction is therefore not a universal sign such as "Lock means higher central density." Instead, the executor constructs matched receiving states with the same declared present macroscopic carrier state and accepted nuisance variables but different inherited kinetic histories. After the Lock classifier is frozen, the future source evolution is held out. For Authorization-pass controls, that held-out continuation must begin from the recorded post-Authorization state or from an explicitly modeled physical successor of it; reinitialization from a pre-Authorization state is inadmissible unless the physical model itself accounts for that return. The primary prediction is that Lock-classified matched histories retain greater future source-profile separation than Authorization-pass controls. A complementary test asks whether a closure model initialized from the same registered macroscopic state has larger held-out future source-profile forecast error for Lock routes than for Authorization-pass routes.
+The source difference can then be propagated through ordinary gravity into a synthetic-light comparison. At matched present macroscopic source state, a genuine Lock family should retain probe-relevant dependence on prior kinetic history that is absent or reduced in the Authorization-pass control. This is a history-conditioned nonclosure prediction, not a generic hysteresis label.
+The real-observation branch remains deferred. Present astronomical measurements do not independently expose the dark-sector kinetic-history variables required to classify Lock without leaning on the same gravitational source evolution that the experiment would later claim to predict. The open-source package can therefore specify and permit a simulation/synthetic-light Lock test while withholding a clean real-universe confirmatory claim.
+Table 1 — Current branch map
+Branch
+	First break/status
+	Current dark matter
+realization and positive target
+	Primary failure condition
+	PASS
+	Route completes the declared burden. 
+	Control; matched non-failure source and probe behavior. 
+	Control is not physically comparable to the tested branch. 
+	Dissolution
+	P₀ fails. 
+	Conditional evaporation-dominated SIDM subfamily; excess deep-origin depletion and stronger inner projected-mass suppression at matched total loss relative to tidal-only control. 
+	No pre-registered depth-of-origin or source-profile difference after clean classification. 
+	Shear
+	P₀ passes; Pₗ fails. 
+	Conditional SIDM evaporation/heating subfamily; negative compact-to-broad residual relative to a matched ordinary tidal track. 
+	No held-out track departure, or circular use of the matching coordinate in the Shear classifier. 
+	Drift
+	P₀ and Pₗ pass; B fails. 
+	Active positive branch; preserved recoverable dark-matter source support with increased dark–luminous relational separation relative to PASS. 
+	Separation does not increase after source recovery and ordinary merger confounds are controlled. 
+	Echo
+	P₀, Pₗ, and B pass; C fails. 
+	Foundational class retained; current dark-matter physicalization not earned; no positive target currently licensed. 
+	Proposed branch reduces to no dependency edge, earlier loss, or incomplete physical state. 
+	Lock
+	P₀, Pₗ, B, and C pass; A fails. 
+	Conditional gravothermal/kinetic simulation branch; history-conditioned future source-profile separation or closure-forecast error at matched present carrier state, followed by a synthetic-light homologue. 
+	Future evolution becomes history-insensitive after appropriate state matching, or classification requires the held-out source target. 
+	
+
+7. Mixture, Purity, and Coalescence
+The experiment does not assume that an observed or simulated dark-matter volume belongs to one clean first-break class. The default posture is mixed or unresolved. A probe volume can contain multiple route instances, ordinary PASS support, more than one Failure Regime, baryons, host structure, line-of-sight structure, and measurement mixing. Purity is therefore something the analysis must earn rather than something it may presume from an apparently simple image.
+For each admissible route instance r, the executor assigns a pre-registered contribution measure W_r using non-target information. Route contributions are then combined by first-break class. If C_i is the total contribution assigned to class i and C_F is the total failure-conditioned contribution, the class fraction may be written
+Π_i = C_i / C_F.
+A target is eligible for a pure-class claim only if one class exceeds a purity threshold π_* calibrated on non-target examples whose composition is known or controlled. The calibration must constrain both false-pure classifications and false-mixed classifications. A separate contamination ceiling c_* limits the amount of contribution from other known classes that may remain inside a target still called pure. If no threshold simultaneously provides acceptable false-pure and false-mixed behavior, the correct result is PURITY DISCRIMINATION UNDERPOWERED. The executor may still analyze the target as mixed or unresolved; it may not lower the purity standard after seeing the target.
+Mixture complexity is frozen before the confirmatory target is inspected. Where the underlying routes can be physically enumerated, direct physical decomposition is preferred: the analysis identifies the admissible route instances and combines their predicted contributions. Where direct enumeration is not feasible, the executor may use a predeclared mixture-model family, but the model family, maximum complexity or selection penalty, validation procedure, and stopping rule must be chosen on non-target data. Increasing the number of components after a poor target fit is not an admissible rescue. A more complex post-target mixture may be reported exploratorily, but it does not preserve confirmatory status.
+The known-family mixture model must also leave room to fail. Let Rᵤ denote a pre-registered statistic measuring the part of the target that remains unexplained after the closed library of PASS, known Failure-Regime families, permitted mixtures, baryonic structure, line-of-sight structure, detector effects, numerical effects, and other frozen nuisance models has been applied. The unknown-remainder threshold εᵤ is calibrated on non-target controls. It is not an author-selected tolerance.
+That calibration has two directions. First, ordinary closed-library controls are used to bound the false-novelty rate: εᵤ must be high enough that known states are not routinely mislabeled as unexplained. Second, challenge cases with a withheld or injected residual are used to bound false absorption: εᵤ must be low enough that a physically meaningful residual of at least the predeclared challenge size is not routinely absorbed by the known model. If no single threshold can satisfy both error requirements, the experiment returns NOVELTY DISCRIMINATION UNDERPOWERED. No FR₆ adjudication is authorized from that execution.
+Coalescence is treated separately from mixture. Two known source or light families may become observationally indistinguishable under specific physical conditions or at a particular measurement resolution even though their upstream route classifications remain distinct. Such overlap does not reduce the number of first-break classes. It means only that the chosen probe cannot separate them in that registered region. Any coalescence claim must therefore be frozen in advance: which families are expected to overlap, under what physical conditions, over what parameter region, at what measurement resolution, which statistic is expected to survive the overlap if any, and what observation would count as failure of the coalescence prediction. "The families coalesced" cannot be introduced after a failed target as an explanation of convenience.
+The distinction among purity, mixture, coalescence, and unknown remainder is central to the experiment. A pure result means one class demonstrably dominates under the calibrated contribution rule. A known mixture means that more than one registered component is needed and the combination accounts for the target within the frozen tolerance. Coalescence means that distinct registered classes are expected to become probe-level indistinguishable in a declared region. An unknown remainder means that the known closed library does not account for enough of the target under the calibrated residual rule. Only the last of these opens the novelty pathway developed in Section 10. None of them, by itself, is evidence for a sixth Failure Regime.
+The novelty pathway is developed in Section 10 and operationalized as an explicit decision sequence in Appendix F, so that a future executor cannot move directly from "unusual lensing pattern" to "new structural class."
+8. Pre-Result Experimental Workflow
+The confirmatory experiment is ordered to keep classification, prediction, and target evaluation informationally separate. The order matters because most of the central claims become weak or circular if choices are allowed to move after the held-out result is known.
+A future execution begins by declaring the physical domain. The executor specifies the dark-matter model family, parameter ranges, host and orbital or merger conditions, simulation or observational population, permitted nuisance structures, measurement model, and the physical conditions under which the branch predictions are supposed to apply. The declaration is deliberately narrower than "dark matter in general."
+Next, one primary foundational scale R_PRIMARY is registered for the confirmatory closure claim, together with the minimum admissible route at that scale. The route receives its domain-native success criterion J_ROUTE and the physical tests for P₀, Pₗ, B, C, and A. The variables permitted to evaluate those tests are identified before the held-out light target is available.
+The executor then constructs the required control and comparison families. These include the appropriate PASS states, matched ordinary-physics controls, nuisance and measurement controls, and the non-target calibration examples needed for mixture complexity, purity, εᵤ, and measurement recovery. For the SIDM branches described in Section 6, this stage is also where the matched tidal controls, route histories, and admissible source variables are fixed. The protocol specifies what these families must accomplish; the scientific execution and numerical calibration belong to the future executor.
+Once the physical families are available, the intrinsic classification logic is frozen. The route identity, J_ROUTE, first-break tests, thresholds, estimator choices, reliability requirements, and any permitted unresolved states are fixed before the confirmatory probe is inspected. A target that cannot be classified under those rules remains unresolved; it is not forced into the closest of the five regimes.
+For every active branch, the source-level prediction is then written down in physical terms. The executor identifies the quantity that should differ between the independently classified branch and its matched control, the direction or family of the expected difference, the accepted nuisance conditions, and the branch-level failure rule. The light-probe prediction is frozen only after this source statement is complete. Ordinary gravitational modeling then defines how the source contrast will be carried into the held-out light statistic.
+Mixture complexity, purity, εᵤ, and any expected family coalescence are calibrated on non-target material and frozen at the same stage. The ordinary-physics comparator O₂, described in Section 9, is also built and frozen using the same pre-target information available to the SF-organized prediction. One primary utility criterion is selected before target inspection.
+The confirmatory state is then made externally auditable. All route, scale, classification, source-prediction, light-prediction, mixture, purity, εᵤ, coalescence, O₂, utility, target-commitment, code-version, seed, and environment records are collected into one freeze bundle. File encodings and structured serialization are canonicalized; each file receives a SHA-256 digest; and the manifest of those files is itself hashed to create a root identity H_ROOT. H_ROOT is anchored before target unblinding to at least one independently verifiable timestamp or public versioning carrier. A local filesystem timestamp or a self-authored document date is not sufficient.
+The target must remain blinded, inaccessible to the analysis decision process, or cryptographically committed without revealing its outcome until the freeze has been verified. The protocol permits several implementations, including genuinely unavailable target data, an escrowed target mapping or key, a hashed target commitment, or an automated split whose outcomes remain hidden. Before unblinding, the executor creates a freeze certificate recording H_ROOT, the manifest hash, timestamp carrier, repository or release identity, target commitment, blinded status, and the statement that no target outcome was inspected during the freeze.
+Any later amendment produces a new freeze bundle and a new root hash. The earlier freeze remains part of the record. If a confirmatory choice is changed after the target has been opened, the amended analysis is exploratory or replication-required; it cannot be made confirmatory retroactively.
+Only after the verified freeze does the future executor perform the confirmatory target evaluation. The target is classified only with the already frozen intrinsic rules, the source and light predictions are evaluated, mixture and measurement gates are applied, O₂ is scored under the same target, and the result is assigned according to the taxonomy in Section 11. The experiment therefore has no single global "pass" switch. Each inference is earned at the layer actually tested.
+  
+
+Figure 3. Pre-result confirmatory workflow. 
+The physical domain, route definition, intrinsic first-break tests, source and light predictions, mixture and purity rules, unknown-remainder threshold, and ordinary-physics comparator O₂ are calibrated and frozen before the confirmatory target is opened. The freeze bundle is hashed into H_ROOT and verified before unblinding. Only then does the workflow proceed to target evaluation and result reporting. Post-unblinding scientific changes are exploratory or replication-required rather than confirmatory. 
+9. Ordinary-Physics Baseline and Incremental SF Utility
+The experiment distinguishes two questions that can easily be conflated. The first is whether the five-regime representation identifies a real physical regularity. The second is whether organizing the problem through that representation adds predictive utility beyond what ordinary physics would have predicted from the same pre-target information. The first can succeed while the second does not.
+O₁ is a simple diagnostic baseline. It can be used to check whether the SF-organized state vector is doing more than an intentionally flat representation of the same declared inputs. O₁ is useful for debugging and for understanding where information enters the prediction, but it is not the evidentiary standard for a claim that SF added predictive value.
+O₂ is the relevant adversary. It is the strongest reasonable domain-native model, classifier, or prediction procedure that a competent physicist could construct from the same pre-target information without using the SF first-break organization. O₂ is chosen, trained or calibrated, and frozen before the held-out target is inspected. It receives no informational handicap merely to make the structural representation look favorable. If a conventional physical model already captures the same contrast, that is part of the result.
+The comparison also requires one primary utility mode to be pre-registered. Depending on the implementation, the utility claim may concern held-out predictive accuracy, portability across physical mechanisms, compression of the model description, or cross-mechanism generalization. Secondary metrics may be reported, but they cannot rescue failure on the registered primary utility claim after the target is known. If the execution intends to make a cross-branch or cross-regime program claim, the same pre-target freeze must also declare the program-level object, the exact shared claim content, the branch set whose joint success is required to support that claim, and the compatibility rule under which those branch results may be combined, including any permitted relation among distinct R_PRIMARY scales. That support set is a pre-result commitment rather than a post-result selection of successful branches.
+The experiment uses two distinct records for attribution. A Derivational Convergence Record, DCR, records the historical fact that the five-regime route and its prediction were derived and frozen independently before the target. That may be scientifically interesting even if ordinary physics later reaches the same prediction. DCR is provenance; it is not empirical validation.
+Empirical SF utility is denoted U₁. U₁ is earned only if the SF-organized prediction outperforms O₂ on the pre-registered primary utility criterion under the same target and the same pre-target information budget. If O₂ performs better, U₁ fails. If the two approaches are statistically or operationally tied under the frozen criterion, U₁ is not earned. The result may still support a DCR statement that an independently derived structural organization converged on the physical regularity, but the stronger statement that SF added predictive utility remains unavailable.
+This distinction prevents the experiment from receiving credit merely because an SF-derived prediction happens to be physically correct. A correct prediction that ordinary physics already makes equally well is a convergence result. A claim of incremental predictive utility requires the stronger O₂ comparison. Program-level statements should remain equally bounded: one successful registered branch can establish U₁ only for that declared branch and utility metric. A single cross-regime program claim is licensed only against its pre-target frozen support set. Every branch in that support set must have a recorded tested result, and the successful results must be mutually compatible, fit the same declared program-level object, share the invariant or utility content actually being claimed, and satisfy the predeclared cross-scale relation where their R_PRIMARY scales differ. Registered branches outside that support set, or registered branches that fail, remain part of the program record and cannot be omitted after target access. Otherwise the results remain distinct branch-level outcomes rather than one cross-regime claim.        
+10. From Novel Observable to FR₆
+An unfamiliar lensing map, residual feature, or reconstructed morphology is not a sixth Failure Regime. Novelty enters the experiment first as a model-accounting problem. The analysis must ask whether the target is outside the registered known-family and known-mixture library before it asks whether the five-way first-break partition is incomplete.
+The first gate is the closed-library fit. PASS, the physically active Failure-Regime families, permitted mixtures, expected coalescence, baryons, line-of-sight structure, measurement response, numerical error, and other frozen nuisance models are applied under the pre-registered complexity rule. The unknown remainder Rᵤ is then evaluated. If Rᵤ ≤ εᵤ, the target remains within the calibrated closed library even if its particular appearance was unfamiliar to the analyst. If Rᵤ > εᵤ, the result is NOVEL-OBSERVABLE PRESSURE. This is a meaningful failure of the registered observable library, but it is not yet an FR₆ claim.
+The next question moves upstream from the light field to the registered physical route. Measurement and source-model failures are checked first. The route is then evaluated using J_ROUTE and the frozen capacity vector G = (P₀, Pₗ, B, C, A). A residual cannot threaten the five-regime closure if the route itself never demonstrably failed, if an earlier known first break accounts for the failure, or if one of the required capacity tests is unresolved. The strongest route-level novelty state is a Structural Residual Witness, SRW: E is present, J_ROUTE fails while every physically live known capacity test passes under the frozen rules, and the ordinary mixture/model gates have not resolved the failure. Absence of E does not enter the structural-residual path.
+An SRW is evidence that the existing first-break map has not accounted for a real route failure at the registered scale. It is still not sufficient for FR₆. The witness must first replicate. The five-regime claim is not reopened because one noisy target, numerical accident, or peculiar simulation realization escaped classification.
+A replicated SRW enters the foundational newness audit. Before target inspection, the executor must have frozen a state-completeness ladder
+S_0 ⊂ S_1 ⊂ ... ⊂ S_K,
+where each S_k is a progressively richer ordinary physical description of the same primary route and S_K is the maximally warranted state description for the declared domain at R_PRIMARY. "Maximally warranted" does not mean the state of the entire universe. It means the richest description that the best available ordinary physics required and that the protocol admitted before the residual was seen.
+The state ladder tests the most important anti-novelty hypothesis: coarse-graining. A route may appear structurally unclassifiable because the effective state omitted an internal variable, environmental coupling, history variable, nonlocal dependence, or other degree of freedom already recognized by ordinary physics. If the SRW disappears under a pre-frozen richer state because the route returns to ordinary accounting or maps to a known first break, the result is COARSE-GRAINING / STATE-INCOMPLETENESS RESOLVED. FR₆ is not earned.
+If the SRW survives through S_K and replicates, the result becomes a MAXIMAL-STATE STRUCTURAL RESIDUAL. At that point the five-regime closure is suspended at R_PRIMARY while the residual remains unresolved. This suspension is deliberately stronger than saying that the five probably still hold. A replicated route failure has survived the most complete pre-registered ordinary state description and the existing five capacity tests; the experiment therefore withholds the closure claim until the residual is either reduced or promoted.
+Promotion requires a positive candidate, not merely a name for the anomaly. A proposed new capacity K* must identify the physical job that is missing, the physical carrier that realizes the job, a third-party PASS test, a FAIL test, the prerequisite capacities that have to succeed before K* becomes live, and the downstream route capability that cannot continue without it. A candidate may also be framed as a new irreducible loss surface inside an existing capacity rather than as an entirely new capacity; the distinction matters because the current map already contains two distinct Persistence-side first breaks, Dissolution and Shear.
+The candidate must then survive necessity and intervention pressure. The executor must show that the proposed capacity is needed for the route rather than merely correlated with success. The execution must record, under a predeclared availability rule, whether removal / ablation and restoration are physically available for the candidate in the declared domain; unavailability is not a post-hoc waiver. Where the physical domain permits those interventions, ablation of the candidate carrier or condition should reproduce the route loss, and restoration should recover the relevant capability. A variable whose available removal has no specific effect, or whose available restoration does not restore the claimed capability, has not yet identified the missing structural job.
+Next comes reduction. The candidate is tested against P₀, Pₗ, B, C, and A. If its physical job can be rewritten as retained-availability establishment, continued load-bearing availability, maintained relational discrimination, receiver-specific inheritance, or incorporation into the carrier-supported condition, the candidate is a refinement of a known capacity rather than a sixth class. A new name or a change of variables is not sufficient: functional equivalence under ordinary reparameterization also blocks FR₆.
+Finally, the candidate must have a unique removal signature. Removing K* while the known capacities remain physically available must eliminate a route capability that cannot be reproduced simply by removing one of the known capacities. A proposed new loss surface inside an existing capacity must likewise show an irreducible first-break distinction rather than a continuous severity change or an already represented subcase. The complete result must replicate and be procedurally reproducible by an independent third party under the frozen decision rules.
+Only after those tests may the experiment return FR₆ EARNED. That outcome does not mean that an exotic sixth morphology has appeared. It means that the registered physical domain has exposed a necessary first-break distinction that cannot be reduced to the existing five classes. The five-regime closure then reopens as incomplete. If ordinary state enrichment resolves the witness before maximal-state suspension is earned, the result is COARSE-GRAINING / STATE-INCOMPLETENESS RESOLVED; closure remains unchanged at the tested scope because suspension was never reached. If closure has already been suspended and a later candidate is rejected because it reduces to the known five or is functionally equivalent to known structure, closure is restored only if that known-capacity reduction actually resolves the residual witness. Candidate rejection by itself does not restore closure. If the maximal-state residual remains replicated but the candidate cannot yet be resolved or earned, the correct result remains CLOSURE SUSPENDED.
+11. Result Taxonomy: What Every Outcome Means
+The experiment is designed to return more information than "SF passed" or "SF failed." Each outcome identifies the lowest layer at which the registered prediction chain ceased to survive. Reporting that layer is part of the scientific result.
+A PHYSICALIZATION FAILURE occurs when the proposed ordinary-physics realization does not actually instantiate the registered first-break class under the frozen intrinsic tests. This defeats the branch physicalization; it does not establish that the first-break class is absent from all dark-matter physics.
+A SEARCH FAILURE occurs when the registered physical domain contains too few qualifying routes, too little dynamic range, or no admissible targets for the planned test. The experiment has failed to place the branch under the intended pressure. A search failure is not positive evidence for or against the branch prediction.
+A SOURCE-BRIDGE FAILURE occurs when a cleanly classified route does not produce the pre-registered dark-matter source consequence. This defeats the physical source prediction for that branch or mechanism-conditioned subfamily.
+A LIGHT-BRIDGE FAILURE occurs when the registered source difference exists but ordinary gravitational forward modeling does not produce the predicted held-out light consequence. The first-break and source claims may survive while the proposed probe translation fails.
+A MEASUREMENT FAILURE occurs when the truth-level light consequence exists but the declared observational or reconstruction pipeline cannot recover it with the required reliability. The appropriate conclusion is that the chosen probe or measurement regime is inadequate for that claim, not that the source difference did not exist.
+A U₁ FAIL result occurs when O₂ outperforms the SF-organized prediction on the pre-registered primary utility criterion. An O₂ tie returns U₁ NOT EARNED rather than a win. Either outcome leaves open a DCR statement if the SF-derived prediction was independently frozen beforehand, but neither licenses a claim of incremental empirical SF utility.
+A U₁ EARNED result occurs only when the registered branch survives through measurement and the SF-organized prediction outperforms O₂ on the pre-registered primary utility criterion under the same target and pre-target information budget. U₁ EARNED is branch- and metric-scoped incremental predictive utility; it does not by itself establish that the five-regime closure survived foundational pressure.
+A KNOWN MIXTURE result means that more than one registered component is required and that their pre-permitted combination accounts for the target within the calibrated residual tolerance. Mixture is an expected physical outcome and is not itself a failure of the five-regime architecture.
+An UNRESOLVED result means that the available intrinsic information, measurement quality, or classification reliability is insufficient to decide among the registered states. The target remains outside the confirmatory class claim. Unresolved is not a license to assign the nearest regime.
+NOVELTY DISCRIMINATION UNDERPOWERED means that the non-target calibration could not find an εᵤ and mixture-complexity regime that jointly controlled false novelty and false absorption. The execution cannot make a confirmatory claim about unexplained residuals or FR₆.
+NOVEL-OBSERVABLE PRESSURE means that the target exceeds εᵤ after the full frozen closed-library model has been applied. This defeats the sufficiency of the registered observable library for that target, but it does not yet threaten the foundational five-regime partition.
+An SRW means that novelty has reached the route level: E is present, J_ROUTE fails while the physically live known capacity tests pass under the frozen rules, and the ordinary model, mixture, and measurement gates have not resolved the failure. An unreplicated SRW is a candidate for further pressure, not a foundational result.
+COARSE-GRAINING / STATE-INCOMPLETENESS RESOLVED means that a replicated SRW disappears when the same registered route is represented through a richer ordinary physical state admitted by the pre-frozen state-completeness ladder. The apparent novelty has been absorbed by ordinary state enrichment before maximal-state closure suspension is earned. Five-regime closure therefore remains unchanged at the tested scope.
+FR₆ CANDIDATE means that a replicated SRW has survived the complete pre-frozen state-completeness ladder as a maximal-state structural residual, placing closure in CLOSURE SUSPENDED at R_PRIMARY, and has motivated a positive new-capacity or new-loss-surface proposal. The candidate is still required to pass the foundational newness tests for necessity, intervention where physically available, reduction, irreducibility, and reproduction.
+CLOSURE SUSPENDED means that a replicated maximal-state SRW remains unresolved at R_PRIMARY. While that condition persists, the execution may not report that the five-regime closure survived at the registered scale.
+KNOWN-CAPACITY REDUCTION RESOLVED means that closure had already been suspended, a proposed FR₆ candidate subsequently fails the newness burden because it reduces to the known five or is functionally equivalent to known structure, and the governing scientific adjudication establishes that this known-capacity reduction actually resolves the residual witness. The closure status then becomes RESTORED AT TESTED SCOPE. Rejection of the candidate without resolution of the witness leaves closure suspended.
+FR₆ EARNED means that the residual has survived maximal ordinary state description and the candidate new capacity or loss surface has passed the required necessity, the predeclared intervention-availability adjudication and any physically available removal / restoration tests, non-reduction, functional non-equivalence, unique-removal or irreducibility, replication, and independent procedural reproduction tests. The five-regime closure then reopens as incomplete for the tested architecture.
+The taxonomy deliberately separates these outcomes because they carry different scientific consequences. A branch-level source failure is not the same thing as an O₂ win; an O₂ win is not the same thing as an unexplained observable; an unexplained observable is not the same thing as an SRW; and an SRW is not the same thing as FR₆ EARNED. The proposed experiment is falsifiable precisely because the stronger claims become available only as the contradiction travels upstream.
+Table 2 — Result taxonomy
+Result state
+	Meaning
+	Claim affected
+	Five-regime closure
+	PHYSICALIZATION FAILURE 
+	Registered physical candidate does not instantiate the declared first-break class. 
+	Branch physicalization 
+	Unchanged 
+	SEARCH FAILURE 
+	Registered domain does not provide adequate qualifying targets or pressure. 
+	Search / feasibility 
+	Untested by that branch 
+	SOURCE-BRIDGE FAILURE 
+	Cleanly classified route does not produce the pre-registered source consequence. 
+	Mechanism-conditioned source family 
+	Unchanged 
+	LIGHT-BRIDGE FAILURE 
+	Source prediction survives, but the held-out probe consequence does not. 
+	Source-to-light translation 
+	Unchanged 
+	MEASUREMENT FAILURE 
+	Truth-level probe difference exists but cannot be recovered reliably. 
+	Measurement / recoverability 
+	Unchanged 
+	U₁ FAIL 
+	O₂ outperforms the SF-organized prediction on the primary utility criterion. 
+	Incremental SF predictive utility 
+	Unchanged 
+	U₁ NOT EARNED 
+	O₂ ties the SF-organized prediction on the primary utility criterion. 
+	Incremental SF predictive utility; DCR may remain 
+	Unchanged 
+	U₁ EARNED
+	Registered branch survives through measurement and the SF-organized prediction outperforms O₂ on the frozen primary utility criterion.
+	Incremental SF predictive utility for the declared branch and metric
+	Unchanged
+	KNOWN MIXTURE 
+	Frozen known components account for the target. 
+	Purity claim, if one had been proposed 
+	Compatible 
+	UNRESOLVED 
+	Classification or measurement does not support a decisive result. 
+	Target-specific classification 
+	No result 
+	NOVELTY DISCRIMINATION UNDERPOWERED 
+	εᵤ calibration cannot control both false novelty and false absorption. 
+	Novelty / FR₆ pathway 
+	No result 
+	NOVEL-OBSERVABLE PRESSURE 
+	Closed observable library leaves Rᵤ > εᵤ. 
+	Registered observable-family sufficiency 
+	Not yet directly pressured 
+	SRW 
+	E is present and genuine route failure remains after live P₀ / Pₗ / B / C / A tests and ordinary gates.
+	Operational completeness of known first-break map 
+	Direct candidate pressure; replication required 
+	COARSE-GRAINING / STATE-INCOMPLETENESS RESOLVED
+	Replicated SRW disappears under a richer ordinary physical state admitted by the pre-frozen state-completeness ladder.
+	Apparent structural novelty under an incomplete ordinary state description
+
+
+	Unchanged
+
+
+	FR₆ CANDIDATE 
+	Replicated maximal-state SRW under CLOSURE SUSPENDED motivates a positive new-capacity or new-loss-surface proposal.
+	Five-regime completeness 
+	Not yet reopened 
+	CLOSURE SUSPENDED 
+	Replicated maximal-state SRW remains unresolved at R_PRIMARY. 
+	Five-regime closure at registered scale 
+	May not be reported as surviving 
+	KNOWN-CAPACITY REDUCTION RESOLVED
+	A rejected FR₆ candidate reduces to known structure or functional equivalence, and that reduction actually resolves the residual witness.
+	Five-regime closure at registered scale
+
+
+	Restored at tested scope
+
+
+	FR₆ EARNED 
+	Candidate survives the full foundational newness and replication tests. 
+	Foundational first-break completeness 
+	Reopened as incomplete 
+	
+
+12. Open-Source Execution Package
+This scholarly artifact states the experiment and specifies the minimum open-source execution package that a future scientific implementation should instantiate. The present publication does not include a completed simulation campaign, observational analysis, or implementation repository. Its job is to make the protocol explicit enough that a future independent group can build the required execution package without asking the author to resolve hidden choices after the target is known. 
+A future execution repository should separate scientific specification from implementation. At minimum, that execution package should contain human-readable protocol documents, machine-readable manifests and schemas, freeze and decision-record templates, worked examples, result-record formats, and tests of the protocol logic. A reference implementation may be supplied where useful, but the scientific claim cannot depend on one programming language, one simulation code, or one private analysis pipeline unless the experiment explicitly declares that dependency in advance. 
+A recommended top-level structure is:
+docs/
+protocols/
+manifests/
+schemas/
+templates/
+freeze/
+examples/
+results_schema/
+tests/
+src/  [optional reference implementation]
+The docs/ directory provides the readable map of the experiment: the declared branches, execution order, terminology, and links between the paper and the machine-readable records. protocols/ contains the operational procedures for route registration, J_ROUTE, primary-scale declaration, first-break classification, mixture complexity, purity, εᵤ, O₂, immutable freeze, target unblinding, result adjudication, SRW handling, and foundational newness review. These documents define what must be done without requiring one particular software implementation.
+The manifests/ and schemas/ directories make the protocol auditable by machines as well as people. Every confirmatory execution should have structured records for the physical domain, simulation or observational family, route identity, R_PRIMARY, J_ROUTE, capacity tests, source prediction, light prediction, control family, nuisance model, mixture procedure, purity calibration, εᵤ calibration, coalescence declaration, O₂, utility criterion, target commitment, software environment, random seeds where applicable, and final result state. Schemas should distinguish required from optional fields and reject incomplete confirmatory records rather than silently filling them with defaults.
+The templates/ directory provides blank records for those same decisions. A future executor should be able to begin from a clean template rather than reverse-engineering the protocol from prose. The freeze/ directory contains the manifest format, hashing procedure, root-hash record, timestamp record, target-commitment record, amendment record, and freeze-certificate template. The package should make it straightforward to verify which scientific choices existed before the confirmatory target was opened.
+The examples/ directory contains only illustrative, non-empirical traces. It may include toy data, synthetic placeholder records, or deliberately simplified examples whose purpose is to demonstrate file flow, validation, hashing, classification logic, and result reporting. These examples must be clearly marked as workflow demonstrations. They do not count as execution of the dark-matter experiment and cannot be cited as evidence for a branch prediction or for SF.
+The results_schema/ directory specifies the allowed result records described in Section 11. A scientific execution should not end with a free-form narrative such as "the experiment worked." It should end with machine-readable branch and program records identifying which layer survived, which layer failed, whether the target was pure, mixed, unresolved, or outside the calibrated observable library, whether U₁ was earned, and whether any SRW or FR₆ pathway was opened.
+The tests/ directory verifies protocol mechanics rather than scientific truth. Tests can check that required fields are present, that invalid post-unblinding modifications change the freeze identity, that a target cannot be marked confirmatory without a verified freeze certificate, that purity cannot be awarded below π_*, that Rᵤ > εᵤ opens novelty pressure rather than FR₆ directly, and that CLOSURE SUSPENDED blocks a final "closure survived" report. Such tests are valuable because many of the experiment’s strongest safeguards are logical constraints that can be checked before any astrophysical calculation is run.
+An optional src/ directory may provide reusable code for manifest creation, hashing, schema validation, blinded joins, decision-tree execution, plotting, or reference calculations. It may also provide adapters to external simulation or lensing packages. Reference code should reduce implementation burden, not become an unexamined source of scientific authority. The physical models, convergence standards, numerical resolution, and measurement methods used in a real execution remain ordinary scientific choices that must be justified and frozen by the executor.
+The package should also contain one top-level README that states the experiment in the order an independent group would encounter it: define a physical domain; construct or identify admissible routes and controls; calibrate the non-target decision rules; freeze the intrinsic classifications and predictions; build O₂; generate and verify H_ROOT; unblind or generate the confirmatory probe target; evaluate the registered claims; record the narrowest supported result; and open the SRW and foundational-newness path only if the earlier gates warrant it.
+The open-source requirement is therefore stronger than public availability alone. The package is complete only when the scientific decision points are explicit enough that two independent executors using the same declared physical inputs can determine what the protocol permits without consulting the author for an interpretive ruling.
+Table 3 — Open-source deliverables and executor responsibility
+Deliverable 
+	This project provides 
+	Future executor responsibility 
+	Scholarly artifact 
+	Experiment, claim boundaries, branch predictions, falsifiers, and result meanings 
+	Follow the registered protocol rather than reinterpret it after unblinding 
+	Protocol documents 
+	Route, classification, mixture, purity, εᵤ, O₂, freeze, SRW, and FR₆ procedures 
+	Instantiate the procedures in the chosen physical domain 
+	Schemas and blank manifests 
+	Minimum machine-readable scientific record 
+	Populate complete records before and during execution 
+	Freeze templates and certificate 
+	Immutable pre-target evidence-package specification 
+	Produce, hash, timestamp, verify, and preserve the actual freeze 
+	Worked examples 
+	Non-empirical demonstrations of protocol flow 
+	Never treat the examples as scientific evidence 
+	Reference code 
+	Optional validation, hashing, decision logic, plotting, or adapters 
+	Validate any code used scientifically 
+	Scientific simulation suite 
+	Not provided 
+	Construct, validate, converge, and document the physical simulations 
+	Purity and εᵤ calibration 
+	Procedure specified; numerical calibration not provided 
+	Perform calibration on non-target controls and freeze the thresholds 
+	O₂ fit or training 
+	Comparator requirements specified; fitted model not provided 
+	Construct the strongest reasonable ordinary-physics comparator and freeze it pre-target 
+	Confirmatory synthetic-light or observational targets 
+	Not provided 
+	Generate or obtain, blind, unblind, and analyze under the frozen protocol 
+	Scientific result 
+	Not produced by this project 
+	Report the registered result state and required supporting records 
+	
+
+13. Worked Non-Empirical Protocol Traces
+The following traces illustrate how the protocol is meant to operate. They are not simulations, observations, or claimed physical results. Their only purpose is to make the information order and adjudication rules concrete.
+13.1 Illustrative Drift trace
+Suppose an independent group chooses a merger simulation domain in which dark-matter and luminous-carrier positions can be followed separately. Before opening the confirmatory lensing product, the group declares the model family, merger geometry, parameter range, viewing-angle policy, R_PRIMARY, the minimum admissible dark-matter route, and J_ROUTE. Non-target simulations are used to calibrate the tests for retained source support, continued load-bearing support, and the association relation required by the route.
+A subset of non-target routes is found to satisfy P₀ and Pₗ while failing the registered Boundary test. Those routes are labeled Drift under the already frozen classifier. The group then defines a source-level prediction without using the confirmatory lensing target: Drift routes should preserve adequate recoverable dark-matter support while showing greater normalized separation from the corresponding luminous carrier than matched PASS routes. The primary held-out statistic is frozen as Δₗ, together with the source-recovery floor, nuisance controls, and the predicted direction Δₗ(Drift) > Δₗ(PASS).
+The group independently constructs O₂ from the same pre-target physical information, selects the primary utility criterion, freezes the measurement and reconstruction pipeline, calibrates mixture and purity, creates the complete manifest, computes H_ROOT, anchors the root identity to an independent timestamp, and verifies that the confirmatory lensing target has remained inaccessible.
+Only then is the target opened or generated. Several outcomes are possible. If the route no longer satisfies the frozen Drift classifier, the result is PHYSICALIZATION FAILURE for that target. If Drift classification survives but the source-level separation does not increase, the branch returns SOURCE-BRIDGE FAILURE. If the source difference exists but the gravitational forward model does not produce the predicted probe effect, the result is LIGHT-BRIDGE FAILURE. If the truth-level probe contrast exists but the measurement pipeline cannot recover it, the result is MEASUREMENT FAILURE.
+Suppose instead that the branch prediction survives through measurement. The group then compares its registered performance with O₂. If O₂ performs better, U₁ fails even though the Drift prediction itself may have been correct. If O₂ ties it, U₁ is not earned and the result is limited to derivational convergence plus whatever branch-level physical result survived. Only if the SF-organized representation wins the frozen utility comparison is U₁ earned for that declared Drift branch and metric.
+Nothing in this trace authorizes a statement about all dark matter. It demonstrates how one declared physical branch can be classified, predicted, carried through ordinary gravity, measured, and compared against an ordinary-physics adversary without using the target to define the class.
+13.2 Illustrative hostile novelty trace
+Now suppose a different confirmatory target does not fit the known observable library. PASS, all physically active branch families, permitted mixtures, expected coalescence, baryons, line-of-sight structure, measurement effects, and the pre-frozen nuisance model are applied. The remaining statistic satisfies Rᵤ > εᵤ. The first result is NOVEL-OBSERVABLE PRESSURE, not FR₆.
+The group then moves upstream. The measurement pipeline is checked against its recovery controls. The source model is checked for a failed bridge or omitted nuisance component. The registered mixture complexity is not enlarged after the fact. If the residual survives those gates, the physical route is evaluated under J_ROUTE and G = (P₀, Pₗ, B, C, A).
+If J_ROUTE actually passes, there is no route failure to classify and therefore no first-break novelty. If one known capacity fails, the route maps to the corresponding known regime even though the probe morphology was unfamiliar. If one of the required capacity tests is unresolved, the target remains unresolved. Only if J_ROUTE fails while every physically live known capacity test passes does the target become an SRW candidate.
+Suppose that state replicates in an independent target or predeclared replication execution. The group then evaluates the frozen state-completeness ladder. At S_0 the route remains an SRW. At S_1 an additional ordinary physical state variable is admitted. If that richer description reveals that the route was actually a known Boundary failure, the SRW is resolved as state incompleteness and the FR₆ path closes.
+Suppose instead that the residual survives through S_K, the maximally warranted pre-registered state description. The result is now a replicated maximal-state structural residual. At that point the five-regime closure is CLOSURE SUSPENDED at R_PRIMARY. The group may not report that the five survived merely because a sixth class has not yet been named.
+The next burden is constructive. Investigators propose a candidate K* with a specific physical carrier and a specific route capability that depends on it. If K* fails the necessity test, reduces to P₀, Pₗ, B, C, or A, proves functionally equivalent to a known condition, lacks a unique removal signature, or fails independent replication, FR₆ is not earned. The closure may be restored if the witness has been reduced to known structure, or remain suspended if the residual persists without a resolved interpretation.
+Only if K* survives the full foundational newness path does the result become FR₆ EARNED. In that case the five-regime architecture is reopened as incomplete. The decisive event is not the unusual lensing morphology with which the trace began. It is the independently reproducible discovery of a necessary route-level first-break distinction not represented by the existing five.
+14. Future Application to Public Survey Data
+The proposed protocol is designed to survive beyond the first simulation-based demonstration. Large public lensing and multiwavelength surveys can substantially widen the number and diversity of systems placed under the same pre-result discipline. They may provide more merger geometries, more substructure, more lines of sight, more rare environments, and more opportunities to test whether source-to-light predictions transfer outside the simulation families in which they were first developed.
+That opportunity does not remove the classification problem. Real observations do not expose the intrinsic dark-sector state with the same completeness available in a simulation. A future survey application therefore requires a transfer stage before a real system can receive a confirmatory Failure-Regime label. The executor must identify which non-target, non-lensing observables are permitted to infer the relevant route state, test in simulation whether those observables actually distinguish the needed classes, and freeze the transfer rule before the survey lensing target is inspected. The transfer rule must also preserve the same registered route-binding content across the declared simulation-to-observation change of presentation; predictive discrimination alone does not establish class identity if the observational proxy carries a different physical relation. Failure of that same-binding transfer is a class-transfer failure, not evidence for FR₆.
+If the permitted real-data observables cannot reliably distinguish the relevant states in simulation, the correct result is that class transfer is underpowered. The branch remains simulation-validatable but is not yet a clean real-universe confirmatory test. The protocol does not permit the lensing target itself to supply the missing class label and then serve again as evidence for the predicted lensing consequence.
+Survey target selection must be frozen with equal care. A discovery sample should be constructed from predeclared catalog, quality, geometry, morphology, footprint, and contamination rules rather than hand-picked after lensing results are known. If public knowledge of a famous system has already exposed the relevant probe outcome to the analysts, that system can still be scientifically useful, but its role may need to be validation, feasibility, or exploratory replication rather than a clean blinded discovery target. The open-source record should make that distinction explicit.
+Public survey data are especially valuable for replication. Once a branch rule, transfer method, nuisance model, and measurement pipeline are frozen, an independent group can apply them to a separately released field, survey region, redshift interval, or target population without changing the earlier thresholds. Repeated survival across genuinely distinct samples can broaden the demonstrated domain. It can also reveal where the simulation-derived transfer stops working.
+The same public data can place pressure on the unknown-remainder and FR₆ pathways. A larger sample increases the opportunity to encounter targets that are poorly represented by the known family and mixture library. But survey scale does not weaken the novelty safeguards. An unusual public target still has to survive nuisance modeling, mixture calibration, route transfer, J_ROUTE, the known capacity tests, replication, and the state-completeness audit before foundational novelty is even in view.
+For that reason, future survey use should be described as expansion of tested scope rather than completion of a census. A large survey may place a substantial and scientifically important fraction of the accessible dark-matter-sensitive universe under the protocol. It still cannot establish logical exhaustion of every dark-matter realization, every epoch, every interaction law, or every inaccessible physical state. The strongest statement remains empirical and bounded: the registered five-regime architecture survived, failed, or was suspended under the declared survey pressure.
+15. Limitations and Explicit Non-Claims
+This artifact is intentionally pre-result. No branch has been empirically confirmed by the experiment proposed here, no U₁ result has been earned, and no survey target has been used to test the final protocol. The scientific contribution is the experimental architecture and its open-source specification.
+The proposal does not claim a direct detection of a dark-matter particle or a new dark-matter interaction. SIDM is used in several branches because it provides ordinary physical mechanisms capable of producing useful route-level pressure and matched controls. A successful branch result would test the registered source and probe prediction within that domain; it would not by itself identify the microscopic nature of all dark matter.
+The proposal does not introduce a new force, alter General Relativity, or modify photon propagation. The source-to-light step uses ordinary gravitational physics. If the predicted source distinction does not produce the registered light consequence under standard gravity, the probe claim fails.
+The five-regime hypothesis is not a claim that astronomical data contain exactly five morphologies, five clusters, or five visually recognizable families. Observable family count can be smaller than five because of coalescence or inaccessibility, and one first-break class can generate multiple mechanism-dependent observable subfamilies. Mixtures can generate still more phenomenological variety.
+The proposal does not claim that all five regimes are currently physicalized in dark matter. Echo has no earned positive dark-matter branch at present. Lock remains conditional and simulation/synthetic-light facing. Their presence in the first-break partition cannot be used as though both had already produced astronomical predictions.
+The proposal does not treat derivational priority as empirical validation. A DCR can document that a prediction was derived and frozen independently, but a claim that SF added predictive utility requires U₁ against the strong O₂ baseline. A tie with O₂ earns no incremental-utility claim.
+The proposal does not permit an unexplained image or residual to count as FR₆. Novel morphology first pressures the closed observable library. Foundational pressure begins only after a genuine route failure survives the known first-break tests, and FR₆ is earned only after the stronger foundational newness and replication requirements.
+The proposal does not guarantee that a real astronomical system can be assigned a clean first-break class. If the intrinsic route state cannot be inferred independently of the held-out lensing target, the real-data branch remains unresolved or class-transfer underpowered. Simulation-only validation is an acceptable scientific endpoint for branches whose intrinsic state is not observationally accessible.
+Finally, the experiment is a demonstration, not an exhaustion theorem. A successful execution licenses claims only over the registered domain, scale, measurement conditions, and physical family actually tested. Larger public surveys can widen that domain. They cannot convert finite empirical survival into proof that no other dark-matter realization in the universe can exist.
+Table 4 — Claim license matrix
+
+
+Status
+	Claim
+	Licensed now 
+	The artifact proposes an open-source, independently executable dark-matter light-probe demonstration based on a five-way first-break classification. 
+	Licensed now 
+	The number five refers to irreducible first-break classes under the current architecture, not to five observable morphologies. 
+	Licensed now 
+	Dissolution, Shear, and Drift have conditional positive SIDM-facing branches; Echo is inactive in dark matter; Lock is conditional and simulation / synthetic-light facing. 
+	Licensed now 
+	Ordinary gravity carries the registered source difference to the light probe; no SF-specific lensing dynamics are introduced. 
+	Licensed now 
+	Mixture is the default observational posture; purity, εᵤ, O₂, and target freeze must be calibrated and fixed pre-target. 
+	Licensed now 
+	A replicated maximal-state SRW can suspend the five-regime closure, and a fully earned FR₆ can reopen it. 
+	Not licensed now 
+	The proposed experiment has already empirically validated SF. 
+	Not licensed now 
+	Independent derivation alone establishes predictive utility. 
+	Not licensed now 
+	Dark matter has been proven to exhibit exactly five observable families. 
+	Not licensed now 
+	Echo has been positively identified in dark matter. 
+	Not licensed now 
+	An unexplained lensing morphology is FR₆. 
+	Not licensed now 
+	The protocol exhausts all dark matter in the universe. 
+	Future conditional 
+	A registered branch may earn U₁ if it beats O₂ on the pre-registered primary utility criterion. 
+	Future conditional 
+	Multiple structurally distinct U₁ successes may support a bounded cross-regime utility claim only under a pre-target frozen program-claim scope that identifies the required supporting branch set, where every supporting branch has a recorded tested result and the results are mutually compatible, fit the same declared program-level object, share the utility content actually being claimed within the declared tested domains, and satisfy any predeclared relation among distinct R_PRIMARY scales. 
+	Future conditional 
+	FR₆ may be earned only after a replicated maximal-state residual and the complete foundational newness tests. 
+	
+
+16. Conclusion
+This proposal turns a structural classification into a bounded dark-matter experiment. The five-regime hypothesis is tested upstream of the light field: physical routes are defined and classified independently, mechanism-conditioned source predictions are frozen, ordinary gravitational physics carries those source differences to held-out probe observables, and the resulting predictions are compared with a strong ordinary-physics baseline.
+The experiment does not depend on finding five clean pictures. Mixture is expected, purity is calibrated, coalescence is permitted only where it is predeclared, and the known-family library is allowed to fail. A novel probe residual is not promoted directly to foundational significance; it must survive ordinary nuisance explanations, route-level adjudication, replication, and the state-completeness audit before it can suspend or reopen the five-regime closure.
+The proposal is equally willing to lose at lower levels. A branch can fail to physicalize, fail at the source, fail in the gravitational translation, fail at measurement, or lose to O₂. Those are scientifically different outcomes, and the protocol preserves those differences rather than collapsing them into a single global verdict.
+The present work stops before scientific execution. Its endpoint is an open-source specification that another group can instantiate, freeze, run, audit, and attempt to falsify without relying on hidden author judgment. Simulation campaigns, threshold calibration, target unblinding, survey execution, and empirical results belong to those future executions.
+If the registered branches survive their held-out tests, the experiment would support the conclusion that an independently derived five-way first-break representation can organize physically distinct dark-matter states into source-to-light predictions that survive held-out testing within the declared domain. If O₂ performs equally well, the result will be convergence rather than incremental SF utility. If the known architecture fails at the route level and a genuinely new irreducible first-break distinction survives the full novelty path, the five-regime closure will reopen.
+That is the intended demonstration: not that the universe has been exhausted, but that a structural hypothesis can be translated into ordinary physical predictions, exposed to independent execution, and given a clear way to survive, fail, suspend, or change.
+________________
+
+
+Appendix A. Notation and Experimental Terms
+E — occurrence of the relevant interaction-produced physical difference.
+P₀ — test of whether route-relevant retained availability establishes after E.
+Pₗ — test of whether the retained state continues to remain available under the declared load.
+B — test of whether the physical distinction required by the route remains maintained. SF calls this condition Boundary.
+C — test of whether a distinct, physically dependent receiving interaction inherits the registered update. SF calls this condition Cascade.
+A — test of whether the inherited update becomes incorporated into the carrier-supported receiving condition required for continued carry. SF calls this condition Authorization.
+G — operational first-break state vector, G = (P₀, Pₗ, B, C, A).
+d(π) — derived foundational first-break depth for a fully live, resolved registered route π: 0 = Dissolution, 1 = Shear, 2 = Drift, 3 = Echo, 4 = Lock, 5 = no foundational first break through Authorization. It is derived from the registered capacity tests and is not defined for a route whose relevant foundational sequence is not fully live or whose required condition is UNRESOLVED.
+J_ROUTE — domain-native success criterion for the registered physical route. It is defined independently of the Failure-Regime label and independently of the held-out light target.
+R_PRIMARY — the single pre-registered physical scale that owns the confirmatory first-break and closure result for the execution.
+PASS — registered route completes the tested burden without a first break among the physically live conditions. PASS is a control state, not a sixth Failure Regime.
+Dissolution — E occurs and P₀ fails.
+Shear — E occurs; P₀ passes; Pₗ fails.
+Drift — E occurs; P₀ and Pₗ pass; B fails.
+Echo — E occurs; P₀, Pₗ, and B pass; C fails.
+Lock — E occurs; P₀, Pₗ, B, and C pass; A fails.
+W_r — pre-registered contribution weight for admissible route instance r.
+C_i — total contribution assigned to Failure-Regime class i.
+C_F — total failure-conditioned contribution across the admitted classes.
+Π_i — contribution fraction of class i, Π_i = C_i / C_F.
+π_* — calibrated minimum contribution fraction required for a pure-class claim.
+c_* — calibrated maximum permitted contamination from other known classes for a pure-class claim.
+Rᵤ — pre-registered unknown-remainder statistic after the frozen closed-library model has been applied.
+εᵤ — non-target-calibrated threshold above which Rᵤ opens NOVEL-OBSERVABLE PRESSURE.
+O₁ — simple diagnostic ordinary-physics baseline.
+O₂ — strongest reasonable domain-native ordinary-physics comparator built from the same pre-target information available to the SF-organized prediction.
+DCR — Derivational Convergence Record; provenance that a prediction was independently derived and frozen before the target. DCR is not empirical SF utility.
+U₁ — empirical incremental SF utility against O₂ on the pre-registered primary utility criterion.
+SRW — Structural Residual Witness: E is present, J_ROUTE fails while every physically live known first-break condition passes under the frozen rules, and ordinary mixture/model gates do not resolve the failure.
+S_0 ... S_K — pre-frozen state-completeness ladder, from the initial registered physical description to the maximally warranted ordinary state description for the declared domain at R_PRIMARY.
+K* — candidate new capacity proposed after a replicated maximal-state SRW survives known-state and known-capacity explanations.
+H_ROOT — root cryptographic identity of the complete pre-target freeze bundle.
+Appendix B. Minimum Route Registration Record
+A confirmatory route record must identify the physical domain before it identifies a Failure Regime. The record therefore begins with the ordinary physical model family, the declared carrier or source structure, the environment in which the route operates, and the physical participation relation being tested.
+The route itself must be the minimum admissible complete carrier for that relation. It must be specific enough that an independent executor can identify where it begins, what physical state or structure carries it, what constitutes its successful completion, and which physical variables are permitted for evaluating it. If the proposed route contains two independently failing physical tasks, the tasks are separated rather than hidden inside one success criterion.
+J_ROUTE is then registered as a mapping from permitted intrinsic data to PASS, FAIL, or UNRESOLVED:
+F_J(D_intrinsic) → Z_J,
+where Z_J ∈ {PASS, FAIL, UNRESOLVED}.
+The route record must specify the data entering D_intrinsic, the estimator F_J, thresholds or decision boundaries, reliability or convergence requirements, and the conditions under which no decision is returned. The held-out light target, any statistic derived from that target, and any post-unblinding information are prohibited inputs.
+The same record identifies R_PRIMARY and any secondary diagnostic scales. R_PRIMARY is selected before the target is known and cannot be replaced after unblinding because a different scale produces a cleaner result. Secondary scales remain scientifically reportable and may motivate later separately registered tests.
+The live first-break conditions are then declared. A condition can be PASS, FAIL, NOT-LIVE, or UNRESOLVED. NOT-LIVE means that ordinary physics does not require that condition for the registered route. UNRESOLVED means the condition is relevant but the available intrinsic information cannot determine its state. A first-break label requires the relevant predecessor conditions to PASS and the registered break condition to FAIL. The protocol does not infer a regime across an unresolved predecessor.
+Registered liveness is prerequisite-closed. If Pₗ is live, P₀ must be live; if B is live, Pₗ must be live; if C is live, B must be live; and if A is live, C must be live. Equivalently, once a predecessor condition is declared NOT-LIVE, no downstream condition that structurally depends on it may remain live for that registered route. A liveness declaration that violates this relation is inadmissible for confirmatory first-break classification; it is not converted into PASS, UNRESOLVED, or the nearest Failure Regime. Because the liveness declaration belongs to the frozen route record, a post-unblinding repair requires a new bundle and follows the protocol's amendment and confirmatory-status rules.
+The route record closes with the source variables that remain available after classification, the held-out probe variables that remain prohibited until freeze verification, and the branch-specific source prediction that will later be tested.
+Appendix C. First-Break Decision Matrix
+The five first-break states are evaluated in prerequisite order, not by visual similarity and not by clock time.
+Dissolution: E = present; P₀ = FAIL. No later condition is needed for classification because retained route availability never establishes.
+Shear: E = present; P₀ = PASS; Pₗ = FAIL. B, C, and A are not used to define the first break because continued load-bearing availability has already failed.
+Drift: E = present; P₀ = PASS; Pₗ = PASS; B = FAIL. C and A do not define the first break.
+Echo: E = present; P₀ = PASS; Pₗ = PASS; B = PASS; C = FAIL. A does not define the first break.
+Lock: E = present; P₀ = PASS; Pₗ = PASS; B = PASS; C = PASS; A = FAIL.
+PASS: all physically live conditions required by the registered route PASS.
+UNRESOLVED: at least one physically required predecessor or candidate break condition cannot be evaluated reliably enough to support classification.
+NOT-LIVE does not count as PASS. A condition is NOT-LIVE only when the registered physical route does not require that condition. The route definition must make this status explicit before the target is opened.
+The set of live conditions must also satisfy the prerequisite-closure rule in Appendix B: a downstream live condition cannot bypass a NOT-LIVE predecessor. A record that violates that rule is inadmissible for confirmatory first-break classification.
+The first-break matrix classifies route failure only. It does not prescribe the source morphology or light observable. Those are branch-specific physical consequences derived separately.
+Appendix D. Mixture, Purity, and Unknown-Remainder Rules
+The default target state is mixed or unresolved. A pure-class label is available only after non-target calibration demonstrates that the contribution rule can distinguish pure from mixed states at acceptable error rates.
+For each admissible route instance r, the execution records W_r. Contributions are summed by first-break class to obtain C_i and C_F. The class fraction is
+Π_i = C_i / C_F.
+A pure-class claim for class i requires Π_i ≥ π_* and contamination from other known classes no greater than c_*. Both π_* and c_* are frozen from non-target calibration. If no threshold pair controls both false-pure and false-mixed classifications, the result is PURITY DISCRIMINATION UNDERPOWERED.
+Known mixture fitting uses either direct physical route enumeration or a predeclared mixture-model family. The model family, permitted maximum complexity, selection penalty or prior, validation procedure, and stopping rule are frozen before target inspection. Post-target addition of components is exploratory and cannot preserve confirmatory status.
+After the frozen known-family, known-mixture, PASS, baryonic, line-of-sight, detector, numerical, and nuisance models are applied, the target receives Rᵤ. The threshold εᵤ is calibrated in two directions: ordinary closed-library controls constrain the false-novelty rate, while withheld or injected challenge residuals constrain false absorption.
+If no εᵤ satisfies both requirements, the result is NOVELTY DISCRIMINATION UNDERPOWERED.
+If Rᵤ ≤ εᵤ, the target remains within the calibrated closed observable library.
+If Rᵤ > εᵤ, the result is NOVEL-OBSERVABLE PRESSURE and the route-level novelty audit may begin.
+Rᵤ > εᵤ does not by itself support SRW, FR₆ CANDIDATE, CLOSURE SUSPENDED, or FR₆ EARNED.
+Appendix E. Minimum Pre-Target Freeze Bundle
+A confirmatory execution requires one freeze bundle whose contents are sufficient to reconstruct what was fixed before the target was opened. At minimum, the bundle contains:
+physical-domain declaration;
+simulation or observational family declaration;
+R_PRIMARY record;
+minimum-admissible-route record;
+J_ROUTE specification;
+P₀, Pₗ, B, C, and A classifiers and permitted intrinsic variables;
+PASS and branch-specific control-family definitions;
+source-level predictions;
+light-probe predictions;
+measurement and reconstruction procedure;
+mixture-model family and complexity rule;
+purity-calibration procedure and frozen π_* and c_* if calibration succeeds;
+Rᵤ definition and frozen εᵤ if calibration succeeds;
+predeclared coalescence regions and surviving statistics, if any;
+O₁ specification;
+O₂ specification;
+primary utility criterion;
+program-level object, exact shared claim content, required supporting branch set, compatibility rule, and any permitted cross-scale relation for each intended cross-branch or cross-regime claim;
+target identity or target-commitment record;
+software and dependency versions used by the confirmatory pipeline;
+random seeds or seed-generation rules where stochastic procedures are used;
+canonical manifest of all freeze files;
+cryptographic digest for every file;
+manifest digest;
+H_ROOT;
+independently verifiable timestamp or public versioning record for H_ROOT;
+freeze certificate;
+amendment ledger, initially empty or containing only pre-unblinding amendments.
+Before unblinding, an independent verifier or automated validation step must be able to confirm that the required records are present, the hashes reproduce, the timestamp predates target access, and the target commitment matches the later revealed target.
+A post-unblinding scientific change produces a new bundle and new H_ROOT. The amended analysis is exploratory or replication-required unless the target remains genuinely unobserved and the protocol’s pre-target conditions can be re-established independently.
+Appendix F. FR₆ Foundational Newness Decision Path
+The FR₆ pathway begins only after probe-level novelty survives the earlier gates.
+1. Apply the frozen closed observable library, including known families, permitted mixtures, coalescence, ordinary nuisance models, detector response, and numerical controls.
+2. Evaluate Rᵤ against εᵤ.
+3. If Rᵤ ≤ εᵤ, stop. No novelty path is open.
+4. If Rᵤ > εᵤ, record NOVEL-OBSERVABLE PRESSURE.
+5. Recheck measurement recovery, source modeling, mixture adequacy under the frozen complexity rule, and other registered non-foundational explanations.
+6. Evaluate J_ROUTE and the live first-break conditions at R_PRIMARY.
+7. If J_ROUTE passes, no failed route exists and no first-break novelty is established.
+8. If a known first-break condition fails, classify the route in the known map.
+9. If a required condition is unresolved, return UNRESOLVED.
+10. If E is present and J_ROUTE fails while all physically live known conditions pass, record an SRW candidate. If E is absent, do not enter the SRW pathway.
+11. Replicate the SRW under the predeclared replication rule.
+12. If replication fails, do not open a foundational claim.
+13. If replication succeeds, evaluate the pre-frozen state-completeness ladder S_0 ... S_K.
+14. If a richer ordinary state resolves the route into known physics or a known first break, record COARSE-GRAINING / STATE-INCOMPLETENESS RESOLVED.
+15. If the replicated SRW survives through S_K, record a replicated maximal-state structural residual and set the five-regime closure to CLOSURE SUSPENDED at R_PRIMARY.
+16. Propose a positive candidate K* or a candidate new irreducible loss surface.
+17. Test whether the candidate has a distinct physical job, a physical carrier, PASS and FAIL tests, predecessor relations, and a downstream capability that depends on it.
+18. Test necessity. Correlation alone is insufficient.
+19. Record intervention availability under the predeclared availability rule. Where physically available, test ablation or natural removal and restoration; unavailability does not waive any other newness burden.
+20. Test reduction to P₀, Pₗ, B, C, and A.
+21. Test functional equivalence under reparameterization or ordinary redescription.
+22. Test the unique-removal or irreducibility signature.
+23. Replicate the complete result and require independent procedural reproduction.
+24. If all required newness tests survive, record FR₆ EARNED and reopen the five-regime closure.
+25. If the candidate fails the newness burden because it reduces to P₀, Pₗ, B, C, or A, or is functionally equivalent to known structure, test whether that known-capacity reduction actually resolves the residual witness.
+26. If the reduction resolves the witness, record KNOWN-CAPACITY REDUCTION RESOLVED and set the closure status to RESTORED AT TESTED SCOPE.
+27. If the maximal-state residual remains and neither FR₆ EARNED nor witness-resolving known-capacity reduction has been established, retain CLOSURE SUSPENDED.
+Appendix G. Minimum Result Records
+Every scientific execution should produce branch-level records before any program-level summary is written.
+A branch result record contains:
+execution identifier;
+freeze H_ROOT;
+target identifier;
+physical domain and R_PRIMARY;
+route identifier;
+J_ROUTE result;
+G = (P₀, Pₗ, B, C, A);
+assigned first-break class or unresolved state;
+purity or mixture status;
+source-prediction result;
+light-prediction result;
+measurement-recovery result;
+O₂ result;
+primary utility result;
+DCR status;
+U₁ status;
+Rᵤ and εᵤ result where applicable;
+SRW status;
+foundational-newness status where applicable;
+narrowest failed or surviving claim;
+exploratory amendments, if any.
+The branch record returns one primary result state from the taxonomy in Section 11, together with subordinate diagnostic states.
+A program-level record summarizes only what the branch records license. It must account for every branch registered in the freeze bundle, including branches that were not ultimately tested, remained unresolved, or returned an adverse result; those records cannot be silently omitted after target access. The program record identifies which registered branches were actually tested, which survived through source, light, and measurement, which earned U₁, which were mixed or unresolved, whether any novelty pathway opened, and the status of five-regime closure at each registered R_PRIMARY. It does not average incompatible branch outcomes into one global score. A single cross-regime program claim is available only against the pre-target frozen support set for that exact claim, where every supporting branch has a recorded tested result, the results are mutually compatible, fit the same declared program-level object, support the shared invariant or utility content actually being claimed, and satisfy any predeclared relation among distinct R_PRIMARY scales; otherwise they remain distinct branch-level results.
+An SRW or FR₆ record additionally contains:
+replication evidence;
+state-completeness ladder used;
+maximal-state result;
+candidate K* or candidate loss-surface description;
+physical carrier;
+necessity evidence;
+intervention-availability adjudication and, where physically available, removal or intervention evidence;
+where physically available, restoration evidence;
+known-capacity reduction tests;
+functional-equivalence tests;
+unique-removal or irreducibility test;
+independent reproduction result;
+final closure state.
+The reporting rule is conservative: if the required evidence for a stronger result state is incomplete, the record remains at the strongest lower state that is fully supported.
+Appendix H. Proposed Open-Source Execution-Package Map 
+A future execution package should be divided by function rather than by one preferred software stack. 
+docs/ — human-readable experiment map, terminology, execution order, and links to the scholarly artifact.
+protocols/ — operational procedures for route registration, classification, mixture, purity, εᵤ, O₂, freeze, target handling, result adjudication, SRW, and foundational newness.
+manifests/ — example and active execution manifests describing the physical and computational state of each run.
+schemas/ — machine-readable definitions of required fields, allowed values, and validation rules.
+templates/ — blank human- and machine-readable records for future executors.
+freeze/ — hashing instructions, canonical manifest format, H_ROOT records, timestamp records, target commitments, amendment records, and freeze certificates.
+examples/ — explicitly non-empirical toy or placeholder traces demonstrating workflow and file flow.
+results_schema/ — allowed branch, program, SRW, and FR₆ result-record formats.
+tests/ — validation of protocol mechanics, state transitions, required records, and forbidden confirmatory shortcuts.
+src/ — optional reference code for validation, hashing, decision logic, plotting, or adapters. Scientific simulation or observational codes remain executor-owned unless explicitly included.
+A future top-level README should give the execution order and distinguish what this published protocol specifies from what a scientific executor must instantiate and calibrate.
+An execution package should not be considered complete merely because its files are public. It is complete when an independent executor can determine the permitted next action from the declared inputs and recorded state without requiring an author to decide what the protocol "really meant" after the target is known.
+________________
+Declaration of Generative AI and AI-Assisted Technologies
+During the preparation and revision of this manuscript, the author used generative AI tools to assist with drafting support, language refinement, structural editing, protocol organization, consistency checking, and clarity. All substantive arguments, theoretical claims, experimental-design choices, scope decisions, and final editorial judgments are the author’s own. The author reviewed and approved the final manuscript and takes full responsibility for its content. 
+________________
+
+
+Five Failure Regimes in Dark-Matter Light Probes:
+An Open-Source Pre-Result Demonstration Protocol
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+Signed,
+
+
+
+
+Rick
+________________
+[1] Vegetti, S., Birrer, S., Despali, G., et al. “Strong Gravitational Lensing as a Probe of Dark Matter.” Space Science Reviews 220, 58 (2024). DOI: 10.1007/s11214-024-01087-w; Umetsu, K. “Cluster–galaxy weak lensing.” The Astronomy and Astrophysics Review 28, 7 (2020). DOI: 10.1007/s00159-020-00129-w.
+[2] Optical Signatures of Structural Failure Regimes — A Dark-Matter-Facing Prediction Protocol with Immiscible Fluids as an SF-Isomorphic Calibration Surface. DOI: 10.5281/zenodo.20515692.
+[3] Dark Matter as Structural Failure Regimes of Persistence; Second Edition. DOI: 10.5281/zenodo.22162670.
+[4] Vegetti, S., Birrer, S., Despali, G., et al. “Strong Gravitational Lensing as a Probe of Dark Matter.” Space Science Reviews 220, 58 (2024). DOI: 10.1007/s11214-024-01087-w; Umetsu, K. “Cluster–galaxy weak lensing.” The Astronomy and Astrophysics Review 28, 7 (2020). DOI: 10.1007/s00159-020-00129-w.
+[5] From ¯\(ツ)/¯ to Authorization: Deriving the Foundational Hinge Grammar of Structural Flow. DOI: 10.5281/zenodo.22147925; Dark Matter as Structural Failure Regimes of Persistence; Second Edition. DOI: 10.5281/zenodo.22162670.
+[6] Dark Matter as Structural Failure Regimes of Persistence; Second Edition. DOI: 10.5281/zenodo.22162670.
+[7] Umetsu, K. “Cluster–galaxy weak lensing.” The Astronomy and Astrophysics Review 28, 7 (2020). DOI: 10.1007/s00159-020-00129-w.
+[8] Vegetti, S., Birrer, S., Despali, G., et al. “Strong Gravitational Lensing as a Probe of Dark Matter.” Space Science Reviews 220, 58 (2024). DOI: 10.1007/s11214-024-01087-w; Umetsu, K. “Cluster–galaxy weak lensing.” The Astronomy and Astrophysics Review 28, 7 (2020). DOI: 10.1007/s00159-020-00129-w.
+[9] Vegetti, S., Birrer, S., Despali, G., et al. “Strong Gravitational Lensing as a Probe of Dark Matter.” Space Science Reviews 220, 58 (2024). DOI: 10.1007/s11214-024-01087-w; Umetsu, K. “Cluster–galaxy weak lensing.” The Astronomy and Astrophysics Review 28, 7 (2020). DOI: 10.1007/s00159-020-00129-w.
+[10] Zeng, Z. C., Peter, A. H. G., Du, X., et al. “Core-collapse, evaporation, and tidal effects: the life story of a self-interacting dark matter subhalo.” Monthly Notices of the Royal Astronomical Society 513(4), 4845–4868 (2022). DOI: 10.1093/mnras/stac1094; Drakos, N. E., Taylor, J. E., & Benson, A. J. “A universal model for the evolution of tidally stripped systems.” Monthly Notices of the Royal Astronomical Society 516(1), 106–123 (2022). DOI: 10.1093/mnras/stac2202.
+[11] Zeng, Z. C., Peter, A. H. G., Du, X., et al. “Core-collapse, evaporation, and tidal effects: the life story of a self-interacting dark matter subhalo.” Monthly Notices of the Royal Astronomical Society 513(4), 4845–4868 (2022). DOI: 10.1093/mnras/stac1094; Drakos, N. E., Taylor, J. E., & Benson, A. J. “A universal model for the evolution of tidally stripped systems.” Monthly Notices of the Royal Astronomical Society 516(1), 106–123 (2022). DOI: 10.1093/mnras/stac2202.
+[12] Fischer, M. S., Brüggen, M., Schmidt-Hoberg, K., et al. “N-body simulations of dark matter with frequent self-interactions.” Monthly Notices of the Royal Astronomical Society 505(1), 851–868 (2021). DOI: 10.1093/mnras/stab1198; Kim, S. Y., Peter, A. H. G., & Wittman, D. “In the wake of dark giants: new signatures of dark matter self-interactions in equal-mass mergers of galaxy clusters.” Monthly Notices of the Royal Astronomical Society 469(2), 1414–1444 (2017). DOI: 10.1093/mnras/stx896.
+[13] Fischer, M. S., Brüggen, M., Schmidt-Hoberg, K., et al. “N-body simulations of dark matter with frequent self-interactions.” Monthly Notices of the Royal Astronomical Society 505(1), 851–868 (2021). DOI: 10.1093/mnras/stab1198; Kim, S. Y., Peter, A. H. G., & Wittman, D. “In the wake of dark giants: new signatures of dark matter self-interactions in equal-mass mergers of galaxy clusters.” Monthly Notices of the Royal Astronomical Society 469(2), 1414–1444 (2017). DOI: 10.1093/mnras/stx896.
+[14] Gurian, J. & May, S. “Core Collapse Beyond the Fluid Approximation: The Late Evolution of Self-Interacting Dark Matter Halos.” Physical Review Letters 135, 221001 (2025). DOI: 10.1103/2ycz-3fvv.

@@ -1,0 +1,2175 @@
+﻿Dark Matter Failure-Regime Package
+Specialist Companion
+Status: Semantically Frozen Specialist Companion — Release-Ready
+Public Role
+This companion is the human-operable interface among the scientific anchor, the Dark-Matter Failure-Regime Adapter / Contract, the Structural Flow Universal Kernel, and the concrete execution record produced under the scientific protocol.
+It explains how already-adjudicated scientific states are populated into the machine interface, how machine certificates are interpreted, which shortcuts are forbidden, and how a machine result is returned to the scientific claim language owned by the anchor.
+It does not create a fourth scientific or machine authority.
+Governing Scientific Anchor
+Five Failure Regimes in Dark-Matter Light Probes: An Open-Source Pre-Result Demonstration Protocol
+Use the governing accepted edition supplied with the release package.
+Exact release identity belongs to the package manifest and to concrete execution records, not to this companion’s semantic interface.
+Machine Files
+Dark-Matter Failure-Regime Adapter / Contract
+One cumulative domain adapter / contract Lean file.
+Structural Flow Universal Kernel
+Separate domain-neutral Lean file supplied with the release package.
+Purpose and Package Architecture
+The Companion’s Job
+The companion exists so that an independent executor who did not build the package can determine, without hidden author interpretation:
+* which scientific facts must already be established before Lean population;
+* which machine field or burden receives each scientific fact;
+* which machine route is appropriate at each stage of the experiment;
+* what a successful certificate licenses;
+* what an open, violated, blocked, or malformed route means;
+* what the machine result does not establish;
+* and which authority must be consulted when a scientific question remains unresolved.
+The Four Public Layers
+Scientific Anchor
+The scientific anchor owns the experiment, physical interpretation, scientific-state meanings, freeze protocol, result taxonomy, claim ceiling, and empirical reporting rules.
+Dark-Matter Failure-Regime Adapter / Contract
+The adapter owns the machine representation of already-adjudicated scientific states and the conditional routing among the experiment-owned result states.
+Structural Flow Universal Kernel
+The Universal Kernel owns the reusable domain-neutral Structural Flow theorem machinery imported or invoked by the adapter.
+Specialist Companion
+The companion explains execution, population, interpretation, troubleshooting, compatibility, and reporting. It does not overrule the anchor, adapter, or kernel.
+Separate-File Machine Architecture
+The Universal Kernel and the Dark-Matter Failure-Regime Adapter / Contract are separate Lean files in the public package.
+The adapter is checked against the compatible kernel. It is not merged into the kernel source as a new universal theorem family.
+Primary Acceptance Criterion
+The companion is complete only when an independent executor can determine the permitted next machine action from the scientific record and the released package without asking the author what the protocol “really meant.”
+Authority Chain
+Governing Chain
+Physics / Domain Evidence supplies the physical realization, measurements, simulation state, model warrant, thresholds, and other domain-owned evidence.
+The Governing Upstream Physics Authority remains the compatible Physics / Cosmology and dark-matter admission authority inherited by the scientific anchor. The anchor does not manufacture physical admission from Failure-Regime classification, and neither does this companion.
+The Frozen Scientific Protocol adjudicates the experiment-owned scientific state and owns what that state means within the declared execution.
+The Domain Adapter / Contract maps those already-adjudicated states into typed machine records, burdens, predicates, and certificates.
+The Universal Kernel supplies reusable Structural Flow theorem machinery for the compatible universal seats used by the adapter.
+Lean checks the encoded conditional structure.
+The Companion explains how to move among those layers faithfully.
+Authority Firewall
+Lean does not decide whether:
+* a dark-matter candidate is physically warranted;
+* a mechanism is admitted;
+* E occurred;
+* P₀, Pₗ, B, C, or A passed, failed, was not live, or remained unresolved;
+* J_ROUTE passed or failed;
+* a source or light prediction survived;
+* O₂ is the strongest reasonable comparator;
+* Rᵤ exceeded εᵤ under a scientifically valid calibration;
+* a state-completeness ladder is scientifically adequate;
+* K* is physically real;
+* an intervention is physically available;
+* branch records are scientifically compatible;
+* or an empirical claim is true of nature.
+Those are scientific or domain adjudications. Lean checks what follows if they are faithfully represented in the released contract.
+The companion also does not replace the anchor’s inherited upstream authority. Physical-domain admission, mechanism warrant, and dark-matter identification burdens remain owned by the governing compatible physics authority named by the anchor. The experiment and machine package begin downstream of those admissions.
+Closure Grammar
+Scientifically valid, faithfully populated execution record
++
+relevant machine certificate
+→
+anchor-licensed scientific result
+Never:
+machine certificate → empirical truth
+Machine-clean is not physics-confirmed.
+Package Identity and Compatibility
+Stable Semantic Reference
+The adapter and companion identify the scientific authority by stable title and by the rule:
+Use the governing accepted edition supplied with the release package.
+A harmless anchor-version bump does not by itself require a new adapter or companion build.
+Compatibility Rule
+Compatibility is semantic, not numerical.
+A later anchor edition remains compatible only while machine-relevant meanings remain unchanged, including:
+* condition and result meanings;
+* prerequisite and liveness relations;
+* burden ownership;
+* route and branch routing;
+* residual and reopening gates;
+* and program-level licenses and blockers.
+Copyediting, citation repair, layout changes, and explanatory expansion do not by themselves break compatibility.
+Exact filenames, hashes, DOI or release identities, compiler environment, and execution bindings belong to the release manifest and the concrete execution record.
+Vocabulary and Type Firewall
+The scientific protocol and the Lean adapter use several vocabularies that may look similar while performing different jobs. They must not be collapsed into one another.
+Universal Contract Vocabulary
+Disposition.discharged
+A declared contract burden has been positively satisfied under the supplied evidence relation.
+Disposition.violated
+A declared contract burden has been positively failed under the supplied evidence relation.
+Disposition.open
+The burden remains unresolved or otherwise not closed for the requested machine route.
+These are contract-status terms. They are not automatically synonyms for experimental PASS, FAIL, or UNRESOLVED.
+Route-Condition Vocabulary
+ConditionStatus.pass
+The registered scientific test for that live condition passed.
+ConditionStatus.fail
+The registered scientific test for that live condition failed.
+ConditionStatus.notLive
+The registered physical route does not require that condition.
+NOT-LIVE is not PASS and is not FAIL.
+ConditionStatus.unresolved
+The condition is relevant, but the available intrinsic information cannot adjudicate it reliably enough for the requested classification.
+UNRESOLVED is not PASS and is not FAIL.
+J_ROUTE Vocabulary
+JRouteStatus.pass
+The registered physical route performed the task for which it was registered.
+JRouteStatus.fail
+The registered physical route did not perform that task under the frozen domain-native criterion.
+JRouteStatus.unresolved
+The registered criterion cannot adjudicate the route state reliably enough.
+A J_ROUTE failure is necessary for a named route failure or structural-residual route, but J_ROUTE FAIL alone does not identify a Failure Regime.
+Scale Vocabulary
+ScaleRole.primary
+The registered R_PRIMARY seat that owns the confirmatory first-break and closure result for that execution.
+ScaleRole.secondary
+A scientifically reportable diagnostic scale that cannot replace the registered primary result after target access.
+E / produced
+RouteRecord.produced is the machine representation of E: occurrence of the relevant interaction-produced difference.
+Absence of E blocks named first-break evidence and blocks entry into the structural-residual pathway.
+It is not silently converted into Dissolution or another named regime.
+Branch Vocabulary
+BranchBurden
+The frozen pre-target branch-setup requirements required after the route/classification surface and before downstream branch adjudication.
+ComparatorOutcome
+The frozen O₂ comparison outcome after the branch survives measurement:
+* sfWins;
+* o2Wins;
+* tie;
+* or unresolved.
+PrimaryResult
+The branch-level terminal result licensed by the downstream chain:
+* search failure;
+* physicalization failure;
+* source-bridge failure;
+* light-bridge failure;
+* measurement failure;
+* U₁ fail;
+* U₁ not earned;
+* U₁ earned;
+* or unresolved.
+ClosureEffect
+The branch-level foundational-closure consequence.
+Layer-B terminal results do not themselves suspend or reopen foundational closure.
+Residual and Reopening Vocabulary
+ResidualBurden
+The frozen protocol burdens governing observable novelty, SRW replication, state completeness, candidate audit, intervention availability, complete-result replication, and independent reproduction.
+ResidualResult
+The machine-result vocabulary for:
+* novel-observable pressure;
+* SRW candidate;
+* replicated SRW;
+* state-incompleteness resolution;
+* closure suspension;
+* FR₆ candidate;
+* known-capacity reduction resolution;
+* and FR₆ earned.
+ResidualMilestoneCertificate
+A diagnostic proof that one residual milestone has been reached.
+Because residual predicates are cumulative, a milestone certificate is not by itself a final scientific reporting license.
+ResidualReportingCertificate
+The final or primary residual-reporting certificate.
+It uses PrimaryResidualResultEvidence, which excludes stronger simultaneously active residual states so that the machine cannot under-report a suspension, restoration, or reopening as a weaker earlier milestone.
+FoundationalClosureStatus
+The machine-reporting status of the five-regime closure at the tested scope:
+* unchanged;
+* suspended;
+* restoredAtTestedScope;
+* or reopenedAtTestedScope.
+restoredAtTestedScope
+Closure had been placed under foundational pressure and suspended, but a known-capacity reduction or functional equivalence subsequently resolved the residual witness under the governing scientific adjudication.
+This is not the same state as never having been pressured.
+Program-Level Vocabulary
+Program claim-support set
+The exact branch set frozen before target access as the support set for one particular cross-branch or cross-regime claim.
+Complete registered accounting
+Every branch registered in the execution remains represented in the final program record, including adverse, unresolved, or untested branches.
+Optional first-break and closure fields
+ProgramContract.firstBreakClass and ProgramContract.closureStatusAt use Option values.
+none is lawful where the scientific record is unresolved, untested, or otherwise has no earned value.
+The operator must not invent a class or closure state merely to complete a machine record.
+Closure pressure and finalization
+ProgramContract.closureTestPlacedUnderPressure records whether the foundational closure test was actually placed under the relevant registered pressure.
+ProgramContract.closureStatusFinalized records whether the closure result is scientifically final enough for program-level reporting.
+Cross-regime U₁ license
+A machine certificate that the frozen support set satisfies the encoded program-level U₁ aggregation burdens.
+It does not replace branch records and does not adjudicate empirical truth.
+Program closure-survival license
+A separate machine certificate requiring:
+* actual foundational pressure;
+* finalized closure status;
+* and a final status of unchanged or restoredAtTestedScope for every relevant frozen support branch.
+Cross-regime U₁ success does not imply this license.
+Critical Non-Equivalences
+Disposition.discharged ≠ experimental PASS
+Disposition.violated ≠ experimental FAIL, unless the specific mapping says so.
+NOT-LIVE ≠ FAIL
+UNRESOLVED ≠ FAIL
+UNRESOLVED ≠ PASS
+J_ROUTE FAIL ≠ named first break
+PASS ≠ sixth Failure Regime
+U₁ EARNED ≠ five-regime closure survived
+CLOSURE SUSPENDED ≠ FR₆ EARNED
+restoredAtTestedScope ≠ never-pressured unchanged
+ResidualMilestoneCertificate ≠ final residual report
+none ≠ invented first-break or closure value
+machine certificate ≠ empirical adjudication
+Scientific Record → Machine Population Ledger
+Purpose
+This ledger states where machine values come from.
+It never supplies those values.
+The governing rule is simple:
+Scientific authority adjudicates the state.
+The execution record preserves that adjudication.
+The adapter receives the adjudicated state.
+Lean checks what follows from it.
+A machine field must therefore never be populated merely because a particular value makes a theorem easier to prove.
+For each machine destination, the operator should be able to identify six things:
+Machine destination — the exact adapter field or burden family.
+Scientific owner / source — the anchor-owned record or domain adjudication that supplies the value.
+Population time — when that value is fixed or adjudicated.
+Forbidden source — information that may not lawfully be used to populate it.
+Open / unresolved behavior — whether a non-final state is permitted and what that state means.
+Claim consequence — what the populated value can constrain or license.
+Route / Classification Population
+RouteRecord.objectId
+Scientific owner / source: the independently warranted physical candidate or execution-domain identity.
+Population time: route registration, before confirmatory classification.
+Forbidden source: the desired Failure-Regime label or held-out light morphology.
+Open / unresolved: the identifier itself is not an adjudication state. If the physical object has not been identified, there is no valid route record to populate.
+Claim consequence: binds the route record to its owning physical object without converting failure of one route into failure or dissolution of the entire object.
+RouteRecord.routeId
+Scientific owner / source: the minimum-admissible-route record.
+Population time: pre-target route registration.
+Forbidden source: a retrospective subdivision selected after target inspection because it produces a cleaner result.
+Open / unresolved: there is no valid confirmatory route record without a pinned route identity.
+Claim consequence: scopes J_ROUTE and the five condition tests to one declared physical participation relation.
+RouteRecord.scaleId
+Scientific owner / source: the registered physical-scale record.
+Population time: pre-target freeze.
+Forbidden source: a post-result scale selected because it yields a cleaner classification.
+Open / unresolved: the scale identifier must be pinned for a confirmatory route.
+Claim consequence: binds the result to the declared scale.
+RouteRecord.scaleRole
+Scientific owner / source: the R_PRIMARY declaration and any secondary-scale declarations.
+Population time: pre-target freeze.
+Forbidden source: post-result promotion of a secondary diagnostic scale.
+Open / unresolved: there is no third machine state. Primary ownership must be explicit for a primary confirmatory certificate.
+Claim consequence: only the primary scale can own PrimaryConfirmatoryFirstBreak and tested-scope closure reporting.
+A secondary scale may remain scientifically informative. It may not replace R_PRIMARY after the target is known.
+RouteRecord.produced
+Scientific owner / source: the frozen adjudication of E from permitted intrinsic or domain evidence.
+Population time: route adjudication under the frozen classifier.
+Forbidden source: held-out light morphology or the desired first-break class.
+Open / unresolved: this machine field is a proposition. If E itself remains scientifically unresolved, the operator must not manufacture a completed confirmatory route by guessing its value.
+Claim consequence: positive E is required for named first-break evidence and for entry into the Structural Residual Witness pathway.
+Absence of E does not become Dissolution. It blocks the first-break and residual route.
+RouteRecord.jRoute
+Scientific owner / source: F_J(D_intrinsic) under the frozen J_ROUTE specification.
+Population time: intrinsic route adjudication before the held-out probe is used as confirmatory evidence.
+Forbidden source: the Failure-Regime label or held-out target statistic.
+Open / unresolved: JRouteStatus.unresolved is explicit and blocks named confirmatory failure routing.
+Claim consequence: J_ROUTE PASS blocks named first-break licensing. J_ROUTE FAIL is required for a named first break or an SRW, but is not sufficient by itself for either one.
+RouteRecord.g.p0
+Scientific owner / source: the frozen P₀ classifier.
+Population time: intrinsic route adjudication.
+Forbidden source: lensing morphology or any downstream branch result.
+Open / unresolved: NOT-LIVE and UNRESOLVED remain distinct machine states.
+Claim consequence: participates in prerequisite consistency and in discrimination among Dissolution, Shear, and every later first-break class.
+RouteRecord.g.pl
+Scientific owner / source: the frozen Pₗ classifier.
+Population time: intrinsic route adjudication.
+Forbidden source: morphology or a downstream failure.
+Open / unresolved: NOT-LIVE and UNRESOLVED are preserved.
+Claim consequence: participates in liveness closure, prerequisite consistency, and discrimination between Shear and later first-break classes.
+RouteRecord.g.boundary
+Scientific owner / source: the frozen Boundary test.
+Population time: intrinsic route adjudication.
+Forbidden source: a visible offset treated as a class label without an independently adjudicated route-level relation.
+Open / unresolved: NOT-LIVE and UNRESOLVED are preserved.
+Claim consequence: participates in discrimination between Drift and later first-break classes.
+RouteRecord.g.cascade
+Scientific owner / source: the frozen receiver-specific Cascade test.
+Population time: intrinsic route adjudication.
+Forbidden source: recurrence, repetition, or repeated morphology without a physically warranted receiving dependency.
+Open / unresolved: NOT-LIVE and UNRESOLVED are preserved.
+Claim consequence: participates in Echo / Lock discrimination.
+RouteRecord.g.authorization
+Scientific owner / source: the frozen Authorization or incorporation test.
+Population time: intrinsic route adjudication.
+Forbidden source: generic history dependence or hysteresis without the declared incorporation burden.
+Open / unresolved: NOT-LIVE and UNRESOLVED are preserved.
+Claim consequence: participates in Lock discrimination and in the all-five-no-break control state.
+Route-Entry Burdens
+Contract.entryState : EntryBurden → Disposition
+This family receives the scientific adjudication of the route-entry requirements.
+The covered burdens are:
+* physicalCandidateWarrant;
+* mechanismAdmission;
+* participationRelationPinned;
+* minimumAdmissibleRoute;
+* primaryScaleOwnershipFrozen;
+* jRouteCriterionFrozen;
+* capacityTestsFrozen;
+* intrinsicInputBoundaryPinned;
+* heldOutProbeExcluded;
+* and preTargetFreezeIntact.
+Scientific owner / source: the pre-target execution and freeze record.
+Population time: before confirmatory first-break machine licensing.
+Forbidden source: a post-target rescue, an unsupported machine default, or an inference made solely because a later theorem is desired.
+Open / unresolved: Disposition.open is explicit and blocks EntryReady.
+Claim consequence: every required entry burden must be discharged before the adapter can license a confirmatory first-break route.
+Contract.entryEvidence and entryWarrant
+Scientific owner / source: the execution-owned evidence relation supporting the declared entryState.
+Population time: with construction of the route contract.
+Forbidden source: a bare assertion inserted solely to satisfy Lean.
+Open / unresolved: the evidence must correspond to the actual declared disposition.
+Claim consequence: prevents the contract status from functioning as an unbacked machine label.
+The machine should therefore never contain:
+“discharged because the proof needs discharged.”
+It should contain:
+“the scientific record adjudicated this burden as discharged, and this evidence witness maps that adjudication into the contract.”
+Branch Adjudication Population
+Once the route/classification surface is populated, the branch contract carries the experiment forward through source prediction, ordinary gravitational propagation, measurement, and the O₂ comparison.
+Layer B does not repair Layer A. An unresolved or invalid route remains unresolved or invalid downstream.
+BranchContract.branchId
+Scientific owner / source: the registered branch identity.
+Population time: branch registration.
+Forbidden source: post-result regrouping of cases into a more favorable branch.
+Open / unresolved: branch identity must be pinned for a branch record.
+Claim consequence: scopes the branch-local result and later program accounting.
+BranchContract.routeContract
+Scientific owner / source: the already-populated route/classification contract for the same branch.
+Population time: before branch-result adjudication.
+Forbidden source: a route record reconstructed from the downstream outcome.
+Open / unresolved: an open Layer-A state remains open. Layer B does not repair it.
+Claim consequence: preserves route and classification authority upstream of branch outcomes.
+BranchContract.declaredClass
+Scientific owner / source: the pre-target branch registration identifying the first-break class the branch is constructed to instantiate.
+Population time: before confirmatory target access.
+Forbidden source: whichever class appears to fit the observed probe result best.
+Open / unresolved: there is no machine UNRESOLVED constructor for this field. If a clean class cannot be scientifically declared, the branch must not be populated as though it were a clean declared-class branch.
+Claim consequence: permits the adapter to distinguish confirmed physicalization from a mismatch between the registered branch and the intrinsic route classification.
+Branch Freeze Burdens
+BranchContract.branchState : BranchBurden → Disposition
+The branch-state family carries the frozen setup requirements for downstream testing.
+The relevant burdens are:
+* matchedControlFrozen;
+* sourcePredictionFrozen;
+* lightPredictionFrozen;
+* measurementPipelineFrozen;
+* ordinaryComparatorFrozen;
+* utilityCriterionFrozen;
+* targetHoldoutIntact;
+* and branchFreezeVerified.
+Scientific owner / source: the pre-target freeze record.
+Population time: freeze stage.
+Forbidden source: a post-unblinding repair hidden inside the confirmatory record.
+Open / unresolved: an open burden blocks BranchSetupReady.
+Claim consequence: all required branch burdens must be discharged before the adapter can license downstream confirmatory branch results.
+Search Adequacy
+BranchContract.searchState
+Scientific owner / source: the execution-owned adjudication of whether the registered domain actually placed the branch under adequate pressure.
+Population time: execution or result stage under the frozen search rule.
+Forbidden source: a downstream branch failure reinterpreted as evidence that the search itself was adequate.
+Open / unresolved: Disposition.open is permitted and blocks adequate-result routing.
+Claim consequence:
+violated → SEARCH FAILURE
+discharged → later branch results may proceed if all other required burdens hold.
+Search failure means the execution failed to place the branch under its intended pressure. It is not positive evidence for or against the branch hypothesis.
+Source Bridge
+BranchContract.sourceBridgeState
+Scientific owner / source: the anchor-owned adjudication of the frozen source prediction.
+Population time: after clean physicalization of the registered branch.
+Forbidden source: the held-out light result used to infer whether the source bridge succeeded.
+Open / unresolved: an open state remains non-terminal. It may not be coerced into either failure or success.
+Claim consequence:
+a violated source bridge after confirmed physicalization → SOURCE-BRIDGE FAILURE
+a discharged source bridge → required before later light and measurement stages can be licensed.
+Light Bridge
+BranchContract.lightBridgeState
+Scientific owner / source: ordinary gravitational forward-model adjudication of the frozen probe consequence.
+Population time: after the source prediction survives.
+Forbidden source: measurement recovery substituted for the truth-level light bridge.
+Open / unresolved: an open state blocks later terminal licenses.
+Claim consequence:
+a violated light bridge after source survival → LIGHT-BRIDGE FAILURE
+a discharged light bridge → required before the measurement result can carry downstream.
+Measurement
+BranchContract.measurementState
+Scientific owner / source: the frozen measurement and reconstruction recovery test.
+Population time: after the truth-level light consequence has been established.
+Forbidden source: absence of a source or truth-level light consequence recoded as a measurement failure.
+Open / unresolved: an open state blocks O₂ / U₁ terminal results.
+Claim consequence:
+a violated measurement burden after earlier survival → MEASUREMENT FAILURE
+a discharged measurement burden → required before comparator adjudication.
+Ordinary-Physics Comparator
+BranchContract.comparatorOutcome
+Scientific owner / source: the frozen primary O₂ / U₁ comparison under the same target and the same pre-target information budget.
+Population time: after branch survival through measurement.
+Forbidden source: a secondary utility metric selected after seeing the target.
+Open / unresolved: ComparatorOutcome.unresolved is explicit.
+Claim consequence:
+sfWins → U₁ EARNED, if all predecessor burdens survive.
+o2Wins → U₁ FAIL.
+tie → U₁ NOT EARNED.
+unresolved → no stronger utility result is licensed.
+U₁ EARNED is always scoped to the declared branch and primary utility criterion. It is not a foundational closure result.
+Branch Result Certificate
+ResultCertificate.primaryResult and licensed
+Scientific owner / source: the terminal branch result derived from the populated BranchContract under the adapter predicates.
+Population time: branch adjudication.
+Forbidden source: a free-form global statement such as “the experiment passed” or “SF failed.”
+Open / unresolved: PrimaryResult.unresolved is available only where the encoded unresolved route applies. Malformed or invalid inputs are not converted into UNRESOLVED merely to produce an output.
+Claim consequence: the certificate reports the narrowest licensed branch result.
+The branch layer preserves the location of failure:
+search → physicalization → source → light → measurement → O₂ / U₁
+A failure at one of those stages does not silently migrate upstream into foundational Failure-Regime pressure.
+Layer-B results therefore remain branch-local unless and until the separately gated residual pathway is lawfully opened.
+Route / First-Break Machine Interface
+Operator Purpose
+The route / first-break interface is the first machine seat at which the scientific execution can ask Lean for a named Failure-Regime certificate.
+The machine does not:
+* discover the route;
+* choose the physical object;
+* decide the primary scale;
+* or infer condition states from a probe image.
+Those facts must already exist in the frozen scientific record.
+The operator’s task is therefore translation without reinterpretation:
+1. identify the already-warranted physical object, route, and scale;
+2. populate the route record from the frozen intrinsic scientific adjudication;
+3. populate and warrant the entry burdens;
+4. preserve the four-state condition vocabulary exactly;
+5. request only the machine proposition actually licensed by that record.
+Build the Route Contract Before Asking for a Class
+A valid route packet has two parts.
+RouteRecord
+This contains:
+* object;
+* route;
+* scale;
+* E / produced;
+* J_ROUTE;
+* and G = (P₀, Pₗ, B, C, A).
+Contract
+This contains the RouteRecord plus the pre-outcome EntryBurden dispositions and their evidence / warrant relation.
+EntryReady means every required EntryBurden is:
+Disposition.discharged
+An entry burden that is:
+Disposition.open
+or:
+Disposition.violated
+blocks the confirmatory first-break route.
+The operator must return to the anchor-owned record rather than insert a favorable disposition merely to make a proof go through.
+The entry surface is deliberately broader than the five condition tests. It includes:
+* physical-candidate warrant;
+* mechanism admission;
+* participation-relation pinning;
+* minimum-admissible-route status;
+* frozen primary-scale ownership;
+* frozen J_ROUTE;
+* frozen capacity tests;
+* the intrinsic-input boundary;
+* held-out-probe exclusion;
+* and intact pre-target freeze.
+A clean G vector cannot compensate for a broken entry surface.
+Preserve the Four-State G Vector
+ConditionStatus.pass, fail, notLive, and unresolved are scientific states supplied by the frozen route adjudication.
+They are not alternative spellings for Boolean true and false.
+The operator must preserve three distinctions.
+NOT-LIVE
+The registered route does not require the condition.
+UNRESOLVED
+The condition is relevant, but it cannot be adjudicated to the required reliability.
+FAIL
+The live registered test positively failed.
+RegistrationConsistent requires both scientific prerequisite consistency and prerequisite-closed liveness.
+In practical terms:
+* a downstream condition cannot remain live after a structurally required predecessor has been declared NOT-LIVE;
+* and a later PASS cannot erase an earlier live FAIL.
+An inconsistent record is not converted into the nearest regime.
+It is an inadmissible confirmatory input until the scientific registration problem is repaired under the anchor’s amendment rules.
+J_ROUTE Is a Separate Gate
+J_ROUTE answers whether the registered physical route performed its domain-native task.
+It is not itself the first-break classifier.
+The machine therefore distinguishes:
+JRouteStatus.pass — the route succeeded under the frozen physical criterion.
+JRouteStatus.fail — the route failed and may be eligible for a named first break or later residual analysis.
+JRouteStatus.unresolved — the route-success criterion itself is not adjudicated.
+LicensedFirstBreak requires:
+J_ROUTE = FAIL
+A route with J_ROUTE = PASS or UNRESOLVED cannot receive a named first-break license merely because one field of G has an attractive pattern.
+LicensedFirstBreak
+LicensedFirstBreak is the route-level machine proposition for a named class.
+It requires all of the following:
+* EntryReady;
+* J_ROUTE = FAIL;
+* RegistrationConsistent G;
+* FirstBreakEvidence for the requested class.
+FirstBreakEvidence is prefix-sensitive.
+The requested break condition must FAIL, and every class-defining predecessor must PASS.
+Later conditions do not redefine an earlier first break.
+The five machine class patterns mirror the anchor’s scientific decision matrix:
+Dissolution — E present; P₀ FAIL.
+Shear — E present; P₀ PASS; Pₗ FAIL.
+Drift — E present; P₀ PASS; Pₗ PASS; B FAIL.
+Echo — E present; P₀ PASS; Pₗ PASS; B PASS; C FAIL.
+Lock — E present; P₀ PASS; Pₗ PASS; B PASS; C PASS; A FAIL.
+NOT-LIVE or UNRESOLVED at a condition required for the requested class blocks that class.
+A failed predecessor blocks every later class that presupposes its success.
+PrimaryConfirmatoryFirstBreak
+PrimaryConfirmatoryFirstBreak adds one burden to LicensedFirstBreak:
+the record must own:
+ScaleRole.primary
+This distinction matters because the anchor permits scientifically useful secondary diagnostic scales while reserving the confirmatory first-break and closure result for the pre-registered R_PRIMARY seat.
+A FirstBreakCertificate on a secondary scale can still encode a scoped route-level result.
+But it is not a PrimaryFirstBreakCertificate, and it cannot replace the frozen primary result after target access.
+PASS Control Is Not Depth 5 in Every Case
+RoutePassControl is the domain-level non-failure control.
+It requires:
+* J_ROUTE = PASS;
+* RegistrationConsistent G;
+* no physically live foundational condition FAILS.
+LicensedRoutePassControl adds the clean EntryReady surface.
+This is intentionally broader than the kernel’s fully-live depth-5 projection.
+A route may be a valid PASS control while one or more downstream conditions are legitimately NOT-LIVE.
+Such a record is not forced into the fully-live Boolean-depth interface.
+AllFivePass and kernel depth 5 are used only where all five conditions are:
+* fully live;
+* resolved;
+* and PASS.
+The operator must not use depth 5 as a generic synonym for every scientific PASS control.
+RouteFailureWithoutKnownBreak Is Only a Handoff Surface
+RouteFailureWithoutKnownBreak means:
+* J_ROUTE = FAIL;
+* the registered G vector is consistent;
+* no physically live known foundational condition FAILS.
+This state is intentionally not named SRW.
+It contains no claim that:
+* the ordinary model library has been cleared;
+* the mixture model has been cleared;
+* the measurement pipeline has been cleared;
+* the novelty threshold has been crossed;
+* replication has succeeded;
+* or the state-completeness ladder has been exhausted.
+The correct operator interpretation is:
+the route failed and the known live first-break tests did not classify that failure at this stage.
+The next permitted machine action is a residual audit only after the relevant branch and ordinary-explanation gates are satisfied.
+The operator must not report:
+* SRW;
+* closure suspension;
+* or FR₆
+from this route-level handoff alone.
+KernelCompatible Is a Relation, Not a Coercion
+The Universal Kernel represents foundational capacities propositionally.
+The experiment represents P₀, Pₗ, B, C, and A using four scientific states.
+The adapter therefore uses KernelCompatible to relate the two representations without erasing scientific information.
+Under ConditionCompatible:
+PASS constrains the corresponding kernel proposition to hold.
+FAIL constrains the corresponding kernel proposition not to hold.
+NOT-LIVE imposes no Boolean truth-value claim.
+UNRESOLVED imposes no Boolean truth-value claim.
+A kernel-compatible snapshot must therefore not be read backward as though Lean had adjudicated a NOT-LIVE or UNRESOLVED scientific condition.
+For fully live, resolved records, resolvedKernelProjection supplies the narrower Boolean projection used for firstBreakDepth.
+That projection is not the general route-record representation.
+Named FirstBreakEvidence maps into one of the Universal Kernel’s already-existing five FailureClosure regimes.
+The adapter does not create a sixth kernel class.
+It also does not replace the scientific route record with the kernel snapshot.
+Route-Level Certificates
+FirstBreakCertificate
+Contains:
+* the licensed FirstBreakClass;
+* and a proof that LicensedFirstBreak holds for the populated Contract.
+PrimaryFirstBreakCertificate
+Contains:
+* the licensed FirstBreakClass;
+* and a proof that PrimaryConfirmatoryFirstBreak holds for the populated Contract.
+Read either certificate in this order:
+1. identify the Contract and therefore its ObjectId / RouteId / ScaleId binding;
+2. identify the licensed class;
+3. determine whether primary-scale ownership is part of the requested certificate;
+4. return to the anchor for scientific meaning and reporting ceiling.
+Neither certificate says that the entire ObjectId is a Dissolution, Shear, Drift, Echo, or Lock object.
+The certificate remains route-scoped.
+Schematic Invalid-Input Examples
+Example A — Downstream Liveness Bypass
+Suppose:
+P₀ = PASS
+Pₗ = NOT-LIVE
+B = PASS
+This is not a Drift-capable prefix.
+B cannot remain live through a structurally required predecessor declared NOT-LIVE.
+Registration consistency fails.
+Do not relabel the record.
+Example B — Unresolved Predecessor
+Suppose:
+P₀ = PASS
+Pₗ = UNRESOLVED
+B = FAIL
+Do not report Drift.
+The predecessor required to reach the Boundary break is unresolved.
+Example C — Route Success Plus Apparent Condition Failure
+Suppose:
+J_ROUTE = PASS
+P₀ = FAIL
+Do not request a named first-break license.
+The record requires upstream scientific adjudication, and J_ROUTE PASS blocks LicensedFirstBreak.
+Example D — Secondary Diagnostic Class
+Suppose a secondary scale cleanly satisfies the Shear pattern while the registered R_PRIMARY result is different or unresolved.
+The secondary result remains scientifically reportable as a diagnostic.
+It cannot be promoted to PrimaryConfirmatoryFirstBreak after target access.
+Route-Interface Exit Rule
+Proceed to branch adjudication only after the route / classification state required by the branch is scientifically meaningful and faithfully represented.
+If:
+* the route is malformed;
+* entry remains open or violated;
+* or intrinsic classification remains unresolved,
+preserve that limitation.
+Do not use later machine layers to repair an earlier scientific record.
+Branch Adjudication Machine Interface
+Operator Purpose
+The branch interface begins after the route / classification seat.
+Its job is to preserve the one-way experimental chain from:
+search
+→ physicalization
+→ source
+→ light
+→ measurement
+→ O₂ / U₁ comparison
+The branch layer does not decide whether the five-regime architecture is foundationally complete.
+It localizes lower-level outcomes so that failure at one scientific link is not promoted into a stronger upstream claim.
+Build BranchContract From the Existing Route Contract
+BranchContract carries:
+* branchId;
+* the already-populated route contract;
+* declaredClass — the class the branch was built to instantiate;
+* pre-target BranchBurden dispositions;
+* searchState;
+* sourceBridgeState;
+* lightBridgeState;
+* measurementState;
+* comparatorOutcome.
+The route contract is not reconstructed from downstream evidence.
+The branch must inherit the same scientific route record that was registered before the target result was known.
+BranchSetupReady requires every required BranchBurden to be discharged:
+* matched control;
+* source prediction;
+* light prediction;
+* measurement pipeline;
+* O₂ comparator;
+* utility criterion;
+* target holdout;
+* branch freeze verification.
+An open or violated branch-setup burden blocks downstream branch-result licensing.
+Missing setup must not be reinterpreted as a negative scientific result.
+Search Comes First
+SearchAdequate, SearchFailed, and SearchOpen are separate from physicalization.
+SEARCH FAILURE means the registered domain did not place the branch under the intended pressure.
+It is terminal for that execution path before the branch’s scientific prediction is tested.
+Search failure is not:
+* physicalization failure;
+* or evidence that the branch prediction is false.
+Conversely, SearchAdequate is required before downstream branch-result routes can proceed.
+Physicalization Adjudication
+PhysicalizationAdjudicationReady requires:
+* route EntryReady;
+* primary-scale ownership;
+* RegistrationConsistent G.
+It says the route surface is clean enough for the declared branch class to be judged.
+It does not say the declared class has been confirmed.
+DeclaredPhysicalizationConfirmed
+The route has a PrimaryConfirmatoryFirstBreak in the branch’s declaredClass.
+KnownPhysicalizationMismatch
+This is a resolved scientific mismatch, not merely absence of confirmation.
+It can arise when:
+* E is absent;
+* the route is a valid PASS control;
+* or a different known primary first break is licensed.
+IntrinsicClassificationOpen
+This is different.
+It preserves a scientifically unresolved route state instead of converting it into a mismatch.
+An unresolved J_ROUTE or unresolved intrinsic failure state does not become PHYSICALIZATION FAILURE merely because the declared class was not proved.
+Malformed registration and violated entry burdens remain invalid upstream inputs.
+They are not converted into scientific UNRESOLVED by the branch layer.
+RouteUnknownHandoff
+RouteUnknownHandoff requires:
+* clean branch setup;
+* adequate search;
+* clean physicalization-adjudication entry;
+* E present;
+* and RouteFailureWithoutKnownBreak.
+This is the branch-to-residual handoff.
+It is still not an SRW.
+The operator should read it as:
+the branch has reached a genuine primary route failure not classified by the known live first-break map; the residual layer may now test whether ordinary explanations and the residual/newness gates are satisfied.
+Do not report foundational pressure from RouteUnknownHandoff alone.
+One-Way Terminal Result Order
+The branch chain is:
+SEARCH
+→ PHYSICALIZATION
+→ SOURCE BRIDGE
+→ LIGHT BRIDGE
+→ MEASUREMENT
+→ O₂ / U₁
+A later terminal result presupposes survival of every required earlier link.
+The operator reports the earliest live failed link, not the most dramatic downstream description.
+PrimaryResult States
+SEARCH FAILURE
+Licensed when BranchSetupReady holds and searchState is violated.
+Scientific meaning: the registered search / target surface failed to place the branch under the intended pressure.
+Foundational consequence: untested by that branch.
+PHYSICALIZATION FAILURE
+Licensed only after adequate search and a resolved KnownPhysicalizationMismatch.
+Scientific meaning: the proposed ordinary-physics realization did not instantiate the registered class.
+Foundational consequence: unchanged.
+SOURCE-BRIDGE FAILURE
+Licensed only after adequate search and DeclaredPhysicalizationConfirmed, when sourceBridgeState is violated.
+Scientific meaning: a cleanly classified route did not produce the frozen source consequence.
+Foundational consequence: unchanged.
+LIGHT-BRIDGE FAILURE
+Licensed only after source survival, when the ordinary-gravity / probe translation is violated.
+Scientific meaning: the source difference survived but did not produce the registered truth-level light consequence.
+Foundational consequence: unchanged.
+MEASUREMENT FAILURE
+Licensed only after source and light survival, when measurementState is violated.
+Scientific meaning: the truth-level probe consequence existed, but the frozen measurement / reconstruction path did not recover it.
+Foundational consequence: unchanged.
+U₁ FAIL
+Licensed only after survival through measurement and:
+comparatorOutcome = o2Wins
+Scientific meaning: O₂ outperformed the SF-organized prediction on the frozen primary utility criterion.
+Foundational consequence: unchanged.
+U₁ NOT EARNED
+Licensed only after survival through measurement and:
+comparatorOutcome = tie
+Scientific meaning: the branch may still support derivational convergence, but incremental SF utility is not earned.
+Foundational consequence: unchanged.
+U₁ EARNED
+Licensed only after survival through measurement and:
+comparatorOutcome = sfWins
+Scientific meaning: branch- and metric-scoped incremental predictive utility under the anchor’s frozen comparison rule.
+Foundational consequence: unchanged.
+U₁ EARNED is not a closure-survival certificate.
+UNRESOLVED
+Licensed only at the earliest live branch gate whose predecessors have survived.
+It is not a generic fallback for malformed input or a previously failed earlier stage.
+Scientific meaning: the branch cannot yet receive one of the resolved branch-level terminal results under the populated record.
+Foundational consequence: no result.
+ResultCertificate
+ResultCertificate contains:
+* one PrimaryResult;
+* and a proof that ResultEvidence licenses that result for the populated BranchContract.
+The operator must read a ResultCertificate together with:
+* branch identity;
+* inherited route / object / scale identity;
+* the exact predecessor-survival chain;
+* closureEffect for that PrimaryResult;
+* and the anchor’s scientific result taxonomy.
+The certificate does not independently prove that the source, light, measurement, or comparator adjudications were scientifically correct.
+It proves only that the encoded terminal result follows from the supplied machine record.
+ClosureEffect Firewall
+The branch layer intentionally has only three closure effects:
+* unchanged;
+* untestedByBranch;
+* noResult.
+No branch-level terminal result suspends or reopens the five-regime closure.
+This remains true even for:
+U₁ EARNED
+The firewall prevents two opposite mistakes:
+* a lower-level failure being exaggerated into foundational novelty;
+* a positive utility result being exaggerated into proof that foundational closure survived.
+Foundational pressure is adjudicated separately in the residual layer.
+Adapter-Coverage Boundary
+PrimaryResult is selective rather than exhaustive. DCR, purity, known mixture, coalescence, underpowered states, and other execution-schema states remain anchor-owned unless they feed an encoded machine route. Absence of a dedicated constructor does not invalidate those scientific states; the global Machine-Coverage Boundary below governs when an omitted distinction creates adapter pressure. Novel-observable, SRW, closure-suspension, and FR₆ states remain in the residual layer rather than the branch-result layer.
+Branch-Interface Exit Rule
+If the branch terminates at:
+* SEARCH;
+* PHYSICALIZATION;
+* SOURCE;
+* LIGHT;
+* MEASUREMENT;
+* or O₂ / U₁,
+report that narrowest licensed result and stop the branch chain there.
+Enter the residual layer only when:
+* the scientific record has opened the residual pathway;
+* and the route state satisfies the residual handoff burdens.
+Do not use the residual layer to rescue an ordinary branch failure.
+Residual / Reopening Population
+The residual layer is where the protocol becomes deliberately difficult to escalate.
+Its purpose is not to make novelty easy to recognize. Its purpose is to ensure that an unusual observable cannot become foundational pressure until ordinary explanations, route status, replication, state completeness, candidate newness, reduction, intervention, irreducibility, and reproduction have all been handled in the order established by the scientific anchor.
+ResidualContract.branch
+Scientific owner / source: the already-populated BranchContract for the same execution branch.
+Population time: before residual adjudication.
+Forbidden source: branch facts reconstructed retrospectively from the residual conclusion.
+Open / unresolved: any unresolved or invalid upstream branch state remains a blocker.
+Claim consequence: preserves the lower-level scientific chain before foundational escalation.
+The SRW route inherits RouteUnknownHandoff from this branch. It does not rebuild a weaker route-failure test inside the residual layer.
+Residual-Protocol Freeze Burdens
+ResidualContract.residualState : ResidualBurden → Disposition
+This family carries the frozen residual and newness decision machinery.
+The relevant burdens include:
+* observableLibraryFrozen;
+* noveltyThresholdFrozen;
+* nonFoundationalRecheckRuleFrozen;
+* srwReplicationRuleFrozen;
+* stateCompletenessLadderFrozenPreTarget;
+* candidateAuditRuleFrozen;
+* interventionAvailabilityRuleFrozen;
+* completeResultReplicationRuleFrozen;
+* and independentReproductionRuleFrozen.
+Scientific owner / source: the pre-frozen residual and foundational-newness protocol records.
+Population time: at the corresponding pre-target or pre-candidate freeze seats required by the anchor.
+Forbidden source: rules invented after an anomaly is observed in order to promote it.
+Open / unresolved: an open burden blocks ResidualEntryReady.
+Claim consequence: no residual or newness result may outrun the frozen audit machinery that governs it.
+Observable Novelty
+ResidualContract.ruAboveThreshold
+Scientific owner / source: the frozen Rᵤ / εᵤ adjudication after application of the closed observable library.
+Population time: novelty evaluation.
+Forbidden source: visual unfamiliarity alone.
+Open / unresolved: unresolved novelty calibration must not be populated as True.
+Claim consequence: True is necessary for NOVEL-OBSERVABLE PRESSURE, but it is insufficient for an SRW.
+An unusual-looking target is therefore not enough.
+The machine question is whether the registered closed library leaves a residual satisfying:
+Rᵤ > εᵤ
+under the scientifically valid, pre-frozen calibration.
+Non-Foundational Recheck
+ResidualContract.nonFoundationalExplanationsCleared
+Scientific owner / source: the registered recheck of measurement, source modeling, mixture, nuisance structure, numerical effects, and other non-foundational explanations.
+Population time: after observable novelty pressure and before SRW licensing.
+Forbidden source: the assumption that an unexplained morphology is therefore structural novelty.
+Open / unresolved: unresolved ordinary explanations block escalation.
+Claim consequence: required before route-level residual pressure can be licensed.
+Structural Residual Witness Entry
+SRWCandidate / RouteUnknownHandoff
+Scientific owner / source: the already-populated BranchContract, together with the residual gates above.
+Population time: only after observable novelty pressure has been established and non-foundational explanations have been cleared.
+Forbidden source: rebuilding a weaker route-failure predicate manually.
+Open / unresolved: all of the following block SRW entry:
+* search failure;
+* search remaining open;
+* a secondary rather than primary scale;
+* broken branch setup;
+* open or violated route-entry burdens;
+* absent E;
+* unresolved required route conditions;
+* or an already-known first break.
+Claim consequence: the released adapter requires the full RouteUnknownHandoff, preserving primary-scale ownership and the one-way branch-to-residual handoff.
+An SRW is therefore not:
+“something strange remained.”
+It is much narrower:
+a genuine primary-scale route failure, with E present, after a valid upstream branch handoff, for which no live known first break accounts for the failure and ordinary non-foundational explanations have been cleared under the frozen protocol.
+SRW Replication
+ResidualContract.srwReplicationSucceeded
+Scientific owner / source: the predeclared SRW replication execution.
+Population time: after an SRW candidate has been established.
+Forbidden source: repeated analysis of the same uncontrolled witness counted as independent replication.
+Open / unresolved: unresolved or failed replication does not suspend closure.
+Claim consequence: replication is required for ReplicatedSRW and every later foundational state.
+One SRW candidate does not reopen or suspend anything.
+State-Completeness Audit
+ResidualContract.stateCompletenessExhausted
+ResidualContract.richerOrdinaryStateResolves
+ResidualContract.maximalStateResidualPersists
+Scientific owner / source: the completed S₀ … Sₖ state-completeness audit under the pre-frozen ladder.
+Population time: after a replicated SRW.
+Forbidden source: ad hoc state enrichment after the anomaly or preference for novelty over an ordinary explanation.
+Open / unresolved: unresolved exhaustion, resolution, or persistence does not license closure suspension.
+Claim consequence:
+richerOrdinaryStateResolves = True supports STATE-INCOMPLETENESS RESOLVED.
+Otherwise, a replicated SRW together with:
+* exhaustion of the pre-frozen state ladder;
+* no richer ordinary-state resolution;
+* and persistence of the residual at maximal state
+supports a MAXIMAL-STATE STRUCTURAL RESIDUAL and therefore CLOSURE SUSPENDED.
+The central anti-novelty question here is:
+Did the apparent new structural failure disappear when the route was represented with a richer ordinary physical state already admitted by the frozen protocol?
+If yes, the novelty route stops.
+Positive Candidate Proposal
+ResidualContract.candidateProposed
+Scientific owner / source: a positive K* proposal or a proposed new irreducible loss surface after closure suspension.
+Population time: only after the maximal-state structural residual has been established.
+Forbidden source: attaching a new label to the original anomalous morphology.
+Open / unresolved: absence of a candidate leaves closure suspended while the residual persists.
+Claim consequence: a positive candidate is required for FR₆ CANDIDATE.
+The anomaly itself is not K*.
+K* must identify a proposed missing structural job or irreducible loss surface.
+Candidate-Newness Disposition
+ResidualContract.candidateNewnessState : Disposition
+Scientific owner / source: the scientific adjudication of the candidate-newness audit as OPEN, VIOLATED, or DISCHARGED.
+Population time: after FR6Candidate is opened and while the positive newness audit is resolved.
+Forbidden source: machine convenience used to convert an incomplete audit into PASS or FAIL.
+Open / unresolved:
+Disposition.open keeps the candidate under audit.
+When no stronger result has been earned, this supports FR₆ CANDIDATE as the final residual report.
+Claim consequence:
+Disposition.violated means the proposed candidate failed its newness burden.
+That does not automatically mean the underlying residual disappeared.
+Closure either remains suspended or is restored only if a known-capacity reduction actually resolves the witness.
+Disposition.discharged is necessary for FR₆ EARNED, but it is not sufficient by itself.
+Positive Newness Burdens
+The adapter carries the following candidate burdens:
+* ResidualContract.distinctPhysicalJob;
+* ResidualContract.physicalCarrierIdentified;
+* ResidualContract.passTestAvailable;
+* ResidualContract.failTestAvailable;
+* ResidualContract.predecessorRelationsPinned;
+* ResidualContract.downstreamCapabilityDepends;
+* and ResidualContract.necessityEstablished.
+Scientific owner / source: the foundational-newness audit owned by the anchor.
+Population time: after FR₆ candidate entry.
+Forbidden source: semantic renaming, descriptive novelty, or correlation alone.
+Open / unresolved: an incomplete burden blocks FR₆ EARNED.
+Claim consequence: these fields form positive components of NewnessAuditComplete.
+A new capacity is not earned because it has a new name.
+It must do a distinct job.
+It must have a physical carrier.
+It must have PASS and FAIL tests.
+Its predecessor relations must be identifiable.
+A downstream capability must genuinely depend on it.
+And its necessity must be established rather than merely correlated with successful routes.
+Intervention Burden
+The intervention surface uses:
+* ResidualContract.interventionAvailabilityAdjudicated;
+* ResidualContract.interventionAvailable;
+* ResidualContract.removalTestPassed;
+* and ResidualContract.restorationTestPassed.
+Scientific owner / source: the predeclared intervention-availability rule and physical intervention evidence where intervention is available.
+Population time: foundational-newness audit.
+Forbidden source: a post-hoc claim of unavailability used as a waiver, or a default PASS assigned to an intervention that was never performed.
+Open / unresolved: unadjudicated availability blocks FR₆ EARNED.
+Where intervention is physically available, both removal and restoration tests must pass.
+Claim consequence: these fields encode the conditional intervention burden.
+Unavailability does not count as failure.
+It also does not erase the other newness burdens.
+Reduction to Known Structure
+ResidualContract.reducesToKnownFive
+ResidualContract.functionallyEquivalentToKnown
+Scientific owner / source: the reduction audit against P₀, Pₗ, B, C, A and against ordinary functional redescription.
+Population time: foundational-newness audit.
+Forbidden source: treating a new name or surface-form difference as evidence of structural novelty.
+Open / unresolved: unresolved reduction or functional equivalence must not be populated as False simply because False allows the candidate to advance.
+Claim consequence: either field being True blocks FR₆ EARNED.
+A positive reduction may also participate in closure restoration—but only through the separate witness-resolution adjudication described below.
+Does the Known Reduction Actually Resolve the Witness?
+ResidualContract.knownCapacityReductionResolvesWitness
+Scientific owner / source: the domain-owned scientific adjudication that the identified known-capacity reduction or functional equivalence actually resolves the maximal-state residual witness.
+Population time: after a candidate is found to reduce to known structure or functional equivalence.
+Forbidden source: assuming that rejection of the candidate automatically restores closure.
+Open / unresolved: if the candidate fails but the witness remains unresolved, closure remains suspended.
+Claim consequence: together with:
+* FR6Candidate;
+* candidateNewnessState = Disposition.violated;
+* and established reduction to or equivalence with known structure,
+a True value licenses:
+KnownCapacityReductionResolved
+and the closure status:
+restoredAtTestedScope
+This distinction is load-bearing.
+Candidate rejected ≠ witness resolved.
+The known explanation must actually account for the residual that created the suspension.
+Irreducibility, Replication, and Independent Reproduction
+The final positive newness burdens include:
+* ResidualContract.uniqueRemovalOrIrreducible;
+* ResidualContract.completeResultReplicated;
+* and ResidualContract.independentlyReproduced.
+Scientific owner / source: the irreducibility audit, complete-result replication, and independent procedural reproduction under the frozen rules.
+Population time: the final positive newness audit.
+Forbidden source: the original witness alone, or a continuous severity difference presented as a new irreducible loss surface.
+Open / unresolved: failure or incompletion blocks FR₆ EARNED.
+Claim consequence: these are final positive components of NewnessAuditComplete.
+Milestone Certificates
+ResidualMilestoneCertificate.milestone / licensed
+Scientific owner / source: a diagnostic request over ResidualResultEvidence.
+Population time: during residual and newness adjudication.
+Forbidden source: using a milestone certificate as the primary final report when a stronger state is active.
+Open / unresolved: the certificate is unavailable if the requested milestone itself has not been established.
+Claim consequence: proves only that the milestone was reached.
+It does not settle the strongest supported residual state.
+This matters because the residual predicates are cumulative.
+A record that eventually reaches FR₆ EARNED has necessarily passed through earlier milestones.
+Those earlier truths remain diagnostically useful.
+They do not remain valid as the primary final report.
+Final Residual Reporting Certificate
+ResidualReportingCertificate.result / licensed
+Scientific owner / source: the final or primary residual result proved through PrimaryResidualResultEvidence.
+Population time: when the residual record is ready for scientific reporting.
+Forbidden source: free selection of a weaker cumulative milestone.
+Open / unresolved: the final certificate is unavailable until one strongest-supported constructor is lawfully satisfied.
+Claim consequence: reportingClosureStatus maps the final residual result to:
+* unchanged;
+* suspended;
+* restoredAtTestedScope;
+* or reopenedAtTestedScope.
+Residual / Reopening Machine Interface
+Operator Purpose
+The residual interface is the experiment’s escalation firewall.
+Its job is to prevent the transition:
+unusual target → new foundational regime
+from skipping the ordinary explanatory and scientific burdens between those two claims.
+The full route is deliberately longer:
+observable novelty
+→ ordinary-explanation recheck
+→ primary route handoff
+→ SRW candidate
+→ replication
+→ state-completeness audit
+→ maximal-state residual
+→ closure suspension
+→ positive K* candidate
+→ newness / reduction / intervention / irreducibility audit
+→ restoration or FR₆
+A known branch result, ordinary nuisance explanation, known mixture, measurement limitation, search failure, invalid physicalization, secondary-scale route, or known first break cannot become foundational novelty merely because it is passed into the residual namespace.
+ResidualContract and ResidualEntryReady
+ResidualContract carries the populated BranchContract plus the residual and foundational-newness state.
+ResidualEntryReady requires every required ResidualBurden to be discharged.
+Those burdens establish that the novelty and newness decision machinery was frozen before it was used to promote an anomaly.
+An open or violated residual burden blocks the stronger route that depends upon it.
+The operator must not turn an incomplete protocol into evidence for novelty.
+NovelObservablePressure
+NovelObservablePressure requires:
+* ResidualEntryReady;
+* and ruAboveThreshold.
+Its scientific reading is narrow:
+the frozen observable / model library left Rᵤ > εᵤ under the supplied scientific adjudication.
+It does not establish:
+* a route failure;
+* E;
+* exclusion of known first breaks;
+* an SRW;
+* closure suspension;
+* or FR₆.
+Scientific states such as NOVELTY DISCRIMINATION UNDERPOWERED remain anchor-owned execution states rather than dedicated residual-result constructors.
+If the novelty calibration did not validly authorize the Rᵤ / εᵤ comparison, do not populate the machine novelty gate as though it had.
+SRWCandidate — Strict Branch Handoff
+SRWCandidate requires all three:
+* NovelObservablePressure;
+* nonFoundationalExplanationsCleared;
+* and RouteUnknownHandoff on the inherited BranchContract.
+This is deliberately stronger than merely requiring J_ROUTE failure with no known first break.
+RouteUnknownHandoff carries the full branch-to-residual history:
+* branch setup is ready;
+* search is adequate;
+* physicalization adjudication is ready;
+* Layer-A entry and registration are valid;
+* the route owns the primary scale;
+* E is present;
+* J_ROUTE fails;
+* and no live known first break accounts for the route failure.
+Therefore none of the following can lawfully create an SRW candidate:
+* a secondary-scale route;
+* SEARCH FAILURE;
+* search remaining open;
+* broken branch freeze or setup;
+* open or violated physical/domain entry;
+* absent E;
+* unresolved required condition;
+* or a known first break.
+SRW is not a generic receptacle for whatever the lower branch could not classify.
+ReplicatedSRW
+ReplicatedSRW requires:
+SRWCandidate + successful predeclared replication
+One witness does not suspend closure.
+StateIncompletenessResolved
+A replicated SRW may disappear when the same route is represented through a richer ordinary physical state from the pre-frozen state-completeness ladder.
+When that richer state resolves the witness:
+StateIncompletenessResolved
+is the appropriate machine result.
+This is an ordinary-state resolution.
+It is not foundational failure.
+MaximalStateStructuralResidual
+A maximal-state structural residual requires:
+* replicated SRW;
+* exhaustion of the pre-frozen state-completeness ladder;
+* no richer admitted ordinary state resolving the witness;
+* and persistence of the residual at the maximally warranted state.
+If a richer ordinary state resolves the witness, the operator must stop there.
+The residual may not continue toward suspension merely because the earlier anomaly was interesting.
+ClosureSuspended
+ClosureSuspended is the maximal-state structural residual state at R_PRIMARY.
+Suspension is an active reporting restriction.
+While suspension remains unresolved:
+the five-regime closure may not be reported as having survived at the tested scope.
+Suspension is also not FR₆ EARNED.
+The correct state may remain:
+CLOSURE SUSPENDED
+for as long as the witness remains real and unresolved.
+FR6Candidate
+FR6Candidate requires:
+* ClosureSuspended;
+* and a positive candidate proposal.
+The positive candidate may be:
+* a proposed new capacity K*;
+* or a proposed new irreducible loss surface.
+The candidate’s later status is carried separately by candidateNewnessState.
+Candidate-Newness Outcomes
+Candidate remains OPEN
+candidateNewnessState = Disposition.open
+The candidate remains under newness adjudication.
+When no stronger result is earned, FR₆ CANDIDATE remains the final residual report.
+Candidate is VIOLATED
+candidateNewnessState = Disposition.violated
+The proposed candidate has failed its newness burden.
+That does not answer whether the original maximal-state residual has disappeared.
+Two paths remain possible:
+candidate rejected + witness unresolved → CLOSURE SUSPENDED
+or:
+candidate rejected + known reduction actually resolves witness → restoredAtTestedScope
+Candidate is DISCHARGED
+candidateNewnessState = Disposition.discharged
+The candidate-newness disposition has been positively satisfied.
+This is required for FR₆ EARNED, but the complete positive newness audit must also close.
+Known-Capacity Reduction and Restoration
+A failed candidate restores closure only when all of the following are true:
+* FR₆ CANDIDATE had been opened;
+* candidateNewnessState = Disposition.violated;
+* the candidate reduces to the known five or is functionally equivalent to known structure;
+* and the domain-owned scientific adjudication establishes that the reduction actually resolves the residual witness.
+That final requirement is carried by:
+knownCapacityReductionResolvesWitness
+If the candidate reduces but the witness remains unexplained, closure remains suspended.
+If the reduction resolves the witness, the result becomes:
+KnownCapacityReductionResolved
+and the closure status becomes:
+restoredAtTestedScope
+This status preserves the scientific history:
+closure was genuinely pressured → closure was suspended → the residual was later absorbed by known structure.
+It is not equivalent to a route whose closure was never pressured.
+Intervention Availability
+InterventionBurdenSatisfied first requires intervention availability to have been scientifically adjudicated.
+If intervention is physically available, both:
+* removal;
+* and restoration
+must pass under the frozen rule.
+If intervention is physically unavailable, the machine does not invent a failed intervention.
+But unavailability does not waive the remaining newness burdens.
+NewnessAuditComplete
+The positive newness audit carries the candidate burdens for:
+* a distinct physical job;
+* an identified physical carrier;
+* available PASS and FAIL tests;
+* pinned predecessor relations;
+* a downstream capability that depends upon the candidate;
+* necessity;
+* intervention where physically available;
+* non-reduction to P₀, Pₗ, B, C, or A;
+* functional non-equivalence to known structure;
+* unique-removal or irreducibility;
+* complete-result replication;
+* and independent procedural reproduction.
+A positive candidate must survive the whole burden.
+FR6Earned
+FR6Earned requires:
+* FR6Candidate;
+* candidateNewnessState = Disposition.discharged;
+* and NewnessAuditComplete.
+Its scientific meaning remains bounded:
+the tested architecture has reopened as incomplete at the demonstrated scope because a necessary irreducible first-break distinction survived the complete newness path.
+It does not:
+* establish a sixth observable morphology;
+* silently generalize beyond the execution;
+* rewrite the entire dark-matter domain;
+* or add a sixth constructor to the Universal Kernel.
+The kernel remains the current five-regime architecture until universal structure is separately adjudicated.
+Milestones Versus Final Reporting
+Residual predicates are cumulative.
+A record that has reached closure suspension has also passed through earlier novelty and SRW states.
+For audit and debugging, the adapter therefore supplies:
+ResidualMilestoneCertificate
+A milestone certificate means:
+this stage was reached.
+It does not necessarily mean:
+this is the strongest state that should now be reported.
+The final reporting surface is:
+ResidualReportingCertificate
+using:
+PrimaryResidualResultEvidence
+The stronger final-report predicates exclude weaker cumulative states whenever a stronger state is simultaneously active.
+This prevents a suspended, restored, or reopened architecture from being reported merely as an earlier SRW or novelty milestone.
+Final Residual Constructors
+The final reporting constructors behave as follows.
+novelObservablePressure
+Observable novelty exists, but SRW has not been established.
+srwCandidate
+An SRW candidate exists, but replication has not been established.
+replicatedSRW
+The SRW has replicated, but neither ordinary-state resolution nor closure suspension has been established.
+stateIncompletenessResolved
+A richer ordinary state resolved the witness.
+closureSuspended
+A replicated maximal-state structural residual persists, and no stronger restoration or reopening result has been earned.
+fr6Candidate
+A positive candidate exists and remains open under the newness audit.
+knownCapacityReductionResolved
+A known-capacity reduction or functional equivalence actually resolved the residual witness.
+fr6Earned
+The complete positive newness burden has been discharged.
+Final Closure-Status Map
+reportingClosureStatus maps the final residual report as follows:
+NOVEL-OBSERVABLE PRESSURE → unchanged
+SRW CANDIDATE → unchanged
+REPLICATED SRW → unchanged
+STATE-INCOMPLETENESS RESOLVED → unchanged
+CLOSURE SUSPENDED → suspended
+FR₆ CANDIDATE → suspended
+KNOWN-CAPACITY REDUCTION RESOLVED → restoredAtTestedScope
+FR₆ EARNED → reopenedAtTestedScope
+ClosureSurvivalReportAllowed is therefore:
+allowed for unchanged
+allowed for restoredAtTestedScope
+not allowed for suspended
+not allowed for reopenedAtTestedScope
+The two allowed histories remain scientifically different.
+unchanged means the tested pressure never produced an unresolved suspension or reopening.
+restoredAtTestedScope means foundational pressure was real, suspension occurred, and the witness was subsequently resolved under known structure.
+That historical distinction must remain visible in program reporting.
+Residual-Interface Exit Rule
+At the end of residual adjudication, record:
+* the strongest available ResidualReportingCertificate;
+* any diagnostic milestone certificates needed for audit, clearly labeled as milestones;
+* the mapped foundational closure status;
+* the scientific evidence and frozen execution identity supporting every populated premise;
+* and the narrowest anchor-owned scientific statement licensed by the final state.
+If no final residual certificate is available, do not choose a convenient earlier result merely to complete the record.
+Instead, locate the actual obstruction:
+* open burden;
+* violated burden;
+* malformed record;
+* unresolved scientific adjudication;
+* or incorrect machine route.
+Then return to the authority that owns that obstruction.
+Program-Level Population
+Program-level reporting begins only after branch-level records exist.
+The program surface does not create a new scientific result by averaging branches together. Its job is to preserve:
+* the complete registered branch universe;
+* the exact support set frozen for one aggregate claim;
+* branch-local result identity;
+* first-break identity where actually earned;
+* closure history where actually finalized;
+* compatibility among supporting branches;
+* any admitted cross-scale relation;
+* and the distinction between predictive utility and foundational closure.
+The program contract therefore carries both accounting burdens and claim-license burdens.
+Program Object and Claim Content
+ProgramContract.programObject
+ProgramContract.claimContent
+Scientific owner / source: the pre-target declaration of the program-level object and the exact shared content of the intended aggregate claim.
+Population time: program-claim freeze.
+Forbidden source: post-result reformulation broad enough to absorb whatever branches happened to succeed.
+Open / unresolved: both must be declared before ProgramClaimFreezeReady can hold.
+Claim consequence: together they define the exact aggregate scientific statement the machine is being asked to support.
+The machine is therefore not asked:
+Did the program succeed?
+It is asked something narrower:
+Does this exact predeclared support set satisfy the encoded burdens for this exact predeclared program object and claim content?
+Complete Registered Branch Universe
+ProgramContract.registeredBranch
+Scientific owner / source: the complete branch universe registered in the execution freeze.
+Population time: pre-target execution registration.
+Forbidden source: the final list of successful branches.
+Open / unresolved: the registered universe itself must be known before complete accounting can be established.
+Claim consequence: every registered branch remains visible in final program reporting.
+A registered branch does not disappear because it:
+* was never tested;
+* remained unresolved;
+* returned an adverse result;
+* failed to earn U₁;
+* or fell outside one later aggregate claim.
+Registration determines the execution universe.
+It does not guarantee success.
+Frozen Aggregate Support Set
+ProgramContract.claimBranch
+Scientific owner / source: the exact branch support set frozen for one particular aggregate claim.
+Population time: pre-target program-claim freeze.
+Forbidden source: selection of successful branches after target access.
+Open / unresolved: the support set must be frozen before an aggregate certificate can be requested.
+Claim consequence: defines which branch results must jointly satisfy the burdens for that exact claim.
+This creates two different branch sets:
+registered branches — everything the execution committed to carrying;
+claim branches — the exact predeclared subset intended to support one particular aggregate statement.
+A branch can be registered without belonging to a particular aggregate support set.
+But a claim branch must belong to the registered execution universe.
+Final Branch Accounting
+ProgramContract.recordPresent
+ProgramContract.tested
+ProgramContract.u1Earned
+Scientific owner / source: the final execution inventory, branch-execution status, and branch-local U₁ adjudication.
+Population time: program reporting after branch results are available.
+Forbidden source:
+* branch registration treated as though it were completed testing;
+* or a program-level average used to upgrade a branch that did not earn U₁ locally.
+Open / unresolved:
+A missing record blocks CompleteRegisteredAccounting.
+An untested support branch blocks an aggregate claim that requires it to have been tested.
+A support branch that did not earn U₁ blocks an aggregate U₁ license that requires U₁ from every support branch.
+Claim consequence: preserves complete accounting and the branch-local character of the evidence.
+Program aggregation cannot create branch evidence that the branch itself did not earn.
+First-Break Class at Program Level
+ProgramContract.firstBreakClass : BranchId → Option FirstBreakClass
+Scientific owner / source: the branch’s licensed primary first-break class, where one exists.
+Population time: branch-result record.
+Forbidden source:
+* morphology;
+* aggregate inference;
+* or an invented class assigned merely because program-level comparison needs one.
+Open / unresolved: use:
+none
+for an unresolved, untested, or otherwise no-result branch.
+Claim consequence: structural cross-regime support requires actual class values.
+StructurallyCrossRegime therefore requires at least two supporting branches with:
+some k₁
+and:
+some k₂
+such that:
+k₁ ≠ k₂
+A branch with firstBreakClass = none cannot be silently used as one side of the cross-regime distinction.
+Closure Status at Program Level
+ProgramContract.closureStatusAt : BranchId → Option FoundationalClosureStatus
+Scientific owner / source: the final branch or scope closure status derived from the strongest residual report where such a closure result exists.
+Population time: final branch/result record.
+Forbidden source:
+* U₁ success treated as closure survival;
+* absence of a suspension proof treated as unchanged;
+* or an invented closure status assigned to an untested or unresolved branch.
+Open / unresolved: use:
+none
+where no earned final closure status exists.
+Claim consequence:
+* none blocks program closure-survival licensing;
+* suspended blocks it;
+* reopenedAtTestedScope blocks it;
+* unchanged may support it if the additional pressure and finalization burdens are satisfied;
+* restoredAtTestedScope may also support it if those burdens are satisfied.
+The use of Option is deliberate.
+No result is a valid machine state.
+The operator must not invent a positive state simply to make the program record total.
+Was Closure Actually Put Under Pressure?
+ProgramContract.closureTestPlacedUnderPressure
+Scientific owner / source: the scientific record showing that the five-regime closure test was actually exposed to the relevant registered foundational pressure.
+Population time: final branch or result record.
+Forbidden source: ordinary branch testing or ordinary branch success treated as though foundational closure had been challenged.
+Open / unresolved: False blocks ProgramClosureSurvivalLicensed.
+Claim consequence: prevents a closure surface that was never tested from being reported as having survived.
+This distinction is essential.
+A branch can succeed through:
+* source prediction;
+* light prediction;
+* measurement;
+* and U₁ comparison
+without ever placing foundational closure under residual pressure.
+That branch may support a utility result.
+It does not thereby establish that the five-regime architecture survived a foundational challenge.
+Is the Closure Status Final Enough to Aggregate?
+ProgramContract.closureStatusFinalized
+Scientific owner / source: the scientific adjudication that the branch’s closure status is final enough for the requested program-level report.
+Population time: after the relevant residual and newness pathway is complete for that reporting purpose.
+Forbidden source: a temporary intermediate state treated as final because the program needs a reportable value.
+Open / unresolved: False blocks ProgramClosureSurvivalLicensed.
+Claim consequence: prevents a provisional closure state from supporting a final survival claim.
+A machine-populated closure state therefore needs two independent reporting warrants:
+the closure test was genuinely placed under pressure
+and:
+the resulting closure status is finalized for this reporting purpose
+Program-Object and Compatibility Checks
+The program contract also carries:
+* ProgramContract.matchesDeclaredProgramObject;
+* ProgramContract.matchesDeclaredClaimContent;
+* ProgramContract.mutuallyCompatible;
+* and ProgramContract.scaleRelationAdmitted.
+Scientific owner / source: domain-owned final checks under the pre-frozen program object, claim content, compatibility rule, and cross-scale rule.
+Population time: program reporting.
+Forbidden source: post-result redefinition, harmonization, or retrospective compatibility.
+Open / unresolved: any mismatch, incompatibility, or unadmitted scale relation blocks the aggregate claim.
+Claim consequence: preserves one exact program object and one exact shared claim content across the support set.
+Different branch results may all be scientifically valid while still being incompatible with one another for purposes of one aggregate claim.
+Program aggregation is therefore not a vote-counting exercise.
+Program-Claim Freeze Burdens
+The following fields record whether the intended aggregate claim was frozen before target access:
+* ProgramContract.programObjectDeclaredPreTarget;
+* ProgramContract.claimContentDeclaredPreTarget;
+* ProgramContract.claimBranchSetFrozenPreTarget;
+* ProgramContract.compatibilityRuleFrozenPreTarget;
+* and ProgramContract.scaleRelationRuleFrozenPreTarget.
+Scientific owner / source: the freeze bundle for the intended program claim.
+Population time: before target access.
+Forbidden source: a reconstructed “freeze” assembled after the outcomes are known.
+Open / unresolved: any missing pre-target burden blocks ProgramClaimFreezeReady.
+Claim consequence: together these fields create the program-level anti-cherry-picking surface.
+The aggregate claim therefore has to exist in recognizable form before the data reveal which branch combination would be most favorable.
+Program-Level Aggregation and Reporting
+Operator Purpose
+Program aggregation must preserve:
+* branch identity;
+* frozen claim scope;
+* structural class identity where earned;
+* scale relations;
+* complete accounting;
+* and final closure history.
+Its job is not to create one global score for the experiment.
+Four distinct questions remain separate:
+1. What happened in every registered branch?
+2. Which branches actually earned the states needed by a particular aggregate claim?
+3. Does the exact frozen aggregate U₁ claim satisfy its machine burdens?
+4. Was foundational closure actually pressured and finally adjudicated strongly enough to support a bounded survival statement?
+Registered Branches and Claim Branches
+ProgramContract contains two different branch predicates.
+registeredBranch
+This is the complete execution universe.
+claimBranch
+This is the exact pre-target support set for one particular aggregate claim.
+A branch may be registered without belonging to the support set for a particular claim.
+But every claim branch must come from the registered universe.
+No registered branch may disappear from final accounting merely because it was:
+* adverse;
+* unresolved;
+* untested;
+* or inconvenient to the final narrative.
+ProgramClaimFreezeReady
+ProgramClaimFreezeReady packages five pre-target commitments:
+* the program object was declared;
+* the exact claim content was declared;
+* the claim-support branch set was frozen;
+* the compatibility rule was frozen;
+* and the cross-scale relation rule was frozen.
+This is the machine-facing expression of the program’s anti-cherry-picking commitment.
+A later aggregate claim cannot lawfully redefine:
+* what the program object was;
+* what common content the branches were supposed to support;
+* which branches counted;
+* what “compatible” meant;
+* or how distinct R_PRIMARY scales were allowed to relate.
+CompleteRegisteredAccounting
+CompleteRegisteredAccounting requires a final record for every registered branch.
+This includes branches that:
+* were never ultimately tested;
+* remained unresolved;
+* returned adverse results;
+* did not earn U₁;
+* or did not belong to the support set for one aggregate claim.
+Complete accounting does not mean complete success.
+It means nothing registered is silently erased.
+Cross-Regime U₁ Support
+CrossRegimeUtilityClaimLicensed
+The cross-regime utility certificate requires:
+* ProgramClaimFreezeReady;
+* complete registered accounting;
+* the support set to lie within the registered universe;
+* every support branch to have been tested;
+* every support branch to have earned branch-scoped U₁;
+* every support branch to match the declared program object;
+* every support branch to match the exact shared claim content;
+* mutual compatibility among the support branches;
+* an admitted relation among any distinct R_PRIMARY scales;
+* and at least two support branches with actual, earned, distinct first-break classes.
+The final requirement means the machine needs real class values:
+some k₁
+and:
+some k₂
+with:
+k₁ ≠ k₂
+A branch whose firstBreakClass = none cannot be used to manufacture cross-regime diversity.
+What the Cross-Regime U₁ Certificate Means
+CrossRegimeUtilityClaimLicensed means:
+the exact pre-frozen support set satisfies the encoded program-level burdens for the exact declared aggregate U₁ claim.
+It does not mean:
+* every registered branch succeeded;
+* every Failure Regime was tested;
+* the five-regime architecture is foundationally complete;
+* closure survived;
+* or the program achieved some unscoped global validation.
+The certificate is bounded by:
+programObject + claimContent + claimBranch
+Program Closure-Survival License
+ProgramClosureSurvivalLicensed
+Program-level closure survival is a separate machine question.
+It requires:
+* ProgramClaimFreezeReady;
+* complete registered accounting;
+* the support set to lie within the registered universe;
+* every support branch to have been tested;
+* the foundational closure test to have actually been placed under pressure for every support branch;
+* the resulting closure status to have been finalized for every support branch;
+* and every support branch to have a final closure status of either:
+some unchanged
+or:
+some restoredAtTestedScope
+The certificate is blocked by:
+none
+some suspended
+or:
+some reopenedAtTestedScope
+Why Actual Pressure Is Required
+The burden:
+closureTestPlacedUnderPressure
+is load-bearing.
+A branch whose foundational closure was never challenged cannot support the statement:
+closure survived the test.
+Even if every ordinary branch prediction succeeded, foundational survival remains untested unless the residual pathway actually placed the five-regime architecture under the relevant pressure.
+The machine therefore refuses to equate:
+ordinary success
+with:
+foundational survival
+Why Finalization Is Required
+The burden:
+closureStatusFinalized
+is equally important.
+A temporary closure state may occur during an active residual or newness investigation.
+Program reporting must not freeze that temporary state into a final aggregate statement merely because aggregation is being performed at that moment.
+A final program survival claim therefore requires both:
+pressure occurred
+and:
+the resulting closure status is final enough for the requested report
+Two Lawful Survival Histories
+The program certificate permits two final statuses.
+unchanged
+The architecture was placed under the relevant tested pressure and did not enter an unresolved suspension or reopening state.
+restoredAtTestedScope
+The architecture was genuinely pressured and suspended, but a later known-capacity reduction or functional equivalence actually resolved the witness.
+Both may support a bounded survival report.
+But their histories are different.
+The program record must preserve that difference.
+A restored architecture should not be rewritten as though it had never been pressured.
+Utility and Closure Are Separate Licenses
+A program may possess:
+CrossRegimeUtilityClaimLicensed
+while lacking:
+ProgramClosureSurvivalLicensed
+The reverse can also occur.
+The two certificates answer different scientific questions.
+U₁ question
+Did the SF-organized prediction add incremental predictive utility against O₂ under the frozen criterion?
+Closure question
+After actual foundational pressure and finalized adjudication, did the five-regime architecture remain intact or become restored rather than remaining suspended or reopening at the tested scope?
+Neither certificate substitutes for the other.
+In particular:
+Cross-regime U₁ success ≠ closure survival
+and:
+closure survival ≠ incremental U₁
+Anti-Cherry-Picking Example
+Suppose an execution registers three schematic branches:
+A, B, C
+Before target access, one aggregate utility claim freezes the support set:
+{A, B}
+After execution:
+* A earns U₁;
+* B does not earn U₁;
+* C earns U₁.
+The final record must retain all three branches.
+A and C remain scientifically reportable at branch level.
+But C cannot replace B inside the pre-frozen aggregate support set merely because C succeeded.
+The intended aggregate claim:
+{A, B}
+is unavailable.
+A later program may prospectively register a new claim using a different support set.
+It may not rewrite the earlier freeze.
+Closure Example — No Foundational Pressure
+Suppose Branch A was tested through:
+* source prediction;
+* light prediction;
+* measurement;
+* and utility comparison.
+But its foundational closure surface was never actually placed under residual pressure.
+Then:
+closureTestPlacedUnderPressure A = False
+ProgramClosureSurvivalLicensed is blocked.
+This remains true even if the record were mistakenly populated with:
+closureStatusAt A = some unchanged
+The proper response is to repair the scientific/machine record.
+Do not infer survival from the absence of foundational pressure.
+Closure Example — Restored
+Suppose Branch B reached:
+CLOSURE SUSPENDED
+under genuine foundational pressure.
+A later known-capacity reduction then actually resolved the witness.
+Its final closure state is:
+some restoredAtTestedScope
+If:
+* the closure test was genuinely under pressure;
+* the status is finalized;
+* and the remaining program burdens are satisfied,
+that branch may support the bounded program survival certificate.
+The record must still preserve that suspension occurred before restoration.
+Closure Example — Unresolved
+Suppose Branch C has no finalized closure result.
+Then either:
+closureStatusAt C = none
+or:
+closureStatusFinalized C = False
+or both.
+Branch C cannot support a final program closure-survival statement.
+The machine does not convert unresolved closure into unchanged.
+Program-Interface Exit Rule
+Program reporting should preserve four distinct outputs.
+Complete branch accounting
+What happened in every registered branch?
+Earned branch identities
+Which branches have earned first-break and closure values, and which properly remain none?
+Aggregate utility license
+Is the exact pre-frozen aggregate U₁ claim licensed for its declared program object, content, and support set?
+Foundational closure license
+Was closure actually placed under pressure, finally adjudicated, and licensed as unchanged or restoredAtTestedScope across the requested support surface?
+These questions must not be collapsed into one global:
+PASS
+or:
+FAIL
+A program can contain multiple scientifically meaningful outcomes simultaneously.
+The machine architecture preserves their locations rather than averaging them away.
+Certificate Interpretation
+General Rule
+A machine certificate is a typed proof carrier for one encoded conditional consequence.
+It must always be interpreted together with:
+* the exact populated execution record;
+* the scientific evidence that supplied that record;
+* the scope and identity of the route, branch, residual, or program object;
+* and the claim ceiling owned by the scientific anchor.
+A machine-clean certificate does not validate incorrectly populated empirical premises.
+For every certificate, the operator should ask four questions.
+What exact record is this certificate bound to?
+What proposition does it prove?
+Is the certificate diagnostic, or is it the final reportable machine state?
+What scientific statement does the anchor license from that proposition?
+The certificate never answers the fourth question by itself.
+Certificate Ceilings
+FirstBreakCertificate
+This certificate licenses one named route-level first break.
+It does not establish primary-scale ownership unless that burden is separately present.
+It does not say that the entire physical object “is” Dissolution, Shear, Drift, Echo, or Lock.
+Its scope remains the registered route.
+PrimaryFirstBreakCertificate
+This certificate licenses the named route-level first break at the registered primary confirmatory scale.
+It therefore includes the R_PRIMARY ownership required for the confirmatory first-break result.
+It still remains route-scoped rather than whole-object scoped.
+ResultCertificate
+This certificate licenses one ordered Layer-B branch result.
+Its result belongs to the chain:
+SEARCH
+→ PHYSICALIZATION
+→ SOURCE BRIDGE
+→ LIGHT BRIDGE
+→ MEASUREMENT
+→ O₂ / U₁
+No Layer-B ResultCertificate suspends or reopens foundational closure.
+That remains true even when the result is U₁ EARNED.
+ResidualMilestoneCertificate
+This is a diagnostic certificate.
+It proves that one residual milestone was reached.
+Because the residual pathway is cumulative, earlier milestones may remain true after a stronger state has been reached.
+A milestone certificate must therefore never be used to under-report a stronger active final state.
+For example:
+SRW reached
+may remain historically true after:
+CLOSURE SUSPENDED
+has become the correct final state.
+The milestone remains useful for audit.
+It no longer owns the primary report.
+ResidualReportingCertificate
+This is the final residual / foundational-newness reporting surface.
+Read its result together with:
+reportingClosureStatus
+The final mapped closure state can be:
+unchanged
+suspended
+restoredAtTestedScope
+or:
+reopenedAtTestedScope
+This certificate is specifically designed to prevent a stronger active residual state from being hidden behind an earlier cumulative milestone.
+CrossRegimeUtilityClaimLicensed
+This certificate licenses only the exact frozen aggregate U₁ claim identified by:
+programObject + claimContent + claimBranch
+It does not establish a general program success claim.
+It does not establish foundational closure survival.
+It does not permit substitution of successful branches after target access.
+ProgramClosureSurvivalLicensed
+This certificate licenses only the bounded closure-survival report for the frozen support surface.
+It requires:
+actual foundational pressure
+plus:
+finalized closure adjudication
+plus final allowed closure states across the relevant support set.
+It preserves the difference between:
+unchanged
+and:
+restoredAtTestedScope
+A restored result is not rewritten as though suspension never occurred.
+Absence of a Certificate
+The absence of a requested certificate has no single scientific meaning.
+A missing proof may indicate:
+* an open scientific burden;
+* a violated burden;
+* malformed or inconsistent population;
+* a requested claim stronger than the record supports;
+* use of the wrong machine route;
+* a scientific state that is intentionally anchor-owned rather than represented as a Lean conclusion;
+* or a formal engineering defect.
+The operator must diagnose which case applies before drawing any scientific conclusion.
+No proof does not automatically mean scientific failure.
+Likewise, inability to obtain one strong certificate may coexist with a narrower valid scientific result.
+Machine-Coverage Boundary
+The adapter intentionally does not duplicate every anchor-owned scientific state as a theorem constructor.
+Examples of states that may remain primarily in the scientific execution record include:
+* DCR provenance;
+* known-mixture states;
+* purity states;
+* coalescence states;
+* underpowered calibration states;
+* some freeze and execution records;
+* later class-transfer states;
+* and other anchor-owned bookkeeping or scientific dispositions that do not require their own theorem conclusion.
+Their absence from a Lean result datatype does not remove them from the protocol.
+The machine surface is selective by design.
+Its purpose is to formalize claim transitions and firewalls where formal enforcement is useful—not to reproduce the entire scientific taxonomy for symmetry.
+This boundary remains acceptable only while an omitted state cannot create a machine-significant shortcut.
+If a later audit shows that an omitted scientific distinction must become machine-visible in order to preserve a claim boundary, that finding creates adapter pressure.
+Until then, the scientific anchor remains authoritative over those states.
+Interpretation Formula
+The governing interpretation rule is:
+SCIENTIFICALLY VALID, FAITHFULLY POPULATED RECORD
++
+RELEVANT MACHINE CERTIFICATE
+→
+ANCHOR-LICENSED SCIENTIFIC RESULT
+Never:
+MACHINE CERTIFICATE → EMPIRICAL TRUTH
+Firewalls and Forbidden Shortcuts
+The released adapter is designed to prevent or expose the following invalid moves.
+1. NOT-LIVE treated as FAIL.
+A condition that the registered route does not require is not a failed condition.
+2. NOT-LIVE treated as PASS.
+Lack of liveness does not constitute successful performance of the condition.
+3. UNRESOLVED treated as FAIL.
+Insufficient adjudication is not positive failure.
+4. UNRESOLVED treated as PASS.
+Insufficient adjudication is not positive success.
+5. Downstream liveness bypassing a NOT-LIVE predecessor.
+A later structural condition cannot remain live when its required predecessor has been declared not live.
+6. A later failure overriding first-break prerequisite order.
+The first live failure owns the first-break classification. A later failure does not replace it.
+7. J_ROUTE FAIL treated as a named first break without class evidence.
+Route failure is necessary for a named first break, but is not sufficient.
+8. PASS treated as a sixth Failure Regime.
+PASS is the non-failure control state, not an additional failure class.
+9. A secondary scale replacing the primary confirmatory result after target access.
+Secondary scales remain diagnostic unless prospectively registered as primary in a later execution.
+10. Morphology or held-out probe evidence used to manufacture intrinsic class assignment.
+Failure-Regime classification must remain upstream of the probe result used to test it.
+11. SEARCH FAILURE treated as evidence against the branch prediction itself.
+Failure to place the branch under pressure is not failure of the branch hypothesis.
+12. PHYSICALIZATION, SOURCE, LIGHT, MEASUREMENT, or O₂ failure treated as foundational novelty.
+Each failure remains at the narrowest layer actually contradicted.
+13. U₁ EARNED treated as proof that five-regime closure survived.
+Incremental predictive utility and foundational closure answer different questions.
+14. Novel observable pressure promoted directly to SRW.
+Rᵤ > εᵤ opens novelty pressure, not a structural residual witness.
+15. SRW entered without the full RouteUnknownHandoff.
+The route must preserve:
+clean branch setup + adequate search + valid entry / registration + primary scale + E + route failure + no known first break
+before SRW entry is licensed.
+16. SRW promoted directly to FR₆.
+The replication, state-completeness, suspension, candidate, and newness burdens cannot be skipped.
+17. An unreplicated SRW suspending closure.
+One structural residual witness is insufficient for foundational suspension.
+18. An incomplete state-completeness ladder suspending closure.
+Closure suspension requires the pre-frozen ordinary-state ladder to have been exhausted.
+19. Richer-state resolution ignored in order to preserve novelty.
+If a richer admitted ordinary state resolves the witness, the correct result is state-incompleteness resolution.
+20. Candidate rejection treated automatically as witness resolution.
+A failed K* candidate can leave the underlying residual completely unresolved.
+21. Known-capacity reduction treated as closure restoration without scientific confirmation that the witness was actually resolved.
+Reduction alone does not restore closure.
+The residual itself must be accounted for.
+22. Intervention unavailability used as a post-hoc waiver.
+Intervention availability must be adjudicated under the predeclared rule, not invoked opportunistically after the result.
+23. Reduction to a known capacity ignored because the candidate has a new name.
+Terminological novelty does not establish structural novelty.
+24. Functional equivalence ignored because the parameterization differs.
+A changed mathematical or descriptive representation does not create a new structural job if the candidate is functionally equivalent to known structure.
+25. A diagnostic ResidualMilestoneCertificate used to under-report an active stronger final residual state.
+Milestones preserve history.
+They do not override the strongest supported final report.
+26. CLOSURE SUSPENDED reported as closure survived.
+Suspension is an active restriction on a survival claim.
+27. reopenedAtTestedScope reported as closure survived.
+Reopening is not survival.
+28. An unresolved or untested branch assigned an invented first-break class instead of none.
+Missing class information must remain missing.
+29. An unresolved or untested branch assigned an invented closure status instead of none.
+No closure result is not equivalent to unchanged.
+30. A closure-survival claim made where the foundational closure test was never actually placed under pressure.
+Ordinary branch testing is not automatically foundational testing.
+31. A provisional or unfinalized closure status used in a final program survival claim.
+Program closure reporting requires finalized status.
+32. A missing registered branch silently dropped from the final program record.
+Complete accounting includes adverse, unresolved, and untested registered branches.
+33. Successful branches selected after target access to manufacture a cross-regime U₁ claim.
+The support set is frozen prospectively.
+Later success cannot rewrite it.
+34. Incompatible branches averaged into one global score.
+Branch validity does not imply compatibility for one aggregate claim.
+35. U₁ aggregation used to override foundational closure status.
+Predictive utility cannot erase a suspended or reopened foundational state.
+36. Lean elaboration success treated as empirical validation.
+A clean compile establishes that the encoded formal object elaborates and the proofs check.
+It does not establish that the scientific premises are true of nature.
+Firewall Compression
+The entire firewall set can be compressed into five operator rules.
+Preserve scientific state distinctions exactly.
+PASS, FAIL, NOT-LIVE, UNRESOLVED, OPEN, VIOLATED, and DISCHARGED perform different jobs.
+Preserve causal and adjudicative order.
+Do not let downstream observations rewrite upstream registration, classification, or freeze state.
+Escalate only through the licensed handoff.
+Ordinary failure does not become structural novelty, novelty does not become SRW, SRW does not become suspension, and suspension does not become FR₆ without the intervening burdens.
+Preserve negative and unresolved evidence.
+Do not invent classes, closure states, branch success, or scientific completeness where the execution did not earn them.
+Keep machine consequence below scientific authority.
+Lean checks the conditional structure supplied to it.
+It does not supply the empirical premises.
+Troubleshooting and Failed-Proof Interpretation
+Troubleshooting Rule
+When a requested proof or certificate is unavailable, diagnose the lowest layer that explains the failure.
+Do not change the science merely because a Lean goal is inconvenient.
+Do not strengthen Lean assumptions merely because the desired scientific conclusion is attractive.
+The default diagnostic order is:
+1. check the exact package and load identity;
+2. check the record identity and scope;
+3. check required burdens and their dispositions;
+4. check scientific predecessor states;
+5. check whether the requested theorem is actually the correct machine route for the scientific result;
+6. only then treat the issue as a formalization defect.
+The general rule is:
+A blocked proof is evidence of a blocked proof until the scientific or semantic reason for that blockage has been established.
+It is not automatically a failed experiment.
+Open Burden
+Meaning
+A required scientific adjudication or setup burden remains unresolved.
+Machine Effect
+Ready predicates such as:
+* EntryReady;
+* BranchSetupReady;
+* ResidualEntryReady;
+* or ProgramClaimFreezeReady
+cannot be constructed where a required burden must be discharged.
+Operator Action
+Return to the anchor-owned protocol and execution record.
+Preserve the open state.
+Do not manufacture:
+Disposition.discharged
+inside Lean.
+Schematic Example
+The O₂ comparator was not fully frozen before target access.
+The branch may still contain scientifically interesting physical output.
+But the machine route requiring:
+ordinaryComparatorFrozen
+is unavailable for confirmatory U₁ adjudication.
+The correct result is not to pretend the freeze existed.
+Violated Entry or Setup Burden
+Meaning
+A required condition for the requested confirmatory route positively failed.
+Machine Effect
+The corresponding ready predicate is unavailable.
+Operator Action
+Report at the narrowest scientific layer owned by the anchor.
+Do not escalate downstream.
+Do not recode a violated burden as open merely to avoid the consequence.
+Schematic Example
+The held-out probe was inspected before classification freeze.
+Therefore:
+heldOutProbeExcluded
+or:
+targetHoldoutIntact
+cannot honestly be discharged.
+The confirmatory machine route is unavailable.
+A later exploratory analysis may still be scientifically useful.
+It does not retroactively repair the original confirmatory freeze.
+Malformed or Inconsistent Record
+Meaning
+The populated record violates:
+* registration consistency;
+* prerequisite-closed liveness;
+* scope binding;
+* or another required scientific relation.
+Machine Effect
+Named classification or later certificates are blocked.
+Operator Action
+Treat the record as inadmissible for that confirmatory route.
+If a legitimate repair exists, perform it under the anchor’s amendment rules.
+Otherwise preserve the invalidity.
+Schematic Example
+Suppose:
+Pₗ = NOT-LIVE
+while:
+B = PASS
+The correct response is not to choose Shear or Drift.
+The liveness declaration itself is inconsistent.
+Requested Class Does Not Match the Prefix
+Meaning
+A known route state exists, but the requested named class is not supported by its predecessor and break evidence.
+Machine Effect
+FirstBreakEvidence for the requested class is unavailable.
+Operator Action
+Ask which class, if any, the actual record licenses.
+Do not let later morphology determine the class.
+Schematic Example
+Suppose:
+P₀ = PASS
+Pₗ = FAIL
+B = FAIL
+The first live break is Shear.
+The later Boundary failure does not promote the route to Drift.
+Known First Break Found During Residual Review
+Meaning
+The known five-regime map accounts for the route failure.
+Machine Effect
+SRWCandidate is blocked because RouteFailureWithoutKnownBreak does not hold.
+Operator Action
+Report the known first-break result.
+The unfamiliar probe appearance may remain scientifically interesting.
+It is not foundational novelty on that route.
+State-Incompleteness Resolved
+Meaning
+A richer pre-frozen ordinary state absorbs the apparent residual into known physics or a known first break.
+Machine Effect
+StateIncompletenessResolved is available.
+MaximalStateStructuralResidual and ClosureSuspended are blocked.
+Operator Action
+Report the resolution.
+Do not ignore the richer-state explanation because novelty was the hoped-for result.
+Closure Suspended but FR₆ Not Earned
+Meaning
+A replicated maximal-state structural residual persists, but no stronger restoration or FR₆-earned state has been established.
+This includes:
+* no positive candidate yet exists;
+* a candidate remains unresolved;
+* or a candidate has failed while the residual witness itself remains unresolved.
+Machine Effect
+The final ResidualReportingCertificate may return:
+closureSuspended
+and:
+ClosureSurvivalReportAllowed = False
+Operator Action
+Preserve:
+CLOSURE SUSPENDED
+Do not report:
+closure survived
+and do not report:
+FR₆ EARNED
+Suspension is a legitimate terminal public state while further scientific work remains outstanding.
+Candidate Fails: Restore or Remain Suspended
+Meaning
+candidateNewnessState is violated.
+But candidate failure and residual-witness resolution remain separate adjudications.
+Restoration Path
+If:
+* the candidate reduces to known structure or functional equivalence;
+* and knownCapacityReductionResolvesWitness = True;
+then the final machine result is:
+KnownCapacityReductionResolved
+and closure becomes:
+restoredAtTestedScope
+Continued-Suspension Path
+If the candidate fails but the witness remains unresolved, the final machine result remains:
+closureSuspended
+Operator Action
+Do not infer restoration merely from non-newness.
+Populate the witness-resolution adjudication from the scientific record.
+Program Aggregation Blocked
+Meaning
+Branch-local results remain reportable, but the requested program claim lacks one or more required aggregation or closure-reporting burdens.
+Common U₁ Causes
+* a registered branch record is missing;
+* a support branch was not actually tested;
+* a support branch did not earn U₁;
+* the program object does not match;
+* the claim content does not match;
+* support branches are incompatible;
+* the required scale relation is not admitted;
+* firstBreakClass = none where a cross-regime distinction is required;
+* or no genuinely cross-regime pair exists.
+Additional Closure-Survival Causes
+* the closure test was not actually placed under pressure;
+* the closure status is not finalized;
+* closureStatusAt = none;
+* closure is suspended;
+* or closure is reopenedAtTestedScope.
+Operator Action
+Preserve the branch-level results.
+Report the aggregate claim as unavailable.
+Do not substitute a successful branch after target access.
+Do not invent missing class or closure values.
+U₁ License Present, Closure License Absent
+Meaning
+The program can satisfy the frozen aggregate predictive-utility claim while at least one relevant branch has suspended or reopened foundational closure.
+Machine Effect
+CrossRegimeUtilityClaimLicensed may exist while:
+ProgramClosureSurvivalLicensed
+remains blocked.
+Operator Action
+Report the two results separately.
+Do not let utility success erase structural pressure.
+Scientific State Has No Dedicated Lean Constructor
+Meaning
+The scientific protocol requires a record state that the adapter represents as:
+* a premise;
+* a blocker;
+* an external execution-schema value;
+* or an anchor-owned scientific result
+rather than as a dedicated Lean conclusion.
+Examples include:
+* DCR provenance;
+* known-mixture states;
+* purity states;
+* coalescence states;
+* purity or novelty discrimination underpowered states;
+* some calibration and freeze records;
+* later class-transfer states;
+* and transfer-underpowered states.
+Operator Action
+Report the state exactly as the anchor requires.
+Do not invent a Lean constructor inside the companion.
+Do not claim the scientific state is unsupported merely because the adapter does not enumerate it.
+Open adapter-pressure adjudication only if the missing machine representation prevents enforcement of a machine-significant claim boundary.
+Do not enlarge the theorem surface merely for taxonomy symmetry.
+Lean Elaboration or Proof Error
+Default Disposition
+MACHINE ONLY until demonstrated otherwise.
+Meaning
+The Lean source may contain:
+* a namespace error;
+* syntax defect;
+* proof defect;
+* import or load-order problem;
+* or type-engineering issue.
+Operator Action
+Repair the formalization first.
+Reopen scientific semantics only if the repair attempt demonstrates that a distinction required by the anchor cannot be represented faithfully.
+A compiler message is not scientific evidence.
+Semantic Mismatch Between Files
+Meaning
+The scientific anchor, adapter, companion, or kernel appears to assign different meanings or claim ceilings to the same public concept.
+Operator Action
+Stop ordinary execution and classify the pressure before repair.
+Possible classifications are:
+COMPANION GAP
+The explanation is wrong or incomplete.
+ANCHOR GAP
+The scientific meaning is genuinely absent or contradictory.
+ADAPTER GAP
+The machine route omits, weakens, or overstates an anchor burden.
+KERNEL PRESSURE
+A required reusable domain-neutral capacity cannot be represented by the current Universal Kernel.
+Repair at the lowest authority level sufficient to answer the demonstrated pressure.
+Troubleshooting Exit Rule
+Never resolve a machine blockage by silently strengthening the premises.
+The scientific record must remain the source of machine facts.
+If the requested claim cannot be proved from the honest record, one of four things follows:
+* a narrower result is correct;
+* the state remains unresolved;
+* the machine route itself requires repair;
+* or upstream semantics genuinely require reconsideration.
+The desired conclusion does not decide which one applies.
+Release and Execution Record
+Two Kinds of Identity
+The package preserves two distinct identity questions.
+Semantic Compatibility
+Does the scientific anchor, adapter, Universal Kernel, and companion agree in machine-relevant meaning?
+Exact Release / Execution Binding
+Which concrete files were packaged or used in one scientific execution?
+These jobs must remain separate.
+Stable semantic references prevent harmless version chasing.
+Exact manifests preserve reproducibility.
+Stable Scientific-Anchor Reference
+The adapter and companion identify the scientific authority by the stable title:
+Five Failure Regimes in Dark-Matter Light Probes: An Open-Source Pre-Result Demonstration Protocol
+and by the rule:
+Use the governing accepted edition supplied with the release package.
+A harmless scientific-anchor version bump does not by itself require a new adapter or companion build.
+Exact Release Binding Belongs in the Manifest
+A release manifest should identify, at minimum:
+* the exact scientific-anchor filename or release identity;
+* the exact Dark-Matter Failure-Regime Adapter / Contract filename;
+* the exact Structural Flow Universal Kernel filename;
+* the exact companion filename;
+* cryptographic hashes where practical;
+* DOI or repository release identity where applicable;
+* Lean or compiler environment where practical;
+* and the package date or release identifier where useful.
+A concrete scientific execution should additionally bind the experiment-owned execution identifiers required by the anchor, including:
+* H_ROOT;
+* target records;
+* freeze records;
+* and other execution identities required by the scientific protocol.
+Package Manifest Identity Is Not H_ROOT
+These two identities perform different jobs.
+Package Manifest
+The package manifest identifies which public artifacts belong together.
+H_ROOT
+H_ROOT identifies the experiment’s pre-target freeze bundle for one concrete scientific execution.
+Do not conflate them.
+A package may be immutably released before any scientific execution exists.
+A later scientific execution may then use that package while producing its own H_ROOT.
+Machine Load Relation
+The public machine files remain separate:
+1. Structural Flow Universal Kernel
+2. Dark-Matter Failure-Regime Adapter / Contract
+For the tested browser concatenation workflow, the compatible Universal Kernel is loaded first and the adapter follows beneath it.
+A packaged implementation may use an equivalent valid import or load relation.
+The release manifest should identify the exact kernel / adapter pair that was machine-checked together.
+The companion is not imported by Lean.
+It is the human execution and interpretation manual for the packaged machine relation.
+Compatibility Across Later Anchor Editions
+Compatibility with later anchor editions follows the semantic—not numerical—rule defined under Package Identity and Compatibility above. Copyediting, citation correction, typography, explanatory expansion, and other non-machine-significant changes do not by themselves require a new adapter. If a later anchor changes a machine-relevant condition, result meaning, prerequisite or liveness relation, burden ownership, routing rule, residual/reopening gate, or program license/blocker, stable-title compatibility ends. Run a new compatibility audit and produce a new adapter build where required.
+Companion Identity
+The companion should normally iterate when:
+* a public machine identifier changes;
+* execution guidance changes materially;
+* interpretation guidance changes materially;
+* an authority boundary requires clarification;
+* a new public machine route must be explained;
+* or a cross-file audit earns a repair.
+The companion need not chase harmless anchor-version bumps that preserve its semantic instructions.
+Internal Scaffolding
+The machine-integration spine and companion-production spine are internal production artifacts by default.
+They should not be presented as governing scientific or machine authorities in the public release unless a separate publication decision explicitly says otherwise.
+The public authority constellation remains:
+scientific anchor
++ adapter / contract
++ Universal Kernel
++ specialist companion
+Release-Readiness Identity Check
+Before package handoff, confirm:
+* the anchor’s stable title is consistent everywhere;
+* exact release identities appear in the manifest rather than being hard-wired into stable semantic prose;
+* adapter and kernel compile as the exact packaged pair;
+* companion public identifiers match the production adapter;
+* no stale candidate or development wording implies a different authority state;
+* and no internal production spine is accidentally presented as governing authority.
+Execution Reporting Rule
+A scientific result should identify both:
+the anchor-defined execution and freeze identity supporting the scientific adjudication
+and:
+the exact public package release used to interpret and machine-check that adjudication
+This permits later package maintenance without retroactively changing the identity of an earlier scientific execution.
+Closing Operator Rules
+The package can be operated faithfully by preserving a small number of discipline rules.
+Physics owns the physical premises.
+The machine layer does not decide what happened in the dark-matter system.
+The scientific anchor owns adjudication and claim meaning.
+The adapter does not rewrite the experiment.
+Populate; do not reinterpret.
+Every machine state must come from an identified scientific source.
+Preserve OPEN, UNRESOLVED, NOT-LIVE, and none.
+Incomplete information is not a defect to be filled with a favorable value.
+Preserve the one-way experimental chain.
+Later evidence cannot rewrite earlier registration or freeze state.
+Use the strongest supported final result.
+Do not hide suspension, restoration, or reopening behind an earlier diagnostic milestone.
+Keep U₁ and foundational closure separate.
+Predictive utility does not answer the foundational completeness question.
+Repair at the lowest sufficient authority level.
+Compiler problems begin as machine problems.
+Explanation problems begin as companion problems.
+Scientific-semantic problems belong to the anchor.
+Only demonstrated reusable domain-neutral insufficiency creates kernel pressure.
+Machine-clean is not physics-confirmed.
+________________
+AI Use Disclosure
+Artificial intelligence tools were used during the development of this work for research assistance, adversarial review, conceptual organization, drafting support, editing, consistency checking, and formalization support. The author directed the research program, determined the package architecture and authority boundaries, evaluated the scientific-to-machine mappings, and takes responsibility for the final content.
